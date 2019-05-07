@@ -1,4 +1,4 @@
-python3 generator.py
+# python3 generator.py
 git add update.sh
 git add addons.xml
 git add addons.xml.md5
