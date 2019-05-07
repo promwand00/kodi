@@ -28,10 +28,7 @@ provider-name="piotrekcrash">
 </extension>
 </addon>
 
-<addon id="plugin.video.toyago"
-version="1.3.0"
-name="ToyaGO"
-provider-name="piotrekcrash">
+<addon id="plugin.video.toyago" name="ToyaGO" version="1.3.1" provider-name="piotrekcrash">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.beautifulsoup4" version="4.3.1"/>
