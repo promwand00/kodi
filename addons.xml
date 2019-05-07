@@ -57,4 +57,24 @@ provider-name="piotrekcrash">
   </news>
 </extension>
 </addon>
+
+<addon id="repository.piotrekcrash" name="piotrekcrash Kodi Add-ons Repository" version="1.0.4" provider-name="piotrekcrash">
+    <extension point="xbmc.addon.repository" name="piotrekcrash Kodi Add-ons Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/piotrekcrash/kodi/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/piotrekcrash/kodi/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/piotrekcrash/kodi/raw/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>piotrekcrash Kodi Repository</summary>
+        <summary lang="pl">Repozytorium piotrekcrash</summary>
+        <summary lang="en">piotrekcrash repository</summary>
+        <description>piotrekcrash repository</description>
+        <disclaimer lang="pl">piotrekcrash repo</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/piotrekcrash/kodi</website>
+        <email></email>
+    </extension>
+</addon>
 </addons>
