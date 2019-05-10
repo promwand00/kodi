@@ -1,3 +1,6 @@
+cd $1
+git pull
+cd ..
 ./generate-zip.sh $1
 python3 generator.py
 git add -u
