@@ -45,8 +45,8 @@
 	<channel id="BBC Cbeebies">
 		<display-name>BBC Cbeebies</display-name>
 	</channel>
-	<channel id="C Music HD">
-		<display-name>C Music HD</display-name>
+	<channel id="FilmBox Extra HD">
+		<display-name>FilmBox Extra HD</display-name>
 	</channel>
 	<channel id="C Music HD">
 		<display-name>C Music HD</display-name>
@@ -4131,11 +4131,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="English Club TV HD" start="20190513080500 +0000" stop="20190513081500 +0000">
-		<title lang="pl">This day in history</title>
-		<desc lang="pl">THIS DAY in history: find out more about the most important events that happened on this day, including politics, science, holidays, art, sports and entertainment.. THIS DAY in history: find out more about the most important events that happened on this day, including politics, science, holidays, art, sports and entertainment.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="English Club TV HD" start="20190513081500 +0000" stop="20190513082500 +0000">
 		<title lang="pl">Spot on the map</title>
 		<desc lang="pl">Spot on the Map is an exciting program about culture, traditions and the history of England.. Join us in exciting excursions around London! You will visit amazing sights and learn about culture, traditions and the history of England. Explore the hidden places you won't find in any tourist guide and improve your listening skills. In this episode: visit Piccadilly Circus in London.</desc>
@@ -5620,36 +5615,6 @@
 		<title lang="pl">Miłosny telefon zaufania</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">komedia</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513080100 +0000" stop="20190513080400 +0000">
-		<title lang="pl">Margo i Felix</title>
-		<desc lang="pl">Ta seria pozwala nam spojrzeć na codzienność dwóch słodkich kukiełek. Mają uroczy dom z ogrodem, w którym wykonują te same prace co rodzice oraz bawią się w dokładnie ten sam sposób, jak nasi mali odbiorcy.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513080400 +0000" stop="20190513080700 +0000">
-		<title lang="pl">Im wyżej tym lepiej!/lub/Daj mi spojrzeć!</title>
-		<desc lang="pl">Dwaj przyjaciele, głupiutka żyrafa Kiteko oraz Umi, zabawna surykatka, obserwują codzienne życie maluchów. Od dzieci uczą się na prawdę wiele: na temat codziennych obowiązków, wycieczek odkrywających nieznane oraz tego jak mieć najlepszą radość z zabawy.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513080700 +0000" stop="20190513080900 +0000">
-		<title lang="pl">Lola i Liczby</title>
-		<desc lang="pl">Lola, zabawna dziewczynka, która wiecznie jest w ruchu, jest zawsze gotowa do wspólnej zabawy ze swoimi przyjaciółmi liczbami od 1 do 10. liczmy razem!.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513080900 +0000" stop="20190513081100 +0000">
-		<title lang="pl">Miejskie życie</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513081100 +0000" stop="20190513081400 +0000">
-		<title lang="pl">Przygody w przestrzeni</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20190513081400 +0000" stop="20190513081600 +0000">
-		<title lang="pl">Mimo i Bobo</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Duck TV" start="20190513081600 +0000" stop="20190513081900 +0000">
 		<title lang="pl">Hubbi i jego koledzy</title>
@@ -8691,11 +8656,6 @@
 		<desc lang="pl">W programie zostanie zaprezentowany ranking niewiarygodnych wyczynów i eksperymentów, które przeprowadzono w prywatnych domach. Znalezione w sieci filmy przedstawiają odważne i niesamowite dokonania. Wytłumaczą je światowej sławy naukowcy - podejmą próbę oddzielenia wiedzy od fikcji.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="BBC Cbeebies" start="20190513080500 +0000" stop="20190513081500 +0000">
-		<title lang="pl">Numeraki</title>
-		<desc lang="pl">Aktorzy i towarzyszące im zabawne, animowane stworki, Numeraki, pomagają przedszkolakom w nauce liczenia. Każda z rysunkowych istotek ma zapisaną na brzuszku jedną cyfrę. Sympatyczne Numeraki lubią tańczyć i wesoło się bawić w rytm skocznej muzyki. Dzięki nim młodzi widzowie poznają piosenki, dzięki którym zapamiętują poszczególne cyfry oraz ich kolejność.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
 	<programme channel="BBC Cbeebies" start="20190513081500 +0000" stop="20190513083000 +0000">
 		<title lang="pl">Świnka Wibbly</title>
 		<desc lang="pl">Świnka Wibbly jest zabawna i pomysłowa, ma złote serce i zawsze można na niej polegać. W jej towarzystwie przedszkolaki dowiedzą się, jak powinna wyglądać pora kładzenia się spać, jak poradzić sobie ze znielubionymi potrawami oraz w co się bawić. Dzieci i świnka przeżywają razem wspaniałe przygody. Bajka ma skłonić dzieci do aktywności. Każdy odcinek zaczyna się od poszukiwań świnki. Kiedy uda się ją znaleźć, Wibbly opowiada o przygodach, jakie ją spotkały. Serial został stworzony na podstawie znanych książeczek dla dzieci Micka Inkpena.</desc>
@@ -11515,11 +11475,6 @@
 		<title lang="pl">Gdzie jesteś, Amando?</title>
 		<desc lang="pl">Mroczna opowieść o poszukiwaniach czteroletniej Amandy. By ją odnaleźć, detektywi muszą poznać tajemnice bliskich dziewczynki. Za rolę matki Amandy Amy Ryan była nominowana do Oscara. Na planie partnerowali jej m.in. Casey Affleck i Morgan Freeman. Propozycja dla widzów poszukujących dobrego, skłaniającego do refleksji kina. Obraz będący ekranizacją powieści Dennisa Lehane'a stanowi debiut reżyserski Bena Afflecka.</desc>
 		<category lang="pl">dramat kryminalny</category>
-	</programme>
-	<programme channel="TVP1 HD" start="20190513081000 +0000" stop="20190513081500 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVP1 HD" start="20190513081500 +0000" stop="20190513084000 +0000">
 		<title lang="pl">Kwadrans polityczny</title>
