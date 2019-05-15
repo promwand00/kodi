@@ -6,8 +6,20 @@
 3. Automatycznie uruchomi się menu konfiguracji dodatku gdzie należu podać:
  - email (koniecznie kończący się -> @toya.net.pl)
  - hasło
- ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h19_03.png "Plik zip")
-
-
-
-
+![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h19_03.png "Konfiguracja")
+4. Zatwierdź przycieskiem OK
+5. Odczekaj około minuty aż dodatek utowrzy bazę danych
+6. Uruchom dodatek ToyaGo w menu Dodatki (pierwsze uruchomienei może potrwać nieco dłużej)
+![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h21_10.png "Dodatek ToyaGO")
+ 
+ 
+ # Instrukcja Konfiguracji PVR dla ToyaGO:
+1. Zainstaluj dodatek IPTV Simple z menu Dodatki> Klienty Telewizji
+2. Uruchom ustawienia dodatku ToyaGo i przejdź do sekcji PVR
+![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h21_38.png "Konfiguracja PVR")
+3. Kliknij przycisk Skonfiguruj IPTV Simple
+4. Zostaniesz kilkakrotnie poproszony o potwierdzenie przyciskiem OK
+![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h22_49.png "OK")
+5. Uruchom ponownie Kodi
+6. Wejdź w menu główne Telewizja:
+![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h24_50.png "Wejdź w menu główne Telewizja")
