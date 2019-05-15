@@ -11,8 +11,8 @@
  - email (koniecznie kończący się -> @toya.net.pl)
  - hasło
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h19_03.png "Konfiguracja")
-7. Zatwierdź przycieskiem OK
-8. Odczekaj około minuty aż dodatek utowrzy bazę danych
+7. Zatwierdź przyciskiem OK
+8. Odczekaj około minuty aż dodatek utworzy bazę danych
 9. Uruchom dodatek ToyaGo w menu Dodatki (pierwsze uruchomienie może potrwać nieco dłużej)
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h21_10.png "Dodatek ToyaGO")
  
