@@ -4,15 +4,16 @@
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h07_43.png "Zainstaluj z pliku zip")
 3. Wybierz pobrany plik zip repozytorium
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h09_16.png "Plik zip")
-4. Wejdź w Zainstaluj z Repozytorium > piotrekcrash Repository > Wtyczki Wideo > ToyaGo i wubierz Zainstaluj
+4. Wejdź w Zainstaluj z Repozytorium > piotrekcrash Repository > Wtyczki Wideo > ToyaGo
+5. Kliknij "Zainstaluj"
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_12h44_35.png "Zainstaluj")
-5. Automatycznie uruchomi się menu konfiguracji dodatku gdzie należu podać:
+6. Automatycznie uruchomi się menu konfiguracji dodatku gdzie należu podać:
  - email (koniecznie kończący się -> @toya.net.pl)
  - hasło
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h19_03.png "Konfiguracja")
-6. Zatwierdź przycieskiem OK
-7. Odczekaj około minuty aż dodatek utowrzy bazę danych
-8. Uruchom dodatek ToyaGo w menu Dodatki (pierwsze uruchomienie może potrwać nieco dłużej)
+7. Zatwierdź przycieskiem OK
+8. Odczekaj około minuty aż dodatek utowrzy bazę danych
+9. Uruchom dodatek ToyaGo w menu Dodatki (pierwsze uruchomienie może potrwać nieco dłużej)
 ![alt text](https://github.com/piotrekcrash/kodi/raw/master/resources/plugin.video.toyago/2019-05-15_11h21_10.png "Dodatek ToyaGO")
  
  
