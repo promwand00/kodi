@@ -25,6 +25,19 @@
 </extension>
 </addon>
 
+<addon id="repository.kodiwpigulce.pl" name="Kodiwpigulce.pl repository" version="1.0.1" provider-name="www.kodiwpigulce.pl">
+	<extension point="xbmc.addon.repository" name="Kodiwpigulce.pl repository">
+		<info compressed="true">http://kodiwpigulce.pl/zip/addons.xml</info>
+		<checksum>http://kodiwpigulce.pl/zip/addons.xml.md5</checksum>
+		<datadir zip="true">http://kodiwpigulce.pl/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium wtyczek www.kodiwpigulce.pl</summary>
+        <description>Zapraszamy po więcej wtyczek na www.kodiwpigulce.pl</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.video.toyago" name="ToyaGO" version="1.3.13" provider-name="piotrekcrash">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
@@ -53,6 +66,23 @@
 </extension>
 </addon>
 
+	<addon id="repository.fanfilm" name="FanFilm repo" version="0.1" provider-name="fanfilm">
+		<extension point="xbmc.addon.repository" name="FanFilm repo">
+			<info compressed="false">https://raw.githubusercontent.com/fanfilm/repository.fanfilm/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/fanfilm/repository.fanfilm/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/fanfilm/repository.fanfilm/master/zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Repozytorium wtyczki FanFilm</summary>
+			<description>MrKnow tribute...</description>
+			<platform>all</platform>
+		</extension>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+</addon>
+
 <addon id="repository.piotrekcrash" name="piotrekcrash Kodi Add-ons Repository" version="1.0.4" provider-name="piotrekcrash">
     <extension point="xbmc.addon.repository" name="piotrekcrash Kodi Add-ons Repository">
         <dir>
@@ -69,6 +99,66 @@
         <disclaimer lang="pl">piotrekcrash repo</disclaimer>
         <platform>all</platform>
         <website>https://github.com/piotrekcrash/kodi</website>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="repository.ramic" name="Ramic Kodi Add-ons Repository (Unofficial)" version="1.4.0" provider-name="Michal">">
+    <extension point="xbmc.addon.repository" name="Ramic Kodi Add-ons Repository (Unofficial)">
+        <dir>
+            <info compressed="false">http://cherrytv.webd.pl/ramicmod/addons.xml</info>
+            <checksum>http://cherrytv.webd.pl/ramicmod/addons.xml.md5</checksum>
+            <datadir zip="true">http://cherrytv.webd.pl/ramicmod/ramic/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/meserak86/cimar/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/meserak86/cimar/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/meserak86/cimar/raw/master/ramic</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Ramic Kodi Repository (Unofficial)</summary>
+        <summary lang="pl">Repozytorium wtyczek</summary>
+        <summary lang="en">Addons repository</summary>
+        <description>Unofficial, private Addons repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny, tworzone dla zabawy.</disclaimer>
+        <platform>all</platform>
+        <website></website>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="repository.ddurdle" name="ddurdle's XBMC Addons" version="1.0.2" provider-name="ddurdle">
+	<extension point="xbmc.addon.repository" name="ddurdle's XBMC Addon Repository">
+		<info compressed="false">https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml</info>
+		<checksum>https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://dmdsoftware.net/repository.ddurdle/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install ddurdle's Addons</summary>
+		<description>Download and install addons by ddurdle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.podpis" name="Podpis Kodi Add-ons Repository" version="1.4.2" provider-name="Podpis">
+    <extension point="xbmc.addon.repository" name="Podpis Kodi Add-ons Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/podpis/kodi/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/podpis/kodi/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/podpis/kodi/raw/master/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Podpis Repository</summary>
+        <summary lang="pl">Repozytorium wtyczek Podpis</summary>
+        <summary lang="en">Addons repository</summary>
+        <description>Unofficial, private Addons repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny. Jest tworzona dla zabawy.</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/podpis/kodi/</website>
         <email></email>
     </extension>
 </addon>
