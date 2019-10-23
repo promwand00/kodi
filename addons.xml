@@ -103,32 +103,6 @@
     </extension>
 </addon>
 
-<addon id="repository.ramic" name="Ramic Kodi Add-ons Repository (Unofficial)" version="1.4.0" provider-name="Michal">">
-    <extension point="xbmc.addon.repository" name="Ramic Kodi Add-ons Repository (Unofficial)">
-        <dir>
-            <info compressed="false">http://cherrytv.webd.pl/ramicmod/addons.xml</info>
-            <checksum>http://cherrytv.webd.pl/ramicmod/addons.xml.md5</checksum>
-            <datadir zip="true">http://cherrytv.webd.pl/ramicmod/ramic/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/meserak86/cimar/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/meserak86/cimar/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/meserak86/cimar/raw/master/ramic</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Ramic Kodi Repository (Unofficial)</summary>
-        <summary lang="pl">Repozytorium wtyczek</summary>
-        <summary lang="en">Addons repository</summary>
-        <description>Unofficial, private Addons repository.</description>
-        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
-        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny, tworzone dla zabawy.</disclaimer>
-        <platform>all</platform>
-        <website></website>
-        <email></email>
-    </extension>
-</addon>
-
 <addon id="repository.ddurdle" name="ddurdle's XBMC Addons" version="1.0.2" provider-name="ddurdle">
 	<extension point="xbmc.addon.repository" name="ddurdle's XBMC Addon Repository">
 		<info compressed="false">https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml</info>
