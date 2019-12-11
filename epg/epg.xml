@@ -932,11 +932,6 @@
 		<display-name>TV Trwam</display-name>
 		<icon src="thumb"/>
 	</channel>
-	<programme channel="TOYA" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Nasze sprawy</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">magazyn reporterów</category>
-	</programme>
 	<programme channel="TOYA" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Wydarzenia</title>
 		<desc lang="pl"></desc>
@@ -1122,11 +1117,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="TVP1" start="20191211170000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Teleexpress</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
 	<programme channel="TVP1" start="20191211172000 +0000" stop="20191211172500 +0000">
 		<title lang="pl">Pogoda</title>
 		<desc lang="pl"></desc>
@@ -1206,11 +1196,6 @@
 		<title lang="pl">Warto rozmawiać</title>
 		<desc lang="pl">Dziennikarz Jan Pospieszalski zaprasza do studia telewizyjnego reprezentujących różne poglądy i punkty widzenia gości, by porozmawiać z nimi o aktualnych wydarzeniach.</desc>
 		<category lang="pl">talk-show</category>
-	</programme>
-	<programme channel="TVP2" start="20191211163500 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Familiada</title>
-		<desc lang="pl">W zabawie biorą udział dwie drużyny, składające się z pięciu dorosłych osób. Zawodnicy podają odpowiedzi na pytania, które zadano wcześniej grupie próbnej składającej się ze stu osób. Liczba zebranych przez rodzinę punktów zależy od tego, na ile jej członkowie odpowiedzieli tak jak wcześniej ankietowani. Teleturniej prowadzi Karol Strasburger.</desc>
-		<category lang="pl">teleturniej</category>
 	</programme>
 	<programme channel="TVP2" start="20191211171000 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Więzień miłości</title>
@@ -1376,16 +1361,6 @@
 		<title lang="pl">Kryminalna siódemka</title>
 		<desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
 		<category lang="pl">magazyn kryminalny</category>
-	</programme>
-	<programme channel="TVP Polonia" start="20191211170000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">A to polski właśnie...</title>
-		<desc lang="pl">Seria krótkich telewizyjnych felietonów poświęconych językowi polskiemu. Program, skierowany do młodego widza, ma za zadnie wyjaśnić znaczenia słów, pokazać najczęstsze błędy językowe i przybliżyć polską kulturę. W każdym odcinku prowadząca, Katarzyna Dammicco wyjaśni zawiłości polszczyzny, przywołując wierszyki, przysłowia i piosenki.</desc>
-		<category lang="pl">program edukacyjny</category>
-	</programme>
-	<programme channel="TVP Polonia" start="20191211170500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Nela Mała Reporterka</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">magazyn dla dzieci</category>
 	</programme>
 	<programme channel="TVP Polonia" start="20191211172000 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Historia jednego obrazu</title>
@@ -2102,11 +2077,6 @@
 		<desc lang="pl">Płatny zabójca dostaje zlecenie zabicia ojca Dowlinga lecz odmawia. Ostrzega jednak ojca, że ktoś godził się przyjąć zlecenie. Ksiądz musi ustalić, kto i dlaczego chce go zabić.</desc>
 		<category lang="pl">serial kryminalny</category>
 	</programme>
-	<programme channel="History HD" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Wykute w ogniu 3</title>
-		<desc lang="pl">Czterej uczestnicy rywalizacji muszą stworzyć broń białą, stosując losowo wybraną technikę. Po wymagającej rundzie testów dwaj najlepsi wrócą do domu, by wykonać japońską naginatę. Używana ona była przez samurajów, a później piechotę.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="History HD" start="20191211171500 +0000" stop="20191211181000 +0000">
 		<title lang="pl">Ludzie gór 6</title>
 		<desc lang="pl">Zbliża się zima. Traperzy muszą odpowiednio przygotować się do nadejścia mrozów. Morgan poszukuje skarbów w ruinach, a Jason walczy z olbrzymem. Z kolei Eustace dokonuje przełomu dzięki użyciu czarnego prochu.</desc>
@@ -2181,21 +2151,6 @@
 		<title lang="pl">Wojny magazynowe - Teksas 3</title>
 		<desc lang="pl">Aukcja odbywa się w Temple, rodzinnym mieście Bubby'ego Smitha. Victorowi udaje się przezwyciężyć pecha. Doc i Junkster proszą Mary, aby odrestaurowała zestaw jadalny, który wyszedł z mody.</desc>
 		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191211163300 +0000" stop="20191211170300 +0000">
-		<title lang="pl">Stan Zagrożenia</title>
-		<desc lang="pl">Film dokumentalny Piotra Barełkowskiego pt. STAN ZAGROŻENIA ŻYCIA z udziałem: Jerzego Zięby, Huberta Czerniaka, Hieronima Maryniaka, Jerzego Juszczyńskiego, Dariusza Szweda, Jarosława Sachajko, Piotra Siergieja i Andrzeja Buły. Woda, żywność oraz powietrze w Polsce. Jaki jest ich stan i oddziaływanie na ludzi.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191211170300 +0000" stop="20191211171200 +0000">
-		<title lang="pl">Na Iwana, Na Kupała - Kupała Dubicze 2019</title>
-		<desc lang="pl"></desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191211171200 +0000" stop="20191211172400 +0000">
-		<title lang="pl">Znaki historii - Wieś na wzniesieniu</title>
-		<desc lang="pl">Znaki historii to cykl programów historycznych. Kilka km od Lubomierza, w południo - wschodniej części wzgórz radomickich, leży wieś Radomice. Jej zagrody i domostwa wybudowano na wysokości od 340 m do 440 m n.p.m,.Początki osadnictwa miały miejsce już we wczesnym średnowieczu.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="TV Regio HD" start="20191211172400 +0000" stop="20191211173700 +0000">
 		<title lang="pl">Znaki historii - Wieś na wzniesieniu cz. 2</title>
@@ -2767,11 +2722,6 @@
 		<desc lang="pl">W tym czasie antenowym wszystkie siostrzane stacje: 4FUN.tv, 4FUN HITS oraz 4FUN FIT&amp;DANCE nadają przeboje różnych gatunków. Widz może sprawdzić, co jest grane we wszystkich kanałach.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="TV6 HD" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Gliniarz i prokurator</title>
-		<desc lang="pl">Na podstawie poszlak sąd skazuje nieletniego na więzienie za dokonanie gwałtu. Jego rodzina poprzysięga zemstę. Tymczasem na wyspie ktoś zabija sierżanta z jednostki wojskowej i kradnie jego karabin snajperski. Sprawę próbują wyjaśnić prokurator McCabe i detektyw Jake Styles. Bardzo pomocna w śledztwie okazuje się pewna niewidoma rzeźbiarka. Kobieta przypadkiem spotkała sprawcę. Chcąc bliżej poznać miłego pana, dotknęła jego twarzy. W ten sposób wyobraziła sobie, jak wygląda. Nie wiedziała jeszcze, że ta wiedza na temat nieznajomego będzie miała zasadnicze znaczenie w sprawie zabójstwa.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="TV6 HD" start="20191211171500 +0000" stop="20191211181500 +0000">
 		<title lang="pl">Gliniarz i prokurator</title>
 		<desc lang="pl">McCabe wraz z pracownikami bierze udział w akcji charytatywnej. Przy tej okazji poznają kobietę, która każdemu opowiada inną historię. Jake odkrywa, że jest ona żoną gangstera z Chicago.</desc>
@@ -2867,11 +2817,6 @@
 		<desc lang="pl">Początek hitlerowskiej okupacji. Do szpitala psychiatrycznego przybywa nowy lekarz Stefan (Piotr Dejmek). Poznaje personel placówki. Doktor Kauters (Henryk Bista) ceni jedynie metody chirurgiczne. Doktor Rygier (Zbigniew Zapasiewicz) uważa, że silna władza jest koniecznością. Z kolei doktor Marglewski (Wojciech Pszoniak) uważa, że choroba psychiczna to rodzaj nawiedzenia. Doktor Nosilewska (Ewa Dałkowska) uciekła z Austrii po zajęciu jej przez nazistów. Schronienia w szpitalu szuka literat Zygmunt Sekułowski (Gustaw Holoubek). Niemcy postanawiają zlikwidować placówkę i zabić pacjentów. Zachowania lekarzy w tej sytuacji są różne. Kauters podaje się za Niemca. Z kolei Rygier deklaruje polskość, odrzucając szansę ocalenia. Nosilewska przyznaje, że jest Żydówką. Stefan próbuje ratować rannego chłopca, pacjenta... Traktat moralny na podstawie powieści Stanisława Lema.</desc>
 		<category lang="pl">dramat psychologiczny</category>
 	</programme>
-	<programme channel="Polsat Sport News HD" start="20191211170000 +0000" stop="20191211170700 +0000">
-		<title lang="pl">Sport flesz</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
 	<programme channel="Polsat Sport News HD" start="20191211170700 +0000" stop="20191211191000 +0000">
 		<title lang="pl">Hokej: Liga Mistrzów - rewanżowy mecz ćwierćfinałowy: EV Zug - Mountfield HK</title>
 		<desc lang="pl"></desc>
@@ -2941,11 +2886,6 @@
 		<title lang="pl">Cold War Kids - Love at The Regency Ballroom</title>
 		<desc lang="pl">The Regency Ballroom, California. If there is one thing Cold War Kids have taught us it's never judge a book by its cover - or a band by its name. The Californian indie rockers performed a slick, soulful, grown-up set at Regency Ballroom in support in support of &quot;Dear Miss Lonelyhearts.&quot; Dipping into newer tracks such as rollicking electro stomper 'Miracle Mile' and raw renditions of fan favourites like 'We Used To Vacation' and 'Hang Me Up To Dry', the Kids showed us they are more than capable of putting on a phenomenal live performance that can keep everyone in the house rocking until the final minute.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="TVP Info" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Teleexpress</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVP Info" start="20191211171500 +0000" stop="20191211173200 +0000">
 		<title lang="pl">Teleexpress Extra</title>
@@ -3056,11 +2996,6 @@
 		<title lang="pl">W tyle wizji extra</title>
 		<desc lang="pl">W każdym wydaniu dwoje prowadzących żartuje z bieżących wydarzeń politycznych i społecznych, prezentując materiały z zabawnie dobranymi podkładami muzycznymi. W programie także rozmowy telefoniczne z widzami. Gospodarzami programu są m.in. Marcin Wolski i Łukasz Warzecha.</desc>
 		<category lang="pl">program publicystyczny</category>
-	</programme>
-	<programme channel="HBO3 HD" start="20191211153500 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Nocna jazda</title>
-		<desc lang="pl">Pan Gallo (J.K. Simmons) jest pracoholikiem, przez co od dłuższego czasu zaniedbuje swoją relację z dorosłą już córką, Ginnie. Ostatnio widzieli się pół roku temu, kiedy dziewczyna przedstawiła mu swojego ówczesnego partnera, nieporadnego Martina (Emile Hirsch). Pewnego dnia Gallo postanawia złożyć córce niezapowiedzianą wizytę. Na miejscu nie zastaje jednak Ginnie, lecz Martina. Okazuje się, że zerwali i nikt nie wie, gdzie młoda kobieta obecnie się podziewa. We dwóch decydują się ją odnaleźć. Czeka ich wiele przygód.</desc>
-		<category lang="pl">komedia</category>
 	</programme>
 	<programme channel="HBO3 HD" start="20191211170500 +0000" stop="20191211192500 +0000">
 		<title lang="pl">Złap mnie, jeśli potrafisz</title>
@@ -3877,11 +3812,6 @@
 		<desc lang="pl">Kilku imprezowiczów przypadkiem znajduje ciało uduszonej kobiety. Śledczy mają kłopoty z identyfikacją ofiary, która nie miała przy sobie żadnych dokumentów. Jedyną wskazówką jest znaleziona wizytówka fotografki Deborah Watts. Gdy członkowie sekcji zjawiają się w studiu fotograficznym, odkrywają tam akcesoria, bieliznę i filmy erotyczne. Jedyne, co przychodzi im na myśl, to że mają do czynienia z dziewczyną do towarzystwa.</desc>
 		<category lang="pl">serial kryminalny</category>
 	</programme>
-	<programme channel="AXN BLACK" start="20191211162000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Zagadki z przeszłości 2</title>
-		<desc lang="pl">Sydney leci do Chin, by odwiedzić ojca, Randalla Foxa. Tam kobieta poznaje mnichów, którzy odmawiają otwarcia tamy na rzece, wierząc, że zaginiony posąg ich cesarzowej jest gdzieś w dolinie. Sydney, Nigel, Randal i jego narzeczona Jenny postarają się pomóc mnichom w poszukiwaniach.</desc>
-		<category lang="pl">serial przygodowy</category>
-	</programme>
 	<programme channel="AXN BLACK" start="20191211172000 +0000" stop="20191211182000 +0000">
 		<title lang="pl">Zagadki z przeszłości 2</title>
 		<desc lang="pl">Profesor Penrose udaje się do Rzymu, gdzie ma tłumaczyć starożytny tekst. Claudia jedzie na lotnisko, by dostarczyć mu zapiski, które pozostawił. Sydney i Nigel ruszają w ślad za nią.</desc>
@@ -4307,16 +4237,6 @@
 		<desc lang="pl">Show, którego uczestnicy wcielają się w gwiazdy światowego formatu. O Złotą Twarz i 100 tys. zł na cel charytatywny zawalczą m.in.: Joanna Liszowska, Maja Bohosiewicz, Jacek Kawalec, Marcin Przybylski i Marek Kaliszuk.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="TVN 7" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Sąd rodzinny</title>
-		<desc lang="pl">Serial przybliża procedury stosowane w procesach, w których instancją rozstrzygającą jest sąd rodzinny. Obejmuje takie sprawy jak: pozwy o rozwód, alimenty, eksmisje, wnioski o pozbawienie władzy rodzicielskiej czy uregulowanie kontaktów z dzieckiem. Zwaśnione strony reprezentują adwokaci z wieloletnim doświadczeniem. Ostatnie słowo należy zaś do sędziego Artura Lipińskiego.</desc>
-		<category lang="pl">serial fabularno-dokumentalny</category>
-	</programme>
-	<programme channel="TVN 7" start="20191211171500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Big Brother Podwieczorek 2</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="TVN 7" start="20191211172000 +0000" stop="20191211182000 +0000">
 		<title lang="pl">SOS. Ekipy w akcji</title>
 		<desc lang="pl">Właściciel restauracji wzywa policję do żebrzącego chłopca. Funkcjonariusze odkrywają przyczyny zachowania 12-latka. Inny patrol reaguje na zgłoszenie o klientce jednej z warszawskich kawiarni, która zamknęła się w toalecie i od godziny nie chce jej opuścić. Zdenerwowana kobieta dzwoni na 112 po tym, jak zobaczyła dziwną ranę na ciele swojego kilkumiesięcznego wnuka. Sądzi, że jej synowa znęca się nad niemowlęciem.</desc>
@@ -4566,16 +4486,6 @@
 		<title lang="pl">Moc na noc</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Magic science</title>
-		<desc lang="pl">Open the world of Magic Science and boost your vocabulary. The programme is aimed at children aged 7 or above. Magic Science makes chemistry entertaining!. This episode is about dry ice.</desc>
-		<category lang="pl">kurs języka angielskiego dla dzieci</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191211171500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Art land</title>
-		<desc lang="pl">Did you know that you can create pictures not only with paints Plasticine, sand, flour, and even... shaving cream - all of these can be used to create masterpieces of childrenUs art.. Making crafts with your child is a piece of cake! Take some crepe paper, scissors and glue and make a cactus.</desc>
-		<category lang="pl">kurs języka angielskiego dla dzieci</category>
 	</programme>
 	<programme channel="English Club TV HD" start="20191211172000 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Okey-dokey</title>
@@ -4831,11 +4741,6 @@
 		<title lang="pl">Weather forecast</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="France 24" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Le journal</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="France 24" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">A l'affiche</title>
@@ -5310,11 +5215,6 @@
 	<programme channel="Eleven Sports 4 HD" start="20191212030000 +0000" stop="20191212030000 +0000">
 		<title lang="pl">Piłka nożna: Liga włoska - mecz: US Lecce - Genoa CFC</title>
 		<desc lang="pl"></desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191211165900 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Magic Stitch - ręczna maszyna do szycia</title>
-		<desc lang="pl">Szyj gdzie i kiedy zechcesz! Ręczna maszyna do szycia, która mieści się w kieszeni. Dzięki Magic Stitch możesz zaszywać i przerabiać ubrania, szyć kostiumy, torby, poszewki i nie tylko! Gwarantuje mocny, wytrzymały ścieg i nadaje się do szycia każdego materiału.</desc>
 		<category lang="pl"></category>
 	</programme>
 	<programme channel="TV Okazje HD" start="20191211171000 +0000" stop="20191211172500 +0000">
@@ -5847,11 +5747,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Red Carpet HD" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Skąd ja Cię znam?</title>
-		<desc lang="pl">Nieodkryte dotąd kulisy sławy wschodzących gwiazd. W każdym odcinku zostanie przedstawiona postać, która obecnie wspina się na szczyty popularności, ale początki jej kariery wydają się mgliste.</desc>
-		<category lang="pl">reportaż</category>
-	</programme>
 	<programme channel="Red Carpet HD" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Zobacz! Gość</title>
 		<desc lang="pl"></desc>
@@ -6011,11 +5906,6 @@
 		<title lang="pl">Bez diagnozy</title>
 		<desc lang="pl">Lekarze przyjmują na siebie role detektywów i badając objawy, poszukują przyczyny dolegliwości. Kamera śledzi proces identyfikacji rzadkich i niecodziennych dolegliwości.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191211170000 +0000" stop="20191211171200 +0000">
-		<title lang="pl">Ptyś i Bill</title>
-		<desc lang="pl">Ptyś uwielbia spędzać czas z przyjaciółmi - rozbrykanym spanielem Billem i rezolutną żółwicą. Chłopiec i pies są do siebie bardzo podobni. Zawsze rozpiera ich energia i często wpadają w kłopoty. Pomaga im je pokonać rozsądna przyjaciółka. Prosta i mądra fabuła zapewni najmłodszym nie tylko rozrywkę, ale i naukę.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Polsat JimJam " start="20191211171200 +0000" stop="20191211172900 +0000">
 		<title lang="pl">Ptyś i Bill</title>
@@ -6227,11 +6117,6 @@
 		<desc lang="pl">Strażak Sam wraz ze swoimi przyjaciółmi mieszka w urokliwym miasteczku Pontypandy. Codzienne życie toczy się tutaj bardzo spokojnie, jednak czasami zdarzają się zaskakujące sytuacje i przygody. Sam nie tylko gasi pożary, ale również pomaga mieszkańcom Pontypandy w rozwiązywaniu ich problemów.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
-	<programme channel="Polo TV" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Gotuj z nami - Polo Kuchnia</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
 	<programme channel="Polo TV" start="20191211171500 +0000" stop="20191211191500 +0000">
 		<title lang="pl">Disco Studio</title>
 		<desc lang="pl">Gospodarze, Edyta Folwarska, Maciej Smoliński i Jacek Mędrala, goszczą gwiazdy disco polo, prezentują muzyczne premiery, relacje z planów teledysków oraz wiele ciekawostek związanych ze światem muzyki tanecznej.</desc>
@@ -6351,11 +6236,6 @@
 		<title lang="pl">Knockers For Better Health</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">film erotyczny</category>
-	</programme>
-	<programme channel="Polsat Romans" start="20191211163000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Pierwsza miłość</title>
-		<desc lang="pl">Sabina wyjawia Aleksandrowi, że razem z Arturem wiedzą o jego spisku i kradzieży danych. Gdy Kulczycki zauważa, że podsłuch Koniecznego został dezaktywowany, obawia się o życie wspólniczki. Wiki i Kazanowa osiągnęły w końcu porozumienie w sprawie terminu swoich ceremonii ślubnych. Marek przyznaje się Kindze do swojej zdrady. Tymczasem jego kochankę odwiedza Bogumił.</desc>
-		<category lang="pl">serial obyczajowy</category>
 	</programme>
 	<programme channel="Polsat Romans" start="20191211171500 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Pierwsza miłość</title>
@@ -6567,11 +6447,6 @@
 		<desc lang="pl">Roy, fotograf, nie ma nic aż do momentu, gdy w spadku po dziadku dostaje aparat. Jego życie zmienia się w sposób przekraczający najśmielsze marzenia. Występują: Neil Nitin Mukesh, Bipasha Basu</desc>
 		<category lang="pl">film sensacyjny</category>
 	</programme>
-	<programme channel="Playboy HD" start="20191211165300 +0000" stop="20191211171700 +0000">
-		<title lang="pl">Fiction In Bed</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">film erotyczny</category>
-	</programme>
 	<programme channel="Playboy HD" start="20191211171700 +0000" stop="20191211173500 +0000">
 		<title lang="pl">Through Their Eyes, Slava Art Nu</title>
 		<desc lang="pl"></desc>
@@ -6661,51 +6536,6 @@
 		<title lang="pl">69 Sexy Things</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">film erotyczny</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211170000 +0000" stop="20191211170300 +0000">
-		<title lang="pl">Sport, sport, sport</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211170300 +0000" stop="20191211170600 +0000">
-		<title lang="pl">Albert tłumaczy</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211170600 +0000" stop="20191211170800 +0000">
-		<title lang="pl">Świat elfów</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211170800 +0000" stop="20191211171100 +0000">
-		<title lang="pl">Wstawaj!</title>
-		<desc lang="pl">Wstań i ruszaj się z nami! Uroczy nauczyciele wuefu oraz ich przyjaciele pokażą Wam podstawowe ćwiczenia, dzięki którym maluchy pozostaną w formie!.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211171100 +0000" stop="20191211171300 +0000">
-		<title lang="pl">Hubbi i jego koledzy</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211171300 +0000" stop="20191211171600 +0000">
-		<title lang="pl">Uczymy się</title>
-		<desc lang="pl">Uśmiechnięte i szczęśliwe figury geometryczne przedstawiają się swojej młodej publiczności i tworzą wiele układów, dzięki którym dzieci uczą się je rozpoznawać.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211171600 +0000" stop="20191211171800 +0000">
-		<title lang="pl">Dinoland</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211171800 +0000" stop="20191211172100 +0000">
-		<title lang="pl">Safari</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">film krótkometrażowy</category>
-	</programme>
-	<programme channel="Duck TV" start="20191211172100 +0000" stop="20191211172400 +0000">
-		<title lang="pl">Afryka</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">serial dla dzieci</category>
 	</programme>
 	<programme channel="Duck TV" start="20191211172400 +0000" stop="20191211172600 +0000">
 		<title lang="pl">Sippi Sappi</title>
@@ -7812,11 +7642,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="CANAL+ SPORT HD" start="20191211164500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">LaLiga World</title>
-		<desc lang="pl">Magazyn poświęcony rozgrywkom ligi hiszpańskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki z bieżących rozgrywek, ale także te o zabarwieniu historycznym. Ponadto w programie sylwetki trenerów i wyróżniających się piłkarzy.</desc>
-		<category lang="pl">magazyn piłkarski</category>
-	</programme>
 	<programme channel="CANAL+ SPORT HD" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Basket+</title>
 		<desc lang="pl"></desc>
@@ -8672,11 +8497,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Nickelodeon" start="20191211165500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Zagadki rodziny Hunterów</title>
-		<desc lang="pl">Anikę i Sala oszukał przebiegły złodziej. Z kolei Oliver musi ukrywać się u Hunterów, w trakcie gdy Jasmyn kryje go w ich domu, co wywołuje spore zamieszanie.</desc>
-		<category lang="pl">serial dla młodzieży</category>
-	</programme>
 	<programme channel="Nickelodeon" start="20191211172000 +0000" stop="20191211175000 +0000">
 		<title lang="pl">iCarly 2</title>
 		<desc lang="pl">Ekipa iCarly organizuje konkurs, w którym do wygrania jest nowe auto, sponsorowane przez lokalny salon samochodowy. Kiedy Nevel zgłasza się po nagrodę, okazuje się, że właściciel salonu nic nie wie o żadnym konkursie.</desc>
@@ -8787,11 +8607,6 @@
 		<desc lang="pl">Ula uważa, że niedługo umrze. Przekazuje Jackowi testament. Alutka zaczytuje się w poezji. Jadzia tęskni za mężem i postanawia wrócić na wieś. Jej decyzja wywołuje zamęt. Sytuację ratuje Jędrula.</desc>
 		<category lang="pl">serial komediowy</category>
 	</programme>
-	<programme channel="FilmBox Premium HD" start="20191211154500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Wesele Jenny</title>
-		<desc lang="pl">Eddie (Tom Wilkinson) i Rose (Linda Emond) Farrellowie od dawna marzyli o dniu, w którym ich córki staną na ślubnym kobiercu. Gdy starsza Anne (Grace Gummer) wychodzi za mąż, wszyscy w rodzinie z niecierpliwością oczekują, kiedy w jej ślady pójdzie młodsza - Jenny (Katherine Heigl). W końcu dziewczyna informuje bliskich, że się zaręczyła. Rodzice są szczęśliwi. Nie wiedzą jednak, że ich ukochana córeczka planuje poślubić kobietę...</desc>
-		<category lang="pl">komedia</category>
-	</programme>
 	<programme channel="FilmBox Premium HD" start="20191211172000 +0000" stop="20191211191500 +0000">
 		<title lang="pl">Złote wrota</title>
 		<desc lang="pl">Rok 1913. Sycylijczyk Salvatore Mancuso (Vincenzo Amato) postanawia razem z dziećmi poszukać lepszego życia za oceanem. Wyrusza w podróż do USA. Na statku poznaje Angielkę Lucy (Charlotte Gainsbourg), która chce koniecznie wyjść za mąż, zanim dopłyną do Ameryki. Owdowiały Mancuso zgadza się ją poślubić. Po zejściu na ląd wszyscy emigranci zostają umieszczeni w specjalnym obozie, w którym przechodzą badania lekarskie i są przesłuchiwani. Niepomyślny przebieg rozmowy może oznaczać bilet powrotny do domu.</desc>
@@ -8821,11 +8636,6 @@
 		<title lang="pl">Z miłości do kata</title>
 		<desc lang="pl">Morten Topsoe (Morten Hauch-Fausboll), duński prawnik pracujący dla ONZ, jedzie do Kambodży z misją ścigania zbrodniarzy wojennych. Tam zakochuje się w kobiecie, która wyznaje mu, że gdy miała 14 lat podczas ludobójczych akcji Czerwonych Khmerów zamordowała wiele osób. Ich przywódcy do tej pory ukrywają się, by uniknąć kary za zbrodnie sprzed 25 lat. Zszokowany Morten nie wie, czy powinien zostawić ukochaną, czy zostać i dokończyć śledztwo.</desc>
 		<category lang="pl">dramat biograficzny</category>
-	</programme>
-	<programme channel="Kino TV HD" start="20191211151500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">I tak, i nie</title>
-		<desc lang="pl">Lauren Crandell (Denise Richards) organizuje śluby i weselne przyjęcia. Dziewczyna marzy o wielkim uczuciu. Jest w separacji ze swoim mężem Bradem (David Lipper). Jej rodzice próbują naprawić ich związek. Podczas kolejnego ślubu organizowanego przez Lauren pan młody, który postanawia zjechać na linie z wieży kościoła, niefortunnie zawisa na gzymsie. Lauren wzywa ekipę ratunkową. Wraz ze strażakami zjawia się sympatyczny Nick Corina (Dean Cain), który wpada jej w oko. Nickowi również podoba się Lauren. Dziewczyna przeżywa jednak ogromne rozczarowanie, gdy dowiaduje się, że Nick jest narzeczonym jej nowej klientki. Od tego czasu broni się przed płomiennym uczuciem do przystojnego strażaka. Wkrótce czeka Lauren miła niespodzianka. Scenariusz filmu powstał na podstawie powieści Cary Lockwood.</desc>
-		<category lang="pl">komedia romantyczna</category>
 	</programme>
 	<programme channel="Kino TV HD" start="20191211172000 +0000" stop="20191211175000 +0000">
 		<title lang="pl">Telezakupy</title>
@@ -9192,11 +9002,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Comedy Central Family HD" start="20191211164000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Allo, Allo 7</title>
-		<desc lang="pl">René dostaje od Niemców medal za kolaborację. Jeśli go przyjmie, zostanie zastrzelony przez Ruch Oporu. Jeśli nie, zabiją go Niemcy. Planuje więc wyjechać z Yvette do Anglii.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="Comedy Central Family HD" start="20191211171500 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Allo, Allo 7</title>
 		<desc lang="pl">René i Edith spotykają w Londynie kapitana Hansa Geeringa, który obecnie pracuje dla Anglików. René pragnie pozostać w Anglii, by odpocząć od wojny, jednak Edith się na to nie zgadza. Oboje otrzymują medale z rąk Churchilla.</desc>
@@ -9291,11 +9096,6 @@
 		<title lang="pl">Daleko od noszy</title>
 		<desc lang="pl">Szpitalne przedstawienie &quot;Zemsty&quot; odbiło się szerokim echem w całym kraju. Napisały o nim gazety. Sam minister kultury ma przybyć, by obejrzeć spektakl. Aktorzy przystępują do prób. Pacjent Nowak, grający rolę Wacława, popada w konflikt z doktorem Kidlerem. Sukces przedstawienia staje pod znakiem zapytania. Dodatkowe zamieszanie wprowadza Generałowa, która nie może się rozstać ze swoim dziwacznym hobby.</desc>
 		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Da Vinci HD" start="20191211170000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Kiedy dorosnę</title>
-		<desc lang="pl">Mikaela poznaje tajniki montażu dźwięku. W temat wprowadza ją montażystka Claire. Razem bawią się efektami dźwiękowymi i podkładaniem dialogów. Mikaela przekonuje się, jak bardzo zmiana oprawy dźwiękowej wpływa na nastrój sceny.</desc>
-		<category lang="pl">program dla młodzieży</category>
 	</programme>
 	<programme channel="Da Vinci HD" start="20191211172000 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Kto tam?</title>
@@ -11077,11 +10877,6 @@
 		<desc lang="pl">W Teatrze Popularnym wciąż trwają próby przedstawienia pod okiem znanej i cenionej pani Richter. Każdy z aktorów liczy na angaż, tym bardziej, że reżyserka obiecuje wyjazd ze spektaklem na festiwal w Awinionie. Konieczny, by poprawić wizerunek swój, jak i prowadzonej przez siebie instytucji, zatrudnia specjalistę od PR. Wygląda na to, że sytuacja w teatrze powoli się stabilizuje. Niestety zespół nie ma szczęścia. Wkrótce straż pożarna zamyka scenę ze względu na niespełnione normy przeciwpożarowe.</desc>
 		<category lang="pl">serial obyczajowy</category>
 	</programme>
-	<programme channel="Disney Junior" start="20191211170000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Pidżamersi</title>
-		<desc lang="pl">Perypetie trójki dzieciaków, które wiodą na pozór zwyczajne życie. Po zapadnięciu zmroku łączą swoje zaczarowane bransoletki i zmieniają się w superbohaterów, którzy walczą z przestępczością. Gdy ściągają kostium, tracą swoje nadprzyrodzone talenty.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
 	<programme channel="Disney Junior" start="20191211172000 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Blue</title>
 		<desc lang="pl">Niezwykłe przygody Blue, sześcioletniej suczki rasy Blue Heeler, która uwielbia, gdy jej rodzinna codzienność jest przepełniona niezwykłymi wydarzeniami. Kreatywna zabawa rozwija jej wyobraźnię, a także wzmacnia odporność fizyczną i emocjonalną.</desc>
@@ -11272,11 +11067,6 @@
 		<desc lang="pl">Seria poświęcona Ekstraklasie. Przybliży widzom zawód piłkarza, pozwoli na spotkania z ludźmi związanymi z rozgrywkami, a także pokaże klubowe zakamarki. Gospodarzem &quot;Witaj w klubie&quot; będzie Krzysztof Marciniak.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Fox HD" start="20191211162000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Chicago Fire 7</title>
-		<desc lang="pl">Cruz odpowiada za przygotowanie załogantów z remizy do udziału w kąpieli morsów. Herrmann ma problem z odreagowaniem trudnej akcji. Życie osobiste Foster zaczyna odbijać się na jej pracy.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="Fox HD" start="20191211171500 +0000" stop="20191211181500 +0000">
 		<title lang="pl">Chicago Fire 7</title>
 		<desc lang="pl">Brett, Foster i Kidd jadą na wycieczkę do Indiany i są świadkami wypadku autobusu chłopięcej drużyny hokejowej. Muszą szybko pomóc rannym w tym zdarzeniu. Pozostali załoganci Remizy 51 biorą udział w dorocznym konkursie na najsmaczniejsze chili.</desc>
@@ -11427,11 +11217,6 @@
 		<desc lang="pl">Misae idzie w niedzielę na zakupy. Shinnosuke i Hiroshi grają w piłkę i trafiają w lodówkę. Przyjaciółki Nene chwalą się swoimi chłopakami i obiecują sobie, że wezmą z nimi ślub. Nene wyobraża sobie, że jest dziewczyną każdego ze swoich przyjaciół. Shinnosuke rzuca wyzwanie malującemu szympansowi z ZOO.</desc>
 		<category lang="pl">serial animowany dla dorosłych</category>
 	</programme>
-	<programme channel="CANAL+ HD" start="20191211152000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Uwiedzenie Joe Tynana</title>
-		<desc lang="pl">Liberalny senator Joe Tynan (Alan Alda) poświęca życie osobiste na rzecz politycznego sukcesu. W jego odniesieniu ma mu pomóc Karen Traynor (Meryl Streep). Ich relacja powoli zaczyna przeradzać się w uczucie.</desc>
-		<category lang="pl">dramat sensacyjny</category>
-	</programme>
 	<programme channel="CANAL+ HD" start="20191211170500 +0000" stop="20191211183500 +0000">
 		<title lang="pl">Przerwa w programie</title>
 		<desc lang="pl">Doktor Jill Peterman (Georgina Haig) prowadzi bardzo popularny program w radiu, w którym doradza słuchaczom w temacie związków i relacji międzyludzkich. Pewnego dnia odbiera telefon od poszukującej pomocy Alexis. Dochodzi do tragedii; podczas rozmowy kobieta popełnia samobójstwo. Terapeutka bardzo to przeżywa i uważa, że jest winna całej sytuacji. Pogrąża się w rozpaczy i na cały rok zawiesza praktykę. Kiedy wraca do pracy, zaczynają dziać się podejrzane rzeczy. Wkrótce Jill zostaje uwikłana w pełną tajemnic i oszustw intrygę. Grająca główną rolę Australijka Georgina Haig wcieliła się w Disneyowską Elsę w serialu &quot;Dawno, dawno temu&quot;.</desc>
@@ -11516,11 +11301,6 @@
 		<title lang="pl">Niebezpieczny syn</title>
 		<desc lang="pl">Autorzy dokumentu przedstawiają historie trzech rodzin, które zmagają się z chorobą psychiczną dziecka i szukają odpowiedniego leku czy terapii. Jak się okazuje, nie mogą liczyć na wsparcie ze strony państwa. Część rodziców nie ma wystarczających środków na leczenie albo mieszkają w stanie, w którym władza nie zapewnia taniej pomocy lekarskiej. W filmie zaprezentowano wypowiedzi specjalistów w dziedzinie zdrowia psychicznego, Thomasa Inselema i Andrew Solomonema. Statystyki wskazują, że jedno na dziesięcioro dzieci w Ameryce cierpi na poważne problemy emocjonalne, a ponad 17 milionów nieletnich doświadczyło zaburzeń psychicznych. Reżyserką filmu jest dwukrotnie nominowana do Oscara Liz Garbus (&quot;The Farm: Angola, USA&quot;, &quot;What Happened, Miss Simone?&quot;).</desc>
 		<category lang="pl">film dokumentalny</category>
-	</programme>
-	<programme channel="TV6" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Gliniarz i prokurator</title>
-		<desc lang="pl">Na podstawie poszlak sąd skazuje nieletniego na więzienie za dokonanie gwałtu. Jego rodzina poprzysięga zemstę. Tymczasem na wyspie ktoś zabija sierżanta z jednostki wojskowej i kradnie jego karabin snajperski. Sprawę próbują wyjaśnić prokurator McCabe i detektyw Jake Styles. Bardzo pomocna w śledztwie okazuje się pewna niewidoma rzeźbiarka. Kobieta przypadkiem spotkała sprawcę. Chcąc bliżej poznać miłego pana, dotknęła jego twarzy. W ten sposób wyobraziła sobie, jak wygląda. Nie wiedziała jeszcze, że ta wiedza na temat nieznajomego będzie miała zasadnicze znaczenie w sprawie zabójstwa.</desc>
-		<category lang="pl">serial kryminalny</category>
 	</programme>
 	<programme channel="TV6" start="20191211171500 +0000" stop="20191211181500 +0000">
 		<title lang="pl">Gliniarz i prokurator</title>
@@ -11632,11 +11412,6 @@
 		<desc lang="pl">Niezapomniane utwory emitowane przez całą noc. Program skierowany do nocnych marków, którzy pragną spędzić nocy przy nastrojowych, a niekiedy melancholijnych utworach. Propozycja obowiązkowa dla każdego melomana.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="TVP1 HD" start="20191211170000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Teleexpress</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
 	<programme channel="TVP1 HD" start="20191211172000 +0000" stop="20191211172500 +0000">
 		<title lang="pl">Pogoda</title>
 		<desc lang="pl"></desc>
@@ -11716,11 +11491,6 @@
 		<title lang="pl">Warto rozmawiać</title>
 		<desc lang="pl">Dziennikarz Jan Pospieszalski zaprasza do studia telewizyjnego reprezentujących różne poglądy i punkty widzenia gości, by porozmawiać z nimi o aktualnych wydarzeniach.</desc>
 		<category lang="pl">talk-show</category>
-	</programme>
-	<programme channel="TVP2 HD" start="20191211163500 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Familiada</title>
-		<desc lang="pl">W zabawie biorą udział dwie drużyny, składające się z pięciu dorosłych osób. Zawodnicy podają odpowiedzi na pytania, które zadano wcześniej grupie próbnej składającej się ze stu osób. Liczba zebranych przez rodzinę punktów zależy od tego, na ile jej członkowie odpowiedzieli tak jak wcześniej ankietowani. Teleturniej prowadzi Karol Strasburger.</desc>
-		<category lang="pl">teleturniej</category>
 	</programme>
 	<programme channel="TVP2 HD" start="20191211171000 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Więzień miłości</title>
@@ -12102,11 +11872,6 @@
 		<desc lang="pl">Keith Michaels (Hugh Grant) to reżyser, który zdobył Oscara. Było to jednak kilkanaście lat temu. Dziś nie ma już pieniędzy, sławy i blichtru, a jedynie - zbyt wysokie poczucie własnej wartości. Keith jest rozwodnikiem, nie ma kontaktu z synem i cierpi na ciągły kryzys twórczy. Przyjmuje pracę wykładowcy na niewielkiej uczelni w prowincjonalnym Binghamton. Poprowadzi kurs pisania scenariuszy. Dokonuje selekcji studentów, których przyjmie na zajęcia, według klucza: ładne kobiety i brzydcy mężczyźni. Zamierza bowiem podrywać kursantki. Jego zainteresowanie budzi Karen (Bella Heathcote), która chce dzięki swemu wykładowcy dostać się do świata Hollywood. Keith zaczyna zdawać sobie sprawę, że w rzeczywistości nie może kontrolować kobiet tak, jak w filmowych scenariuszach. Wkrótce ulega czarowi jednej z nich (Marisa Tomei). To już czwarty film wyreżyserowany przez Marca Lawrence'a, w którym zagrał Hugh Grant. Poprzednie to &quot;Dwa tygodnie na miłość&quot;, &quot;Prosto w serce&quot; oraz &quot;Słyszeliście o Morganach?&quot;. Aktorowi partneruje zdobywczyni Oscara, Marisa Tomei. Muzykę do filmu skomponował syn reżysera, Clyde Lawrence, który jest również autorem kilku piosenek m.in. do &quot;Miss Agent&quot;.</desc>
 		<category lang="pl">komedia romantyczna</category>
 	</programme>
-	<programme channel="Polsat Sport Extra HD" start="20191211161000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">KOTV Classics</title>
-		<desc lang="pl">Przypomnienie i analiza największych pojedynków bokserskich w historii tej dyscypliny sportu. Prezentowane są w nim m.in. pamiętne walki takich bokserów jak: Joe Louis, Muhammad Ali czy Mike Tyson. Najlepsze fragmenty walk są opatrzone współczesnym komentarzem, oceniającym tamte wydarzenia z perspektywy czasu.</desc>
-		<category lang="pl">magazyn bokserski</category>
-	</programme>
 	<programme channel="Polsat Sport Extra HD" start="20191211172000 +0000" stop="20191211175000 +0000">
 		<title lang="pl">Magazyn koszykarski</title>
 		<desc lang="pl">Program poświęcony koszykarskiej ekstraklasie mężczyzn. Widzowie zobaczą w nim skróty spotkań ostatniej kolejki, analizy i zapowiedzi meczów oraz wywiady z zawodnikami i trenerami. Nie zabraknie też ciekawostek.</desc>
@@ -12197,16 +11962,6 @@
 		<desc lang="pl">W tym odcinku tydzień brytyjski i spotkanie z angielskimi lordami, bankierami i milionerami. Nowa uczestniczka, Nastia, wywołuje w Szkole Dam spore poruszenie, a Julii obawy, że zajmie jej miejsce liderki w grupie. Dwudziestodwuletnia dziewczyna trenuje, jest kibicem klubu, bierze udział w ustawkach, a kiedyś została oskarżona o kierowanie zorganizowaną grupą przestępczą. Mimo że babcia, którą ją wychowała, starała się zapewnić jej wykształcenie i dobrą szkołę, wnuczka wolała interesować się hip-hopem oraz graffiti.</desc>
 		<category lang="pl">reality show</category>
 	</programme>
-	<programme channel="TVN 7 HD" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Sąd rodzinny</title>
-		<desc lang="pl">Serial przybliża procedury stosowane w procesach, w których instancją rozstrzygającą jest sąd rodzinny. Obejmuje takie sprawy jak: pozwy o rozwód, alimenty, eksmisje, wnioski o pozbawienie władzy rodzicielskiej czy uregulowanie kontaktów z dzieckiem. Zwaśnione strony reprezentują adwokaci z wieloletnim doświadczeniem. Ostatnie słowo należy zaś do sędziego Artura Lipińskiego.</desc>
-		<category lang="pl">serial fabularno-dokumentalny</category>
-	</programme>
-	<programme channel="TVN 7 HD" start="20191211171500 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Big Brother Podwieczorek 2</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="TVN 7 HD" start="20191211172000 +0000" stop="20191211182000 +0000">
 		<title lang="pl">SOS. Ekipy w akcji</title>
 		<desc lang="pl">Właściciel restauracji wzywa policję do żebrzącego chłopca. Funkcjonariusze odkrywają przyczyny zachowania 12-latka. Inny patrol reaguje na zgłoszenie o klientce jednej z warszawskich kawiarni, która zamknęła się w toalecie i od godziny nie chce jej opuścić. Zdenerwowana kobieta dzwoni na 112 po tym, jak zobaczyła dziwną ranę na ciele swojego kilkumiesięcznego wnuka. Sądzi, że jej synowa znęca się nad niemowlęciem.</desc>
@@ -12251,11 +12006,6 @@
 		<title lang="pl">NOC Magii</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVN Turbo HD" start="20191211163000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Uwaga! Pirat!</title>
-		<desc lang="pl">Kolejna seria programu przedstawiającego kulisy pracy funkcjonariuszy drogówki podczas codziennych patroli na polskich drogach. W rolach głównych wystąpią nieodpowiedzialni kierowcy, którzy łamią przepisy i powodują zagrożenie dla ruchu drogowego.</desc>
-		<category lang="pl">magazyn policyjny</category>
 	</programme>
 	<programme channel="TVN Turbo HD" start="20191211171500 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Wojny samochodowe</title>
@@ -12692,11 +12442,6 @@
 		<desc lang="pl">Fryzjer, tatuażysta i masażystka odwiedzają nieznane, najdalsze zakątki Polski. Tam na moment odmieniają życie przypadkowo napotkanych osób, dając im chwile szczęścia. Dzięki bohaterom dokumentu mieszkańcy wsi mają szansę zrobić rzeczy, które dotąd widzieli jedynie w telewizji. Każdy z nich może również opowiedzieć przed kamerą własną historię.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="TV Republika" start="20191211164800 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Republika po południu</title>
-		<desc lang="pl">Popołudniowe pasmo informacyjne Telewizji Republika, w którym dziennikarze stacji przedstawiają aktualne wieści z kraju i ze świata. W programie goszczą także eksperci, komentując najważniejsze tematy dnia.</desc>
-		<category lang="pl">program publicystyczny</category>
-	</programme>
 	<programme channel="TV Republika" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Wolne głosy - popołudnie</title>
 		<desc lang="pl"></desc>
@@ -12872,11 +12617,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">program informacyjny</category>
 	</programme>
-	<programme channel="Zoom TV" start="20191211163000 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Co ludzie powiedzą? 4</title>
-		<desc lang="pl">Hiacynta zgłasza męża na ochotnika do naprawy świateł w kościele. Podczas gdy Ryszard zajmuje się instalacją elektryczną, jego żona organizuje w kościelnym holu kiermasz dobroczynny.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="Zoom TV" start="20191211171000 +0000" stop="20191211175000 +0000">
 		<title lang="pl">Co ludzie powiedzą? 5</title>
 		<desc lang="pl">Wikary przygotowuje wycieczkę nad morze dla sędziwych parafian. Hiacynta jest przekonana, że wszystko potrafi najlepiej. Składa księdzu propozycję nie do odrzucenia - oferuje mu pomoc w zorganizowaniu wycieczki.</desc>
@@ -12936,11 +12676,6 @@
 		<title lang="pl">TV Okazje</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">magazyn reklamowy</category>
-	</programme>
-	<programme channel="Metro" start="20191211165000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Medium z Long Island</title>
-		<desc lang="pl">Larry planuje romantyczny wieczór walentynkowy. Okazuje się to dość trudne. Theresa spotyka jednego z największych sceptyków, z jakimi miała dotąd do czynienia.</desc>
-		<category lang="pl">reality show</category>
 	</programme>
 	<programme channel="Metro" start="20191211172000 +0000" stop="20191211175500 +0000">
 		<title lang="pl">Milionerzy</title>
@@ -13087,11 +12822,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="Nowa TV" start="20191211162000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Łowcy cieni. Pod presją</title>
-		<desc lang="pl">Z konwoju ucieka oskarżony o gwałt i zabójstwo Andrzej. Łowcy usiłują namierzyć jego wspólnika, który zajechał drogę więziennemu transportowi. Ustalają, że w akcję zamieszany był jeden ze strażników, ale jak się okazuje zmuszono go do tego szantażem. W śledztwo angażuje się nowy funkcjonariusz, Patryk. Dzięki pomocy taksówkarza Mosze, mającego kontakty wśród złodziei samochodów, łowcy docierają do osoby, która ukradła auto. Mężczyzna przekazuje im informacje, które umożliwiają namierzenie zleceniodawcy. W tym czasie mąż Marysi, Adam, zmusza ją, by poszła na przedstawienie szkolne syna. Gdy przypadkowo zostaje uwieczniona na zdjęciu, wszczyna awanturę i rozbija aparat jednej z matek. Wkrótce Adam dowiaduje się, że żona nie pracuje w policji. Stawia jej ultimatum - albo rzuci ryzykowną posadę, albo on wystąpi o rozwód.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="Nowa TV" start="20191211172000 +0000" stop="20191211174500 +0000">
 		<title lang="pl">Gwiazdy lombardu 13</title>
 		<desc lang="pl">Do lombardu trafia wyjątkowy ford. Pojazd jest wyposażony w miotacze ognia, a gałkę do zmiany biegów ma zakończoną trupią czaszką. Ricka i Coreya ogarnia nostalgia na widok starego Pinokio.</desc>
@@ -13141,11 +12871,6 @@
 		<title lang="pl">Redakcja: Dział Śledczy</title>
 		<desc lang="pl">Antek mówi Basi, że załatwił jej posadę w &quot;London Daily&quot;. Tymczasem Adam dowiaduje się o morderstwie właścicielki starej kamienicy, o której kiedyś pisał artykuł. Kobieta zginęła tuż po sprzedaży nieruchomości. Z domu ofiary zniknęła biżuteria, cenny obraz i pieniądze. Dora ustala, że budynek został w ciągu tygodnia sprzedana dwa razy. Marek zgłębia mechanizm działania oszustów. Niebawem udaje się zebrać dowody obciążające Krystiana Sawickiego i kancelarię notarialną. Wieczorem Baśka postanawia zadzwonić do Londynu, by poznać warunki swojej nowej pracy.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="Nick Jr." start="20191211165500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Rafcio Śrubka 2</title>
-		<desc lang="pl">Rafcio jest zdolnym inżynierem, który przewodzi drużynie robotów. Chłopiec oraz jego mechaniczni przyjaciele przeżywają razem niezwykłe przygody.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Nick Jr." start="20191211171500 +0000" stop="20191211174500 +0000">
 		<title lang="pl">Psi Patrol 2</title>
@@ -13301,11 +13026,6 @@
 		<title lang="pl">Psi Patrol</title>
 		<desc lang="pl">Pieski wybierają się w góry pojeździć na snowboardzie. Alex popisuje się i ulega wypadkowi. Psi Patrol rusza mu na ratunek. Następnie zwierzaki znajdują dziwne ślady na śniegu. Wszyscy myślą, że zostawił je potwór.</desc>
 		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Tele 5 HD" start="20191211160500 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Niesamowite tajemnice</title>
-		<desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.</desc>
-		<category lang="pl">serial grozy</category>
 	</programme>
 	<programme channel="Tele 5 HD" start="20191211170500 +0000" stop="20191211180500 +0000">
 		<title lang="pl">Kabaretowy Szał</title>
@@ -13767,11 +13487,6 @@
 		<desc lang="pl">Nawet w rozmowach z numerami alarmowymi można doszukać się istotnych w śledztwie informacji o przestępstwach. Eksperci przeanalizują nagrania telefonów 911 i zestawią z relacjami świadków zbrodni. Widzowie dowiedzą się, w jaki sposób przyczyni się to do rozwiązania sprawy.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Motowizja HD" start="20191211163000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">The Fast Lane</title>
-		<desc lang="pl">Formuła 1 jest niezwykle skomplikowanym i wymagającym cyklem wyścigów samochodowych. Obfituje ona w wiele ciekawostek i interesujących ludzi. Twórcy programy pomagają widzom zrozumieć ten zawiły świat.</desc>
-		<category lang="pl">magazyn motoryzacyjny</category>
-	</programme>
 	<programme channel="Motowizja HD" start="20191211170500 +0000" stop="20191211173500 +0000">
 		<title lang="pl">Autoportret Ostrego</title>
 		<desc lang="pl">Autorski program Aleksandra Ostrowskiego, w którym dziennikarz przedstawi swoje ulubione tematy z zakresu motoryzacji. W każdym odcinku prowadzący opowie o niezwykłym modelu auta oraz ciekawostkach technicznych.</desc>
@@ -13861,11 +13576,6 @@
 		<title lang="pl">Auta jak ze snu</title>
 		<desc lang="pl">Program prezentujący samochody, które stały się prawdziwą chlubą inżynierów. W każdym odcinku pojawiają się auta będące obiektem pożądania fanów motoryzacji oraz symbolem wyjątkowego statusu.</desc>
 		<category lang="pl">magazyn motoryzacyjny</category>
-	</programme>
-	<programme channel="Boomerang HD" start="20191211164500 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Zwariowane melodie: Maluchy w pieluchach</title>
-		<desc lang="pl">Opowieści z czasów dzieciństwa słynnych animowanych postaci. Maluchami rządzi Królik Bugs, uważający się za najstarszego i najmądrzejszego z całej ferajny. Czasem musi on jednak ustępować przebojowej Loli i cwanemu Daffy'emu. Wspólnie przyjaciele poznają otaczający ich kolorowy świat i przeżywają liczne zabawne przygody. Nad ich bezpieczeństwem czuwa pełna ciepła i dobroci babcia, do której zwracają się ze wszystkimi swoimi troskami.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Boomerang HD" start="20191211171000 +0000" stop="20191211174000 +0000">
 		<title lang="pl">Zwariowane melodie: Maluchy w pieluchach</title>
@@ -14197,11 +13907,6 @@
 		<desc lang="pl">Niegdyś beztroski rockman i hulaka, Carl Vanderveer (Greg Kinnear), nawraca się i odnajduje szczęście u boku gorliwie wierzącej Gwen (Jennifer Connelly). Razem z żoną należy do chrześcijańskiej wspólnoty, której przewodzi charyzmatyczny kaznodzieja Dan Day (Pierce Brosnan). Pastor o wyraźnie wybujałym ego jest wśród rzeszy wiernych prawdziwym celebrytą. Za jedynego godnego siebie rywala uważa zatwardziałego ateistę, doktora Paula Blaylocka (Ed Harris). Obaj panowie często spierają się na temat wiary w publicznych debatach, podczas których kaznodzieja chętnie posługuje się przypadkiem Carla jako dowodem na istnienie Boga. Po jednej z takich konfrontacji uczony zaprasza pastora w towarzystwie Carla na drinka do swojego gabinetu. Podczas pogawędki dochodzi do nieszczęśliwego wypadku. Dan przypadkowo strzela do Paula, a ten ginie na miejscu. Duchowny nie chcąc wziąć odpowiedzialności za swój czyn próbuje zrzucić winę na pechowego świadka zdarzenia, Carla. Ekranizacja satyrycznej powieści Larry'ego Beinharta pod tym samym tytułem.</desc>
 		<category lang="pl">komedia sensacyjna</category>
 	</programme>
-	<programme channel="Adventure HD" start="20191211162500 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Na osi</title>
-		<desc lang="pl">Program dla osób związanych z szeroko pojętym transportem drogowym i pasjonatów pojazdów wielkogabarytowych. Autorzy prezentują m.in. najnowsze modele ciężarówek i autobusów, mówią o sprawach związanych z transportem i omawiają problemy nurtujące współczesnych kierowców samochodów ciężarowych.</desc>
-		<category lang="pl">magazyn motoryzacyjny</category>
-	</programme>
 	<programme channel="Adventure HD" start="20191211170500 +0000" stop="20191211174000 +0000">
 		<title lang="pl">Z archiwum zwierząt</title>
 		<desc lang="pl">Ludzie zwykli uważać, że są lepsi od innych stworzeń na Ziemi, ponieważ jako jedyni posiadają życie wewnętrzne, uczucia i moralność. Program ten pozwala widzom odkryć wiele nieoczekiwanych cudów świata zwierząt i spojrzeć na nie, jak na istoty godne podziwu i szacunku.</desc>
@@ -14290,11 +13995,6 @@
 	<programme channel="Adventure HD" start="20191212023500 +0000" stop="20191212030000 +0000">
 		<title lang="pl">Dzika kuchnia</title>
 		<desc lang="pl">Trzech kucharzy o trzech różnych osobowościach i podejściach do gotowania przyrządza potrawy z najwspanialszego mięsa na świecie, czyli polskiej dziczyzny. Program obfituje w przepyszne dania i kulinarne inspiracje.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="HISTORY2 HD" start="20191211161000 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Łowcy UFO</title>
-		<desc lang="pl">Program opowiada o śledztwach dotyczących wielu interesujących przypadków kontaktów z UFO. Zespół bada doniesienia o niezidentyfikowanych zjawiskach powietrznych, reporterzy prowadzą także rozmowy ze świadkami bliskich spotkań. Autorzy programu analizują wszelkie dowody zebrane - fotografie, nagrania wideo.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="HISTORY2 HD" start="20191211171000 +0000" stop="20191211180500 +0000">
@@ -14612,11 +14312,6 @@
 		<desc lang="pl">Marcin i jego ukochana mieszkają w akademiku. Ktoś pisze na drzwiach do pokoju dziewczyny obraźliwe słowa. W publicznym miejscu zostaje znaleziona jej bielizna. Marcin podejrzewa zdradę.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Lifetime HD" start="20191211161000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Remont w stylu Boston</title>
-		<desc lang="pl">Pete i Dave wspierają kolegów z branży, braci Paula i J.P., poszkodowanych w zamachu podczas maratonu w Bostonie. Paul kupił dom i trzeba go przystosować do użytku dla niepełnosprawnego mieszkańca oraz jego dziewczyny.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
 	<programme channel="Lifetime HD" start="20191211170500 +0000" stop="20191211180000 +0000">
 		<title lang="pl">Zarobić na remoncie</title>
 		<desc lang="pl">Stażysta Chris ma pokierować pracami przy ekskluzywnej willi w miłej okolicy. Armando ufa mu, ale Veronica i Randy pozostają sceptyczni. Problemy pojawiają się natychmiast m.in. z niesolidnymi podwykonawcami i nieodpowiednio dobraną farbą.</desc>
@@ -14845,16 +14540,6 @@
 	<programme channel="Nicktoons HD" start="20191212025500 +0000" stop="20191212030000 +0000">
 		<title lang="pl">Alvinnn!!! I wiewiórki</title>
 		<desc lang="pl">Eleanor pokłóciła się z Brittany i postanawia wprowadzić się do chłopaków. Na wieść o tym Alvin wpada w panikę. Dziewczyna szybko wywraca życie kumpli do góry nogami. Oni postanawiają się jednak bronić.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191211164000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Dom: Przygody Ocha i Tip</title>
-		<desc lang="pl">Oh jest zaskoczony jednym z problemów matematycznych Tip. Postanawia jej więc pomóc. Wkrótce jednak sam zaczyna mieć kłopot i udaje się do wielkomózgobuwów. Oh obawia się, że jeśli Tip kiedyś dowie się o funkcjach ciała Buwów jakimi są puk puki, to przestanie się z nim przyjaźnić.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191211170500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Siostry</title>
-		<desc lang="pl">Nastoletnia Wendy i jej młodsza siostra Marine to typowe rodzeństwo. Mimo że ciągle sobie dokuczają, darzą się też silną miłością. Uczucie ujawnia się zazwyczaj, kiedy któraś z dziewczynek wpada w tarapaty. W takiej chwili dzielące ich niesnaski schodzą na dalszy plan, a siostry skupiają się na wspólnym rozwiązaniu problemu.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="teleTOON+ HD" start="20191211171500 +0000" stop="20191211173000 +0000">
@@ -15192,11 +14877,6 @@
 		<desc lang="pl">Historia niebywałej kariery Barbry Streisand, która udzielała się jako piosenkarka, aktorka, reżyserka, scenarzystka i producentka. Artystka została laureatką Oscara, trzech Złotych Globów i była najwyżej notowana piosenkarką solową w rankingu sprzedaży płyt w Stanach Zjednoczonych. Film prezentuje życiorys artystki, skupiając się przede wszystkim na latach 1942-1983, kiedy jej sława osiągała swój szczyt. Opowiada o tym, jak stawała się ikoną, która miała istotny wpływ na kolejne pokolenia piosenkarek.</desc>
 		<category lang="pl">film dokumentalny</category>
 	</programme>
-	<programme channel="CBS europa HD" start="20191211151500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Miasto wichrów</title>
-		<desc lang="pl">W dzieciństwie Danny wraz z przyjaciółmi czytał historie o piratach i rozmyślał o wielkiej przyszłości. Dziś jest pisarzem. Pewnego dnia dowiaduje się o chorobie kolegi. Chce spełnić jego marzenie.</desc>
-		<category lang="pl">film obyczajowy</category>
-	</programme>
 	<programme channel="CBS europa HD" start="20191211171500 +0000" stop="20191211191500 +0000">
 		<title lang="pl">Amerykańska marzycielka</title>
 		<desc lang="pl">Potrącona przez samochód Cathy Palmer (JoBeth Williams) myśli, że jest... bohaterką swoich ulubionych powieści kryminalnych. Tymczasem ich autor, Alan McMann, zakochuje się w Cathy.</desc>
@@ -15342,11 +15022,6 @@
 		<desc lang="pl">Bartosz Kwiatek wraz z zaproszonymi do studia gośćmi omawia w każdym odcinku ważny problem społeczny związany z leczeniem dzieci i systemem zdrowotnym w Polsce.</desc>
 		<category lang="pl">magazyn</category>
 	</programme>
-	<programme channel="Top KIDS HD" start="20191211164500 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Inspektor Gadżet</title>
-		<desc lang="pl">Główny bohater poddał się niezwykłej operacji, w efekcie której został wyposażony w wiele urządzeń. W razie potrzeby może wydobywać je z różnych zakamarków swojego stroju. Niestety, roztargniony inspektor często ma problemy z ich obsługą, przez co wpada w tarapaty. Nad jego bezpieczeństwem potajemnie czuwają siostrzenica Penny i jej wierny piesek Łepek.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
 	<programme channel="Top KIDS HD" start="20191211171000 +0000" stop="20191211173500 +0000">
 		<title lang="pl">Zwariowana szkoła Latającego Nosorożca</title>
 		<desc lang="pl">W niezwykłej szkole prowadzonej przez zwierzęta, uczniowie przeżywają liczne przygody. Muszą też stawiać czoła czarnemu charakterowi, który skrywa się w piwnicy wraz ze swoim szczurem i superkomputerem.</desc>
@@ -15421,11 +15096,6 @@
 		<title lang="pl">Kołysanki</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="FilmBox Arthouse HD" start="20191211155000 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Plan 9 z kosmosu</title>
-		<desc lang="pl">Zirytowani głupotą ludzkości kosmici przybywają na Ziemię, aby zniszczyć naszą cywilizację. Zakładają bazę w pobliżu prowincjonalnego kalifornijskiego cmentarza w Dolinie San Fernando. Plan 9, opracowany przez Obcych polega na wskrzeszaniu zmarłych. Kosmitom udaje się wyprodukować zaledwie trzy żywe trupy, ale już wkrótce armie zombich mają zniszczyć wszystkie światowe stolice. Edward Wood, filmowiec-samouk i entuzjastyczny amator kochany jest przez współczesnych widzów za rozbrajającą zawodową niekompetencję - jego filmy są tak złe, że aż wspaniałe. W kilku scenach filmu pojawia się legendarny Bela Lugosi, słynny odtwórca roli wampira Drakuli. Uzależniony od narkotyków, schorowany aktor zmarł na samym początku produkcji.</desc>
-		<category lang="pl">horror SF</category>
 	</programme>
 	<programme channel="FilmBox Arthouse HD" start="20191211171000 +0000" stop="20191211184000 +0000">
 		<title lang="pl">Saimir</title>
@@ -16012,11 +15682,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="TVS HD" start="20191211161500 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Bonanza</title>
-		<desc lang="pl">Legendarna saga westernowa o rodzinie Cartwrightów i prowadzonym przez nich olbrzymim ranczu Ponderosa. Patriarchą rodu jest Ben (Lorne Greene), który jako jeden z pionierów przybył do Nevady i skolonizował ziemie wśród wzgórz, które stały się w przyszłości powodem dumy i zarazem zazdrości całej okolicy. Jego najstarszym synem jest Adam (Pernell Roberts). Pięć lat młodszy jest Hoss (Dan Blocker), człowiek o gołębim sercu, słabej głowie do alkoholu i mocnej pięści. Największym dżentelmenem pośród braci jest najmłodszy z nich, Joe (Michael Landon).</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="TVS HD" start="20191211171500 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Polskie, bo dobre</title>
 		<desc lang="pl">Prezentacja sylwetek polskich przedsiębiorców pielęgnujących patriotyzm gospodarczy przejawiający się w ich działaniach biznesowych. W każdym z odcinków twórcy udadzą się z wizytą do innej firmy, podczas której opowiedzą o jej historii oraz działalności.</desc>
@@ -16086,11 +15751,6 @@
 		<title lang="pl">Koncert w TVS</title>
 		<desc lang="pl">Twórcy programu prezentują popularne utwory z gatunku muzyki szlagierowo-biesiadnej. Znani śląscy wykonawcy występują na regionalnych scenach i wykonują przeboje, którymi zdobyli sympatię śląskiej widowni. Podczas koncertów nie zabranie również nowości i muzycznych premier.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TVP Info HD" start="20191211170000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Teleexpress</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVP Info HD" start="20191211171500 +0000" stop="20191211173200 +0000">
 		<title lang="pl">Teleexpress Extra</title>
@@ -16357,11 +16017,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Metro HD" start="20191211165000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Medium z Long Island</title>
-		<desc lang="pl">Larry planuje romantyczny wieczór walentynkowy. Okazuje się to dość trudne. Theresa spotyka jednego z największych sceptyków, z jakimi miała dotąd do czynienia.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="Metro HD" start="20191211172000 +0000" stop="20191211175500 +0000">
 		<title lang="pl">Milionerzy</title>
 		<desc lang="pl">By zdobyć główną wygraną, zawodnik musi udzielić dwunastu poprawnych odpowiedzi, wykazując się wiedzą z różnych dziedzin. Każde pytanie ma inny stopień trudności. Prowadzi Hubert Urbański.</desc>
@@ -16487,11 +16142,6 @@
 		<desc lang="pl">Niegdyś beztroski rockman i hulaka, Carl Vanderveer (Greg Kinnear), nawraca się i odnajduje szczęście u boku gorliwie wierzącej Gwen (Jennifer Connelly). Razem z żoną należy do chrześcijańskiej wspólnoty, której przewodzi charyzmatyczny kaznodzieja Dan Day (Pierce Brosnan). Pastor o wyraźnie wybujałym ego jest wśród rzeszy wiernych prawdziwym celebrytą. Za jedynego godnego siebie rywala uważa zatwardziałego ateistę, doktora Paula Blaylocka (Ed Harris). Obaj panowie często spierają się na temat wiary w publicznych debatach, podczas których kaznodzieja chętnie posługuje się przypadkiem Carla jako dowodem na istnienie Boga. Po jednej z takich konfrontacji uczony zaprasza pastora w towarzystwie Carla na drinka do swojego gabinetu. Podczas pogawędki dochodzi do nieszczęśliwego wypadku. Dan przypadkowo strzela do Paula, a ten ginie na miejscu. Duchowny nie chcąc wziąć odpowiedzialności za swój czyn próbuje zrzucić winę na pechowego świadka zdarzenia, Carla. Ekranizacja satyrycznej powieści Larry'ego Beinharta pod tym samym tytułem.</desc>
 		<category lang="pl">komedia sensacyjna</category>
 	</programme>
-	<programme channel="Zoom TV HD" start="20191211163000 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Co ludzie powiedzą? 4</title>
-		<desc lang="pl">Hiacynta zgłasza męża na ochotnika do naprawy świateł w kościele. Podczas gdy Ryszard zajmuje się instalacją elektryczną, jego żona organizuje w kościelnym holu kiermasz dobroczynny.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="Zoom TV HD" start="20191211171000 +0000" stop="20191211175000 +0000">
 		<title lang="pl">Co ludzie powiedzą? 5</title>
 		<desc lang="pl">Wikary przygotowuje wycieczkę nad morze dla sędziwych parafian. Hiacynta jest przekonana, że wszystko potrafi najlepiej. Składa księdzu propozycję nie do odrzucenia - oferuje mu pomoc w zorganizowaniu wycieczki.</desc>
@@ -16551,11 +16201,6 @@
 		<title lang="pl">TV Okazje</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">magazyn reklamowy</category>
-	</programme>
-	<programme channel="Superstacja HD" start="20191211170000 +0000" stop="20191211172200 +0000">
-		<title lang="pl">Interwencja</title>
-		<desc lang="pl">Dziennikarze docierają do ludzi niesłusznie skrzywdzonych m.in. przez pracodawców i urzędników. W wielu przypadkach przyczynili się do poprawy ich sytuacji.</desc>
-		<category lang="pl">magazyn reporterów</category>
 	</programme>
 	<programme channel="Superstacja HD" start="20191211172200 +0000" stop="20191211173000 +0000">
 		<title lang="pl">Pogoda</title>
@@ -16756,11 +16401,6 @@
 		<title lang="pl">Telesprzedaż</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">magazyn reklamowy</category>
-	</programme>
-	<programme channel="Nowa TV HD" start="20191211162000 +0000" stop="20191211172000 +0000">
-		<title lang="pl">Łowcy cieni. Pod presją</title>
-		<desc lang="pl">Z konwoju ucieka oskarżony o gwałt i zabójstwo Andrzej. Łowcy usiłują namierzyć jego wspólnika, który zajechał drogę więziennemu transportowi. Ustalają, że w akcję zamieszany był jeden ze strażników, ale jak się okazuje zmuszono go do tego szantażem. W śledztwo angażuje się nowy funkcjonariusz, Patryk. Dzięki pomocy taksówkarza Mosze, mającego kontakty wśród złodziei samochodów, łowcy docierają do osoby, która ukradła auto. Mężczyzna przekazuje im informacje, które umożliwiają namierzenie zleceniodawcy. W tym czasie mąż Marysi, Adam, zmusza ją, by poszła na przedstawienie szkolne syna. Gdy przypadkowo zostaje uwieczniona na zdjęciu, wszczyna awanturę i rozbija aparat jednej z matek. Wkrótce Adam dowiaduje się, że żona nie pracuje w policji. Stawia jej ultimatum - albo rzuci ryzykowną posadę, albo on wystąpi o rozwód.</desc>
-		<category lang="pl">serial paradokumentalny</category>
 	</programme>
 	<programme channel="Nowa TV HD" start="20191211172000 +0000" stop="20191211174500 +0000">
 		<title lang="pl">Gwiazdy lombardu 13</title>
@@ -17002,11 +16642,6 @@
 		<desc lang="pl">Towards the north, stops in TUBARAO PORT and PORT OF VITORIA, major port complex. The weather in November: The wind and the rain make it difficult on the boat activities. Fishing is still successful: a swordfish of about 50 kg, the biggest catch of the crew to date.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Food Network HD" start="20191211163000 +0000" stop="20191211171500 +0000">
-		<title lang="pl">Wiem, co jem, i wiem, co kupuję</title>
-		<desc lang="pl">Szczegóły dotyczące krwistej wołowiny. Widzowie dowiedzą się jak i dlaczego oszukują producenci mięs. Z kolei w 'Wiem, co kupuję' Katarzyna Bosacka odwiedzi producentów patelni.</desc>
-		<category lang="pl">magazyn poradnikowy</category>
-	</programme>
 	<programme channel="Food Network HD" start="20191211171500 +0000" stop="20191211175000 +0000">
 		<title lang="pl">Ugotowani</title>
 		<desc lang="pl">Drugą kolację w ramach śląskiego tygodnia przygotowuje Grzegorz Konieczka, który prowadzi przenośne planetarium. Wcześniej przez wiele lat mężczyzna pracował jako spawacz. Rodzina jest dla niego najważniejsza, dlatego jest w stanie poświęcić jej naprawdę dużo - nawet wytrwale słuchać skrzypcowych koncertów córki. Podczas spotkania u Grzegorza jego goście dowiedzą się, dlaczego psy są najlepszym środkiem antykoncepcyjnym, a także jaki scenariusz filmowy wymyślił sam gospodarz.</desc>
@@ -17091,11 +16726,6 @@
 		<title lang="pl">Mordercza kuchnia</title>
 		<desc lang="pl">Mówi się, że kuchnia jest sercem każdego domu. To właśnie tam, w miejscu kojarzącym się ze spokojem i komfortem, człowiek spędza najwięcej czasu. W &quot;Morderczej kuchni&quot; zawodniczy toczą ze sobą pojedynki, walcząc w trzech etapach eliminacyjnych. Rywale mogą utrudniać sobie zadanie. Każdy z kucharzy otrzymuje po 25 tysięcy dolarów. Ma wybór - wydać je na sabotowanie poczynań konkurentów, by zwiększyć własne szanse na wygraną, lub zaoszczędzić pieniądze.</desc>
 		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="TVN24 BiS HD" start="20191211170000 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Serwis informacyjny</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVN24 BiS HD" start="20191211171000 +0000" stop="20191211172500 +0000">
 		<title lang="pl">Dzień na świecie</title>
@@ -17372,16 +17002,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Romance TV HD" start="20191211151500 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Rosamunde Pilcher: Niespodziewana miłość</title>
-		<desc lang="pl">Wdowiec Eric Miller (Herbert Ulrich) zakochuje się całkiem niespodziewanie w Hannie(Natalia Avelon), policjantce, która skontrolowała go, kiedy przekroczył prędkość. Mężczyzna nie zdaje sobie sprawy, że funkcjonariuszka jest dobrą przyjaciółką jego brata Tony'ego (Roman Knizka). Dla dobra rodziny Eric musi zdusić w sobie uczucia.</desc>
-		<category lang="pl">film obyczajowy</category>
-	</programme>
-	<programme channel="Romance TV HD" start="20191211170500 +0000" stop="20191211171000 +0000">
-		<title lang="pl">Grzechy i grzeszki</title>
-		<desc lang="pl">Grzesznik (Heiner Lauterbach) nie ma zamiaru się spowiadać. Przybywa jednak do księdza (Friedrich von Thun), by dowiedzieć się od niego, dlaczego życie w pobożności jest takie nudne.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="Romance TV HD" start="20191211171000 +0000" stop="20191211180500 +0000">
 		<title lang="pl">Górscy ratownicy</title>
 		<desc lang="pl">Do hotelu Petera wprowadza się jego przyjaciel Manfred Rostetter z synem Georgem. Znajomi zaczynają przechwalać się umiejętnościami swoich synów. Peter nie wierzy w opowieści Manfreda i zamierza je zweryfikować. Okazuje, że Georg od lat okłamuje ojca. Mężczyźni ruszają wraz z synami na wspinaczkę. W pewnym momencie dochodzi do ostrej wymiany zdań na temat Georga. Chłopak naraża ekipę na niebezpieczeństwo.</desc>
@@ -17421,11 +17041,6 @@
 		<title lang="pl">Lato w Pradze</title>
 		<desc lang="pl">Psycholożka Katrin (Katja Weitzenböck) wyjeżdża do Pragi, aby zaprezentować profesjonalistom aplikację, którą opracowała. Podczas wizyty pragnie również odszukać Richarda Krala (Tomás Hanák). Mężczyzna przed laty porzucił ją, gdy była w zaawansowanej ciąży. Jej córka Jana (Laura Preiss) zerwała wszelkie kontakty z matką, gdy odkryła tajemnicę swego pochodzenia. Dziewczyna próbuje odnaleźć swojego biologicznego ojca. Katrin nie spodziewa się, że córka wybrała się do Pragi w tym samym czasie.</desc>
 		<category lang="pl">melodramat</category>
-	</programme>
-	<programme channel="Polsat Viasat Explore HD" start="20191211161000 +0000" stop="20191211170500 +0000">
-		<title lang="pl">Marzenie o wiejskiej chatce 2</title>
-		<desc lang="pl">Rzemieślnik Jack uczy Charliego tradycyjnej metody ociosywania kłód. Podczas wykonywania czynności mężczyzna posługuje się ręcznymi narzędziami. Tymczasem ekipa kończy przebudowę domu w Wirginii.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="Polsat Viasat Explore HD" start="20191211170500 +0000" stop="20191211180500 +0000">
 		<title lang="pl">Gruchoty - reaktywacja 2</title>
