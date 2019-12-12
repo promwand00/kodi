@@ -932,26 +932,6 @@
 		<display-name>TV Trwam</display-name>
 		<icon src="thumb"/>
 	</channel>
-	<programme channel="TOYA" start="20191212130000 +0000" stop="20191212130200 +0000">
-		<title lang="pl">Pogoda dla Łodzi</title>
-		<desc lang="pl">Prognoza przygotowana przez pracowników Instytutu Meteorologii i Gospodarki Wodnej na Lublinku.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TOYA" start="20191212130200 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Toya Traffic</title>
-		<desc lang="pl">Program informacyjny.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TOYA" start="20191212130500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Konfrontacje</title>
-		<desc lang="pl">Program publicystyczny.</desc>
-		<category lang="pl">program publicystyczny</category>
-	</programme>
-	<programme channel="TOYA" start="20191212134500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Wytwórnia</title>
-		<desc lang="pl">Reportaż.</desc>
-		<category lang="pl">reportaż</category>
-	</programme>
 	<programme channel="TOYA" start="20191212140000 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Pogoda dla Łodzi</title>
 		<desc lang="pl">Prognoza przygotowana przez pracowników Instytutu Meteorologii i Gospodarki Wodnej na Lublinku.</desc>
@@ -1232,11 +1212,6 @@
 		<desc lang="pl">Przerwa.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="TVP1" start="20191212125500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Dzika Holandia</title>
-		<desc lang="pl">Film dokumentalny.</desc>
-		<category lang="pl">film dokumentalny</category>
-	</programme>
 	<programme channel="TVP1" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Elif</title>
 		<desc lang="pl">Serial obyczajowy.</desc>
@@ -1357,16 +1332,6 @@
 		<desc lang="pl">Troje mieszkańców Śląska próbuje zdobyć pieniądze.</desc>
 		<category lang="pl">dramat obyczajowy</category>
 	</programme>
-	<programme channel="TVP2" start="20191212123000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Koło fortuny</title>
-		<desc lang="pl">Teleturniej.</desc>
-		<category lang="pl">teleturniej</category>
-	</programme>
-	<programme channel="TVP2" start="20191212130500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Teściowe i synowe. Kto tu rządzi?</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="TVP2" start="20191212133500 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Gotowi do gotowania. Start!</title>
 		<desc lang="pl">Magazyn kulinarny.</desc>
@@ -1456,21 +1421,6 @@
 		<title lang="pl">Zaginiona</title>
 		<desc lang="pl">Detektywi znajdują ciało zamordowanej prostytutki. Usiłują odkryć związek pomiędzy śmiercią kobiety a zniknięciem Lei.</desc>
 		<category lang="pl">serial kryminalny</category>
-	</programme>
-	<programme channel="TVP3" start="20191212130000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Moja praca</title>
-		<desc lang="pl">Cykliczny magazyn misyjny, którego twórcy prezentują działania i stanowiska związków zawodowych oraz organizacji pracodawców.</desc>
-		<category lang="pl">magazyn</category>
-	</programme>
-	<programme channel="TVP3" start="20191212133500 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Agrobiznes</title>
-		<desc lang="pl">Aktualne wiadomości z branży rolno-spożywczej, notowania giełdowe oraz prognozy cenowe.</desc>
-		<category lang="pl">magazyn rolniczy</category>
-	</programme>
-	<programme channel="TVP3" start="20191212135000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Agropogoda</title>
-		<desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVP3" start="20191212140000 +0000" stop="20191212150500 +0000">
 		<title lang="pl">Program lokalny</title>
@@ -1591,16 +1541,6 @@
 		<title lang="pl">Kryminalna siódemka</title>
 		<desc lang="pl">Magazyn kryminalny.</desc>
 		<category lang="pl">magazyn kryminalny</category>
-	</programme>
-	<programme channel="TVP Polonia" start="20191212125000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Kierunek Zachód</title>
-		<desc lang="pl">Magazyn.</desc>
-		<category lang="pl">magazyn</category>
-	</programme>
-	<programme channel="TVP Polonia" start="20191212131000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Barwy szczęścia</title>
-		<desc lang="pl">Serial obyczajowy.</desc>
-		<category lang="pl">serial obyczajowy</category>
 	</programme>
 	<programme channel="TVP Polonia" start="20191212134500 +0000" stop="20191212144000 +0000">
 		<title lang="pl">M jak miłość</title>
@@ -1767,11 +1707,6 @@
 		<desc lang="pl">Po wydarzeniach w Magdalence w wydziale zachodzi wiele zmian. Dla nowego naczelnika najbardziej liczy się statystyka.</desc>
 		<category lang="pl">serial sensacyjny</category>
 	</programme>
-	<programme channel="TVP Kultura" start="20191212130000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Studio Kultura - rozmowy</title>
-		<desc lang="pl">Rozmowy z zaproszonymi do studia ciekawymi gośćmi. Dotyczą one na ogół zagadnień związanych ze sztuką, kulturą i historią.</desc>
-		<category lang="pl">magazyn kulturalny</category>
-	</programme>
 	<programme channel="TVP Kultura" start="20191212132000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Krąg Kantora</title>
 		<desc lang="pl">Film dokumentalny.</desc>
@@ -1836,11 +1771,6 @@
 		<title lang="pl">Nasza młodsza siostra</title>
 		<desc lang="pl">Dramat obyczajowy.</desc>
 		<category lang="pl">dramat obyczajowy</category>
-	</programme>
-	<programme channel="Polsat" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Trudne sprawy</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
 	</programme>
 	<programme channel="Polsat" start="20191212140000 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Pierwsza miłość</title>
@@ -1926,16 +1856,6 @@
 		<title lang="pl">Tajemnice losu</title>
 		<desc lang="pl">Program rozrywkowy.</desc>
 		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVN" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">19+</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="TVN" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">19+</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
 	</programme>
 	<programme channel="TVN" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Ugotowani</title>
@@ -2032,11 +1952,6 @@
 		<desc lang="pl">Nocny program interaktywny, w którym wróżki odpowiadają na pytania widzów dotyczące ich przyszłości.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="TV Puls" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Kobra - oddział specjalny</title>
-		<desc lang="pl">Losy niemieckich policjantów, którzy patrolują autostradę wiodącą ze wschodu na zachód Europy. Mają do czynienia z groźnymi osobami.</desc>
-		<category lang="pl">serial sensacyjny</category>
-	</programme>
 	<programme channel="TV Puls" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Agenci NCIS: Los Angeles 9</title>
 		<desc lang="pl">Serial sensacyjny.</desc>
@@ -2091,11 +2006,6 @@
 		<title lang="pl">Ojciec Ted</title>
 		<desc lang="pl">Na wysepce Craggy u wybrzeży Irlandii panuje najbardziej koszmarna pogoda na świecie. Tam właśnie mieszka i pracuje ojciec Ted Crilly.</desc>
 		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="TV4" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Septagon</title>
-		<desc lang="pl">Serial kryminalny.</desc>
-		<category lang="pl">serial kryminalny</category>
 	</programme>
 	<programme channel="TV4" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">STOP Drogówka</title>
@@ -2177,11 +2087,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="MTV Music" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">MTV Polska lista</title>
-		<desc lang="pl">Program, w którym widzowie usłyszą najpopularniejsze piosenki z polskich list przebojów.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="MTV Music" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">MTV Hits</title>
 		<desc lang="pl">Godzinna dawka najlepszych przebojów przeplatanych największymi hitami z ostatnich dziesięciu lat.</desc>
@@ -2257,11 +2162,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="MTV Polska HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Nastoletnie matki UK 4</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="MTV Polska HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Nastoletnie matki UK 5</title>
 		<desc lang="pl">Reality show.</desc>
@@ -2331,11 +2231,6 @@
 		<title lang="pl">M is for Music</title>
 		<desc lang="pl">Zestawienie aktualnych muzycznych przebojów, które podbiły serca słuchaczy na całym świecie.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TTV HD" start="20191212125500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">SOS. Ekipy w akcji</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
 	</programme>
 	<programme channel="TTV HD" start="20191212135500 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Przyłapani na zdradzie</title>
@@ -2461,16 +2356,6 @@
 		<title lang="pl">DeFacto 5</title>
 		<desc lang="pl">Program popularnonaukowy.</desc>
 		<category lang="pl">program popularnonaukowy</category>
-	</programme>
-	<programme channel="CBS reality HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Dorwać złodzieja</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="CBS reality HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Dorwać złodzieja</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="CBS reality HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Na straży prawa 5</title>
@@ -2627,21 +2512,6 @@
 		<desc lang="pl">Losy księdza Dowlinga i siostry Steve, którzy mają osobliwe hobby. Wspólnie pasjonują się rozwiązywaniem zagadek kryminalnych.</desc>
 		<category lang="pl">serial kryminalny</category>
 	</programme>
-	<programme channel="History HD" start="20191212124000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Wojny magazynowe</title>
-		<desc lang="pl">Bohaterami serialu są handlarze antykami. Okazuje się, że zdarza im się licytować towar, którego nigdy wcześniej nie widzieli.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="History HD" start="20191212130500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Wojny magazynowe 3</title>
-		<desc lang="pl">Handlarze antykami kupują opuszczone pomieszczenia magazynowe. Poszukują w nich cennych przedmiotów, które następnie sprzedają na aukcjach.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="History HD" start="20191212133500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Wojny magazynowe 3</title>
-		<desc lang="pl">Handlarze antykami kupują opuszczone pomieszczenia magazynowe. Poszukują w nich cennych przedmiotów, które następnie sprzedają na aukcjach.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="History HD" start="20191212140000 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Wojny magazynowe - Teksas 3</title>
 		<desc lang="pl">Uczestnicy licytują zawartość opuszczonych pomieszczeń magazynowych zlokalizowanych w Teksasie. Handlarze są lubiącymi ryzyko hazardzistami.</desc>
@@ -2736,21 +2606,6 @@
 		<title lang="pl">Wojny magazynowe - Teksas 3</title>
 		<desc lang="pl">Uczestnicy licytują zawartość opuszczonych pomieszczeń magazynowych zlokalizowanych w Teksasie. Handlarze są lubiącymi ryzyko hazardzistami.</desc>
 		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191212124900 +0000" stop="20191212130400 +0000">
-		<title lang="pl">Lasy Dolnego Śląska - Kostrzyca</title>
-		<desc lang="pl">Lasy Dolnego Śląska - Kostrzyca.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191212130400 +0000" stop="20191212131900 +0000">
-		<title lang="pl">Kupalle 2019</title>
-		<desc lang="pl">Wydarzenie lokalne, Kupalle czyli noc białoruska w Białowieży z okazji nocy świętojańskiej</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Regio HD" start="20191212131900 +0000" stop="20191212134600 +0000">
-		<title lang="pl">Dionizy Garbacz - Upalne dni</title>
-		<desc lang="pl">Program poświęcony rodzinie Preissom wysiedlonych w czasie wojny ze Śremu</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="TV Regio HD" start="20191212134600 +0000" stop="20191212140500 +0000">
 		<title lang="pl">VI Festiwal Decha</title>
@@ -2922,11 +2777,6 @@
 		<desc lang="pl">Metamorfozy.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Polsat Games HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">PoGraMy</title>
-		<desc lang="pl">Magazyn komputerowy.</desc>
-		<category lang="pl">magazyn komputerowy</category>
-	</programme>
 	<programme channel="Polsat Games HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Rock w Grach</title>
 		<desc lang="pl">Magazyn komputerowy.</desc>
@@ -3042,11 +2892,6 @@
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Gametoon HD" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Stream Nation - Frostpunk</title>
-		<desc lang="pl">Stream Nation - Frostpunk.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="Gametoon HD" start="20191212132000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Stream Nation - Anno 1800</title>
 		<desc lang="pl">Stream Nation - Anno 1800.</desc>
@@ -3132,11 +2977,6 @@
 		<desc lang="pl">Stream Nation - Hellblade: Senua's Sacrifice.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="stopklatka tv HD" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Katastrofy w przestworzach</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="stopklatka tv HD" start="20191212132000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Katastrofy w przestworzach</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -3206,16 +3046,6 @@
 		<title lang="pl">MiłośćKropka.pl</title>
 		<desc lang="pl">Serial paradokumentalny.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="Q Polska HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Boooskie</title>
-		<desc lang="pl">Boooskie.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Q Polska HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">TOPOWA DYCHA</title>
-		<desc lang="pl">TOPOWA DYCHA.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Q Polska HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Przygoda</title>
@@ -3351,16 +3181,6 @@
 		<title lang="pl">Q Polska</title>
 		<desc lang="pl">Q Polska.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="Disney XD" start="20191212130000 +0000" stop="20191212132900 +0000">
-		<title lang="pl">Fineasz i Ferb</title>
-		<desc lang="pl">Zwariowani Fineasz i Ferb oraz ich szalone zabawy sprawiają, że każdy kolejny dzień wakacji jest bardziej ekscytujący od poprzedniego.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Disney XD" start="20191212132900 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fineasz i Ferb</title>
-		<desc lang="pl">Zwariowani Fineasz i Ferb oraz ich szalone zabawy sprawiają, że każdy kolejny dzień wakacji jest bardziej ekscytujący od poprzedniego.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Disney XD" start="20191212140000 +0000" stop="20191212142900 +0000">
 		<title lang="pl">Kacze opowieści 2</title>
@@ -3517,11 +3337,6 @@
 		<desc lang="pl">Serial animowany.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
-	<programme channel="4Fun Dance" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Disco wizja</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="4Fun Dance" start="20191212140000 +0000" stop="20191212180000 +0000">
 		<title lang="pl">Najwięcej muzyki na imprezę</title>
 		<desc lang="pl">Prezentacja różnych hitów muzyki tanecznej, zapewniających dobrą zabawę na imprezach dla miłośników dyskotekowych rytmów.</desc>
@@ -3551,11 +3366,6 @@
 		<title lang="pl">Najlepsza muzyka nocą</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TV6 HD" start="20191212125500 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Miodowe lata</title>
-		<desc lang="pl">Losy dwóch zaprzyjaźnionych małżeństw z warszawskiej Woli. Są to motorniczy tramwaju Karol Krawczyk i kanalarz Tadeusz Norek z żonami.</desc>
-		<category lang="pl">serial komediowy</category>
 	</programme>
 	<programme channel="TV6 HD" start="20191212134000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Bumerang</title>
@@ -3627,11 +3437,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Kino Polska HD" start="20191212123500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Wszyscy kochają Romana</title>
-		<desc lang="pl">Perypetie dziennikarza sportowego Romana i jego rodziny, w której konflikty i nieporozumienia, zwłaszcza z rodzicami, to chleb powszedni.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="Kino Polska HD" start="20191212130500 +0000" stop="20191212151000 +0000">
 		<title lang="pl">Śluby panieńskie</title>
 		<desc lang="pl">Sercowe rozterki i miłosne rozgrywki - ekranizacja pełnej humoru sztuki Aleksandra Fredry.</desc>
@@ -3671,16 +3476,6 @@
 		<title lang="pl">Dublerzy</title>
 		<desc lang="pl">Dwaj Polacy podejmują się ryzykownego zadania. Mają rozpracować włoską mafię.</desc>
 		<category lang="pl">komedia sensacyjna</category>
-	</programme>
-	<programme channel="Polsat Sport News HD" start="20191212130000 +0000" stop="20191212130700 +0000">
-		<title lang="pl">Sport flesz</title>
-		<desc lang="pl">Najnowsze informacje z aren sportowych ze szczególnym uwzględnieniem występów polskich drużyn i sportowców.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="Polsat Sport News HD" start="20191212130700 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Koszykówka mężczyzn: Energa Basket Liga - mecz: PGE Spójnica Stargard - Stelmet Enea BC Zielona Góra</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Polsat Sport News HD" start="20191212140000 +0000" stop="20191212140700 +0000">
 		<title lang="pl">Sport flesz</title>
@@ -3796,21 +3591,6 @@
 		<title lang="pl">The Specials - Follies</title>
 		<desc lang="pl">Belgique. The English ska band The Specials live in the studio &quot;Follies!</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="TVP Info" start="20191212125900 +0000" stop="20191212132900 +0000">
-		<title lang="pl">Serwis Info</title>
-		<desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TVP Info" start="20191212132900 +0000" stop="20191212135100 +0000">
-		<title lang="pl">Serwis Info</title>
-		<desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TVP Info" start="20191212135100 +0000" stop="20191212135900 +0000">
-		<title lang="pl">Pogoda Info</title>
-		<desc lang="pl">Szczegółowe informacje na temat stanu pogody w najbliższych dniach.</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="TVP Info" start="20191212135900 +0000" stop="20191212142900 +0000">
 		<title lang="pl">Serwis Info</title>
@@ -3962,11 +3742,6 @@
 		<desc lang="pl">Program publicystyczny.</desc>
 		<category lang="pl">program publicystyczny</category>
 	</programme>
-	<programme channel="HBO3 HD" start="20191212125500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Odpałowe królowe 2</title>
-		<desc lang="pl">Serial komediowy.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="HBO3 HD" start="20191212135500 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Tajemnice lasu</title>
 		<desc lang="pl">Chcąc spełnić marzenie o posiadaniu potomstwa, małżonkowie zawierają układ z wiedźmą.</desc>
@@ -4042,11 +3817,6 @@
 		<desc lang="pl">MTV Rocks gets you through the night with the most awesome sounds and all the hottest bands you could ever need.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="MTV Dance" start="20191212080000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Big Tunes!</title>
-		<desc lang="pl">Classic anthems or new dancefloor smashes. As long as they're big tunes, we're playing them all right now!</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="MTV Dance" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Club Classics</title>
 		<desc lang="pl">MTV Dance brings you the ultimate dance compilation: Non-stop anthems from the old school to the new. Enjoy!</desc>
@@ -4080,11 +3850,6 @@
 	<programme channel="MTV Hits" start="20191212220000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Non-Stop Hits</title>
 		<desc lang="pl">Whether you're looking for a 00s chart smash or the freshest pop sensation, you'll find more hits, more often on MTV Hits!</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="Kino Polska Muzyka" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Kultowe przeboje</title>
-		<desc lang="pl">Zestawienie najpopularniejszych przebojów polskiej muzyki rozrywkowej.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
 	<programme channel="Kino Polska Muzyka" start="20191212140000 +0000" stop="20191212150000 +0000">
@@ -4162,11 +3927,6 @@
 		<desc lang="pl">W programie zaprezentowana zostanie twórczość muzyków, zarówno debiutantów, jak i artystów znanych już szerokiej publiczności.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="TVR HD" start="20191212124500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Mała Italia</title>
-		<desc lang="pl">Magazyn.</desc>
-		<category lang="pl">magazyn</category>
-	</programme>
 	<programme channel="TVR HD" start="20191212134500 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Z adrenaliną na etacie</title>
 		<desc lang="pl">Magazyn.</desc>
@@ -4241,16 +4001,6 @@
 		<title lang="pl">Strefa muzyki</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="Russia Today" start="20191212130000 +0000" stop="20191212132900 +0000">
-		<title lang="pl">Headline News</title>
-		<desc lang="pl">Latest news update.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="Russia Today" start="20191212132900 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Watching the Hawks - Talk Show</title>
-		<desc lang="pl">Hosts, Tyrel Ventura, Sean Stone and Tabetha Wallace are your eyes and ears on the ground in the world of media, politics and pop culture.</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="Russia Today" start="20191212140000 +0000" stop="20191212142900 +0000">
 		<title lang="pl">Headline News</title>
@@ -4382,11 +4132,6 @@
 		<desc lang="pl">Hosts, Tyrel Ventura, Sean Stone and Tabetha Wallace are your eyes and ears on the ground in the world of media, politics and pop culture.</desc>
 		<category lang="pl">program informacyjny</category>
 	</programme>
-	<programme channel="Super Polsat" start="20191212123000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">W rytmie serca</title>
-		<desc lang="pl">Serial obyczajowy.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="Super Polsat" start="20191212133000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Top Chef 3</title>
 		<desc lang="pl">Nowa edycja show, w którym osoby zawodowo związane z gotowaniem walczą o 100 tysięcy złotych i prestiżowy tytuł Top Chefa.</desc>
@@ -4430,11 +4175,6 @@
 	<programme channel="Super Polsat" start="20191213014000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Twoja Twarz Brzmi Znajomo 2</title>
 		<desc lang="pl">Druga edycja show, w którym polscy celebryci wcielają się w znanych piosenkarzy. Muszą upodobnić się do wykonawcy i zaśpiewać jego utwór.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVP Rozrywka" start="20191212121000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">10 Paranienormalnych historii</title>
-		<desc lang="pl">Specjalny program z okazji 10. urodzin Paranienormalnych. W dziesięciu częściach artyści opowiadają m.in. o pierwszych krokach na scenie.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="TVP Rozrywka" start="20191212131500 +0000" stop="20191212142000 +0000">
@@ -4517,11 +4257,6 @@
 		<desc lang="pl">Trzecia Mazurska Biesiada Kabaretowa w Mrągowie. Konferencja kabaretowa na temat odwiecznej walki płci odbywała się pod hasłem 'Baby górą'.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="CI Polsat HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Miasto morderców 2</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="CI Polsat HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Kobiety, które zabijają 6</title>
 		<desc lang="pl">Oparte na faktach historie kobiet oskarżonych o morderstwo. Bohaterki poszczególnych odcinków często szczegółowo planowały swoje zbrodnie.</desc>
@@ -4602,11 +4337,6 @@
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="AXN HD" start="20191212125000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Agenci NCIS: Los Angeles 10</title>
-		<desc lang="pl">Serial sensacyjny.</desc>
-		<category lang="pl">serial sensacyjny</category>
-	</programme>
 	<programme channel="AXN HD" start="20191212134500 +0000" stop="20191212154000 +0000">
 		<title lang="pl">Klopsiki i inne zjawiska pogodowe</title>
 		<desc lang="pl">Świat dotyka klęska urodzaju.</desc>
@@ -4661,11 +4391,6 @@
 		<title lang="pl">Skorpion 4</title>
 		<desc lang="pl">Serial sensacyjny.</desc>
 		<category lang="pl">serial sensacyjny</category>
-	</programme>
-	<programme channel="AXN Spin HD" start="20191212125000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Kroniki Shannary 2</title>
-		<desc lang="pl">Serial fantasy.</desc>
-		<category lang="pl">serial fantasy</category>
 	</programme>
 	<programme channel="AXN Spin HD" start="20191212134500 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Heads Up Daily - Best of</title>
@@ -4741,21 +4466,6 @@
 		<title lang="pl">The Good Doctor</title>
 		<desc lang="pl">Serial obyczajowy.</desc>
 		<category lang="pl">serial obyczajowy</category>
-	</programme>
-	<programme channel="Polsat News HD" start="20191212125000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Wydarzenia</title>
-		<desc lang="pl">Najbardziej aktualne wieści na temat bieżącej sytuacji politycznej, społecznej i gospodarczej.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="Polsat News HD" start="20191212133000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">W rytmie dnia - serwis informacyjny</title>
-		<desc lang="pl">Program informacyjny.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="Polsat News HD" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Milena Rostkowska-Galant oraz Paulina Sykut-Jeżyna informują o warunkach atmosferycznych w Polsce i za granicą w najbliższych dniach.</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="Polsat News HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">W rytmie dnia - serwis informacyjny</title>
@@ -4947,11 +4657,6 @@
 		<desc lang="pl">Serial kryminalny.</desc>
 		<category lang="pl">serial kryminalny</category>
 	</programme>
-	<programme channel="Nat Geo People HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Niezwykły dr Pol</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Nat Geo People HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Niezwykły dr Pol</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -5032,11 +4737,6 @@
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="AXN WHITE" start="20191212123500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Zemsta 2</title>
-		<desc lang="pl">Serial kryminalny.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="AXN WHITE" start="20191212134500 +0000" stop="20191212144000 +0000">
 		<title lang="pl">Bez śladu 3</title>
 		<desc lang="pl">Przy FBI zostaje zorganizowany specjalny zespół do poszukiwania osób zaginionych. Ma do dyspozycji najnowsze techniki dochodzeniowe.</desc>
@@ -5101,11 +4801,6 @@
 		<title lang="pl">Jednostka do zadań specjalnych 11</title>
 		<desc lang="pl">Serial kryminalny.</desc>
 		<category lang="pl">serial kryminalny</category>
-	</programme>
-	<programme channel="AXN BLACK" start="20191212123500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Zagadki z przeszłości 2</title>
-		<desc lang="pl">Kontynuacja przygód Sydney Fox. Bohaterka jest historykiem. Podróżuje po świecie w poszukiwaniu zaginionych skarbów i dzieł sztuki.</desc>
-		<category lang="pl">serial przygodowy</category>
 	</programme>
 	<programme channel="AXN BLACK" start="20191212133500 +0000" stop="20191212143000 +0000">
 		<title lang="pl">MacGyver</title>
@@ -5176,11 +4871,6 @@
 		<title lang="pl">Zabójcze umysły: Poza granicami 2</title>
 		<desc lang="pl">Serial kryminalny.</desc>
 		<category lang="pl">serial kryminalny</category>
-	</programme>
-	<programme channel="Disco Polo Music" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Top 10 - lista przebojów</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
 	</programme>
 	<programme channel="Disco Polo Music" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">The Best of Disco Polo</title>
@@ -5257,11 +4947,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="TV Puls HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Kobra - oddział specjalny</title>
-		<desc lang="pl">Losy niemieckich policjantów, którzy patrolują autostradę wiodącą ze wschodu na zachód Europy. Mają do czynienia z groźnymi osobami.</desc>
-		<category lang="pl">serial sensacyjny</category>
-	</programme>
 	<programme channel="TV Puls HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Agenci NCIS: Los Angeles 9</title>
 		<desc lang="pl">Serial sensacyjny.</desc>
@@ -5316,11 +5001,6 @@
 		<title lang="pl">Ojciec Ted</title>
 		<desc lang="pl">Na wysepce Craggy u wybrzeży Irlandii panuje najbardziej koszmarna pogoda na świecie. Tam właśnie mieszka i pracuje ojciec Ted Crilly.</desc>
 		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Retro HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Mariah Carey Through Time</title>
-		<desc lang="pl">See the evolution of Mariah Carey's music videos through the ages.</desc>
-		<category lang="pl">program muzyczny</category>
 	</programme>
 	<programme channel="Retro HD" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Daily Video Hits</title>
@@ -5497,16 +5177,6 @@
 		<desc lang="pl">Komediodramat.</desc>
 		<category lang="pl">komediodramat</category>
 	</programme>
-	<programme channel="Polsat News 2" start="20191212122500 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Polityka na ostro</title>
-		<desc lang="pl">Program publicystyczny.</desc>
-		<category lang="pl">program publicystyczny</category>
-	</programme>
-	<programme channel="Polsat News 2" start="20191212132500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Interwencja Extra</title>
-		<desc lang="pl">Magazyn reporterów.</desc>
-		<category lang="pl">magazyn reporterów</category>
-	</programme>
 	<programme channel="Polsat News 2" start="20191212135500 +0000" stop="20191212153000 +0000">
 		<title lang="pl">Państwo w państwie</title>
 		<desc lang="pl">Program publicystyczny.</desc>
@@ -5652,11 +5322,6 @@
 		<desc lang="pl">Mozart - Cos fan tutte.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Top KIDS Jr HD" start="20191212060000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pobudka z Top Kids Jr</title>
-		<desc lang="pl">Muzyczny poranek od rana wprawi maluchy w dobry nastrój i doda energii na cały dzień.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
 	<programme channel="Top KIDS Jr HD" start="20191212140000 +0000" stop="20191212210000 +0000">
 		<title lang="pl">Top Kids Jr Music</title>
 		<desc lang="pl">Pełen przygód dzień z ulubionymi hitami muzyki dziecięcej.</desc>
@@ -5671,11 +5336,6 @@
 		<title lang="pl">Noc z Top Kids Jr</title>
 		<desc lang="pl">Zabawna noc z piosenkami dla najmłodszych pozwoli maluchom zasnąć i zregenerować siły przed następnym, pełnym przygód dniem.</desc>
 		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Super Polsat HD" start="20191212123000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">W rytmie serca</title>
-		<desc lang="pl">Serial obyczajowy.</desc>
-		<category lang="pl">serial obyczajowy</category>
 	</programme>
 	<programme channel="Super Polsat HD" start="20191212133000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Top Chef 3</title>
@@ -5721,11 +5381,6 @@
 		<title lang="pl">Twoja Twarz Brzmi Znajomo 2</title>
 		<desc lang="pl">Druga edycja show, w którym polscy celebryci wcielają się w znanych piosenkarzy. Muszą upodobnić się do wykonawcy i zaśpiewać jego utwór.</desc>
 		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVN 7" start="20191212124000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Zakochani po uszy</title>
-		<desc lang="pl">Telenowela.</desc>
-		<category lang="pl">telenowela</category>
 	</programme>
 	<programme channel="TVN 7" start="20191212131000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Szpital</title>
@@ -5802,11 +5457,6 @@
 		<desc lang="pl">Nocny program interaktywny, w którym wróżki odpowiadają na pytania widzów dotyczące ich przyszłości.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="TVP Kultura HD" start="20191212130000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Studio Kultura - rozmowy</title>
-		<desc lang="pl">Rozmowy z zaproszonymi do studia ciekawymi gośćmi. Dotyczą one na ogół zagadnień związanych ze sztuką, kulturą i historią.</desc>
-		<category lang="pl">magazyn kulturalny</category>
-	</programme>
 	<programme channel="TVP Kultura HD" start="20191212132000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Krąg Kantora</title>
 		<desc lang="pl">Film dokumentalny.</desc>
@@ -5871,11 +5521,6 @@
 		<title lang="pl">Nasza młodsza siostra</title>
 		<desc lang="pl">Dramat obyczajowy.</desc>
 		<category lang="pl">dramat obyczajowy</category>
-	</programme>
-	<programme channel="NTL Radomsko" start="20191212123500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Kolekcjonerska Pasja</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="NTL Radomsko" start="20191212134500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Telesprzedaż</title>
@@ -5992,11 +5637,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="SCI FI HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Gwiezdne wrota: Atlantyda 4</title>
-		<desc lang="pl">Bohaterowie badają tajemnice Atlantydy i zmagają się z nowymi zagrożeniami. Członkowie ekspedycji są ranni, a miasto dryfuje w kosmosie.</desc>
-		<category lang="pl">serial SF</category>
-	</programme>
 	<programme channel="SCI FI HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Gwiezdne wrota 9</title>
 		<desc lang="pl">Historia tajnej czteroosobowej jednostki Sił Powietrznych, która bada nowe światy i starożytne cywilizacje za pomocą Gwiezdnych Wrót.</desc>
@@ -6072,11 +5712,6 @@
 		<desc lang="pl">Good news.. we've got your back! There's no need to go anywhere because we're bringing the party to you, and it's going All Night Long!</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Power TV HD" start="20191212120000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Power mix</title>
-		<desc lang="pl">Muzyczna szafa grająca z najlepszymi hitami. Dla każdego coś miłego.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="Power TV HD" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Extra klasyka</title>
 		<desc lang="pl">Największe przeboje lat 80. i 90.</desc>
@@ -6101,31 +5736,6 @@
 		<title lang="pl">Moc na noc</title>
 		<desc lang="pl">Muzyka nocą. Najlepsze polskie przeboje.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191212130000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Weather forecast</title>
-		<desc lang="pl">Daily weather forecast.. Daily weather forecast.</desc>
-		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191212130500 +0000" stop="20191212132000 +0000">
-		<title lang="pl">The language of business</title>
-		<desc lang="pl">Kurs języka angielskiego.</desc>
-		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191212132000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">English 911 2</title>
-		<desc lang="pl">Kurs języka angielskiego.</desc>
-		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191212132500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Grammar wise</title>
-		<desc lang="pl">Kurs języka angielskiego.</desc>
-		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="English Club TV HD" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">What did they say</title>
-		<desc lang="pl">Kurs języka angielskiego.</desc>
-		<category lang="pl">kurs języka angielskiego</category>
 	</programme>
 	<programme channel="English Club TV HD" start="20191212140000 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Weather forecast</title>
@@ -6466,46 +6076,6 @@
 		<title lang="pl">Weather forecast</title>
 		<desc lang="pl">Daily weather forecast.. Daily weather forecast.</desc>
 		<category lang="pl">kurs języka angielskiego</category>
-	</programme>
-	<programme channel="France 24" start="20191212130000 +0000" stop="20191212131400 +0000">
-		<title lang="pl">Le journal</title>
-		<desc lang="pl">(FRA, 2019) 24h/24, 7j/7 un bulletin d'informations est presente en direct depuis la redaction. Live</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212131400 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Rappel des titres</title>
-		<desc lang="pl">Rappel des grands titres de l'actualite. Live</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212131500 +0000" stop="20191212132000 +0000">
-		<title lang="pl">L'invite du jour</title>
-		<desc lang="pl">Program informacyjny.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212132000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Sports</title>
-		<desc lang="pl">Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images. Live</desc>
-		<category lang="pl">program sportowy</category>
-	</programme>
-	<programme channel="France 24" start="20191212133000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Le journal</title>
-		<desc lang="pl">(FRA, 2019) 24h/24, 7j/7 un bulletin d'informations est presente en direct depuis la redaction. Live</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212134500 +0000" stop="20191212134600 +0000">
-		<title lang="pl">Rappel des titres</title>
-		<desc lang="pl">Rappel des grands titres de l'actualite. Live</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212134600 +0000" stop="20191212135100 +0000">
-		<title lang="pl">La chronique du jour</title>
-		<desc lang="pl">Un chroniqueur de France 24 met en perspective un grand theme de l'actualite. Live</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="France 24" start="20191212135100 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Extrait magazine</title>
-		<desc lang="pl">Les meilleurs extraits des magazines d'information de France 24. Live</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="France 24" start="20191212140000 +0000" stop="20191212141400 +0000">
 		<title lang="pl">Le journal</title>
@@ -6857,11 +6427,6 @@
 		<desc lang="pl">(FRA, 2019) 24h/24, 7j/7 un bulletin d'informations est presente en direct depuis la redaction. Live</desc>
 		<category lang="pl">program informacyjny</category>
 	</programme>
-	<programme channel="TVP Historia" start="20191212121500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Rodzina Połanieckich</title>
-		<desc lang="pl">Ekranizacja powieści Sienkiewicza. Rok 1893. Połaniecki przyjeżdża do Krzemienia, majątku Pławickich. Poznaje córkę właściciela, Marynię.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="TVP Historia" start="20191212134500 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Era kosmiczna: historia NASA</title>
 		<desc lang="pl">Program prezentuje najważniejsze wydarzenia z historii NASA, rządowej organizacji powstałej w 1958 r.</desc>
@@ -7017,11 +6582,6 @@
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
 	</programme>
-	<programme channel="4Fun Gold Hits" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Wehikuł czasu - lata 90.</title>
-		<desc lang="pl">Przypomnienie tych przebojów z wybranej dekady, które zachwycają, wzruszają i poruszają serca fanów dobrej muzyki.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="4Fun Gold Hits" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Tęczowa godzina</title>
 		<desc lang="pl">Program muzyczny.</desc>
@@ -7087,11 +6647,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Eleven Sports 4 HD" start="20191212120000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Piłka nożna: Liga włoska - mecz: Inter Mediolan - AS Roma</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="Eleven Sports 4 HD" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Piłka nożna: Liga hiszpańska - mecz: CD Leganes - Celta Vigo</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -7130,36 +6685,6 @@
 	<programme channel="Eleven Sports 4 HD" start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Piłka nożna: Liga włoska - mecz: Torino FC - ACF Fiorentina</title>
 		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212125000 +0000" stop="20191212130600 +0000">
-		<title lang="pl">Evobox Stream</title>
-		<desc lang="pl">Evobox Stream.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212130600 +0000" stop="20191212132100 +0000">
-		<title lang="pl">Aparat słuchowy</title>
-		<desc lang="pl">Aparat słuchowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212132100 +0000" stop="20191212132800 +0000">
-		<title lang="pl">Tor wyścigowy Fantastic Tracks Super Loop</title>
-		<desc lang="pl">Tor wyścigowy Fantastic Tracks Super Loop.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212132800 +0000" stop="20191212133600 +0000">
-		<title lang="pl">Crystal Vision - okulary powiększające</title>
-		<desc lang="pl">Crystal Vision - okulary powiększające.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212133600 +0000" stop="20191212134600 +0000">
-		<title lang="pl">Magic Stitch - ręczna maszyna do szycia</title>
-		<desc lang="pl">Magic Stitch - ręczna maszyna do szycia.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="TV Okazje HD" start="20191212134600 +0000" stop="20191212135400 +0000">
-		<title lang="pl">Easy Paint Pro - niekapiący wałek do malowania</title>
-		<desc lang="pl">Easy Paint Pro - niekapiący wałek do malowania.</desc>
 		<category lang="pl"></category>
 	</programme>
 	<programme channel="TV Okazje HD" start="20191212135400 +0000" stop="20191212140400 +0000">
@@ -7627,11 +7152,6 @@
 		<desc lang="pl">Magazyn popularnonaukowy.</desc>
 		<category lang="pl">magazyn popularnonaukowy</category>
 	</programme>
-	<programme channel="Loud HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Royal Blood - Live</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="Loud HD" start="20191212133000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Daily Video Hits</title>
 		<desc lang="pl">Program muzyczny.</desc>
@@ -7716,16 +7236,6 @@
 		<title lang="pl">Kiedy kobiety miały ogony</title>
 		<desc lang="pl">Dwa plemiona jaskiniowców szykują się do wojny. Narasta zainteresowanie między mężczyznami i kobietami, pojawiają się najstarsze profesje.</desc>
 		<category lang="pl">komedia</category>
-	</programme>
-	<programme channel="Deutsche Welle" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">DW News</title>
-		<desc lang="pl">DW News.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Deutsche Welle" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Conflict Zone</title>
-		<desc lang="pl">Conflict Zone.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Deutsche Welle" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">DW News</title>
@@ -7927,21 +7437,6 @@
 		<desc lang="pl">DW News.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Red Carpet HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Superstars</title>
-		<desc lang="pl">Każdy odcinek to opowieść o drodze do sławy kilku hollywoodzkich gwiazd.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Red Carpet HD" start="20191212133000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Dziesięć najlepszych</title>
-		<desc lang="pl">W programie przedstawiane są najciekawsze zjawiska popkultury i świata rozrywki, które przynoszą olbrzymie dochody.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="Red Carpet HD" start="20191212134500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Planetarium</title>
-		<desc lang="pl">Reportaż.</desc>
-		<category lang="pl">reportaż</category>
-	</programme>
 	<programme channel="Red Carpet HD" start="20191212140000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Zobacz! News</title>
 		<desc lang="pl">Reportaż.</desc>
@@ -8077,11 +7572,6 @@
 		<desc lang="pl">Reportaż.</desc>
 		<category lang="pl">reportaż</category>
 	</programme>
-	<programme channel="Discovery life HD" start="20191212125000 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Cofnij czas</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
 	<programme channel="Discovery life HD" start="20191212135000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Projektanci piękna</title>
 		<desc lang="pl">Reality show.</desc>
@@ -8166,41 +7656,6 @@
 		<title lang="pl">Nie do uwierzenia!</title>
 		<desc lang="pl">Historie osób, którym natura lub przypadek zdeformowały ciało. Widzowie zobaczą wywiady z nimi i przekonają się, jak radzą sobie w życiu.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212125400 +0000" stop="20191212130800 +0000">
-		<title lang="pl">Mały Brązowy Miś</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212130800 +0000" stop="20191212131900 +0000">
-		<title lang="pl">Pamiętnik Florki</title>
-		<desc lang="pl">Mała ryjówka Florka jest pilną obserwatorką rzeczywistości. Wszystko sprawdza sama i dochodzi do własnych, odkrywczych wniosków.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212131900 +0000" stop="20191212133300 +0000">
-		<title lang="pl">Kadeci z Badanamu</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212133300 +0000" stop="20191212134300 +0000">
-		<title lang="pl">Kacper 5</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212134300 +0000" stop="20191212134800 +0000">
-		<title lang="pl">Szymon</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212134800 +0000" stop="20191212135300 +0000">
-		<title lang="pl">Szymon</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Polsat JimJam " start="20191212135300 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Chupi idzie do szkoły</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Polsat JimJam " start="20191212140000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Stacyjkowo 3</title>
@@ -8492,11 +7947,6 @@
 		<desc lang="pl">Strażak Sam mieszka w pięknym Pontypandy. Nie tylko gasi pożary, ale również pomaga mieszkańcom miasteczka w rozwiązywaniu ich problemów.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
-	<programme channel="Polo TV" start="20191212130000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Gotuj z nami - Polo Kuchnia</title>
-		<desc lang="pl">Miniseria poprzedzająca audycje programu &quot;Polo Kuchnia&quot;, w której prezentowane są kulisy programu, a także specjalne przepisy kulinarne.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
 	<programme channel="Polo TV" start="20191212130500 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Tego słuchacie</title>
 		<desc lang="pl">Najlepsze hity disco polo. Gospodarz programu, Wojtek Grodzki ,wypytuje napotkanych widzów, czego słuchają.</desc>
@@ -8672,11 +8122,6 @@
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
 	</programme>
-	<programme channel="Polsat Romans" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pielęgniarki</title>
-		<desc lang="pl">Problemy i dylematy pacjentów oglądane z perspektywy kobiet, które wykonują jeden z bardzo wymagających, ale i niedocenianych zawodów.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="Polsat Romans" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Przyjaciółki</title>
 		<desc lang="pl">Serial obyczajowy.</desc>
@@ -8731,21 +8176,6 @@
 		<title lang="pl">Zdrady</title>
 		<desc lang="pl">Serial paradokumentalny.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="TV Trwam" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Po stronie prawdy</title>
-		<desc lang="pl">Prowadzi: Adam Ślusarski, Gabriela Szreder. Program odsłania kulisy życia społecznego, które wymagają interwencji.</desc>
-		<category lang="pl">magazyn reporterów</category>
-	</programme>
-	<programme channel="TV Trwam" start="20191212132000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Kontynent nadziei - Jan Paweł II w Meksyku - Guadalupe 1979 r.</title>
-		<desc lang="pl">Kontynent nadziei - Jan Paweł II w Meksyku - Guadeluppe 1979 r.</desc>
-		<category lang="pl">film dokumentalny</category>
-	</programme>
-	<programme channel="TV Trwam" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Święty na każdy dzień</title>
-		<desc lang="pl">Wspomnienie Najświętszej Maryi Panny z Guadalupe.</desc>
-		<category lang="pl">program religijny</category>
 	</programme>
 	<programme channel="TV Trwam" start="20191212140000 +0000" stop="20191212154000 +0000">
 		<title lang="pl">Dokonać niemożliwego</title>
@@ -8927,11 +8357,6 @@
 		<desc lang="pl">Serwis przygotowany przez reporterów TV Trwam prezentujący najnowsze informacje z kraju i ze świata.</desc>
 		<category lang="pl">program informacyjny</category>
 	</programme>
-	<programme channel="Bollywood HD" start="20191212114000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Banjo</title>
-		<desc lang="pl">Film obyczajowy.</desc>
-		<category lang="pl">film obyczajowy</category>
-	</programme>
 	<programme channel="Bollywood HD" start="20191212135500 +0000" stop="20191212162000 +0000">
 		<title lang="pl">Raanjhanaa - Ukochana</title>
 		<desc lang="pl">Film obyczajowy.</desc>
@@ -8961,11 +8386,6 @@
 		<title lang="pl">Raanjhanaa - Ukochana</title>
 		<desc lang="pl">Film obyczajowy.</desc>
 		<category lang="pl">film obyczajowy</category>
-	</programme>
-	<programme channel="Playboy HD" start="20191212123600 +0000" stop="20191212133400 +0000">
-		<title lang="pl">Swing 3</title>
-		<desc lang="pl">Film erotyczny.</desc>
-		<category lang="pl">film erotyczny</category>
 	</programme>
 	<programme channel="Playboy HD" start="20191212133400 +0000" stop="20191212140100 +0000">
 		<title lang="pl">World Of Playboy</title>
@@ -9121,116 +8541,6 @@
 		<title lang="pl">Women Getting Even</title>
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212125800 +0000" stop="20191212130100 +0000">
-		<title lang="pl">Zoo</title>
-		<desc lang="pl">Przygody strażnika i mieszkańców ogrodu zoologicznego.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212130100 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Dotty i Kitty</title>
-		<desc lang="pl">Magiczny ołówek wyznacza kropkami zewnętrzne kontury figur. Kot stara się połączyć je liniami i pomalować obrazek.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212130500 +0000" stop="20191212130700 +0000">
-		<title lang="pl">Małe, ale pracowite</title>
-		<desc lang="pl">Trzy elfy budują fantastyczne przedmioty np. z drewna i lodu.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212130700 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Sunville</title>
-		<desc lang="pl">Codzienne życie sympatycznych mieszkańców wsi.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212131000 +0000" stop="20191212131300 +0000">
-		<title lang="pl">Przygody w przestrzeni</title>
-		<desc lang="pl">Wesołe postacie pomagają dzieciom rozwinąć umiejętność kojarzenia i orientowania się w przestrzeni.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212131300 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Mimo i Bobo</title>
-		<desc lang="pl">Przygody Mimo - małego, słodkiego misia pandy - oraz jego wiernego przyjaciela Bobo.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212131500 +0000" stop="20191212131800 +0000">
-		<title lang="pl">Hubbi i jego koledzy</title>
-		<desc lang="pl">Wędrowni majsterkowicze, którzy naprawiają to, co niekoniecznie jest zepsute, przeżywają wiele zabawnych przygód.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212131800 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Uczymy się</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212132000 +0000" stop="20191212132300 +0000">
-		<title lang="pl">Dinoland</title>
-		<desc lang="pl">Cztery małe dinozaury poznają okolicę. Odwiedzając nowe miejsca, muszą się wspierać i nawzajem sobie pomagać.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212132300 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Safari</title>
-		<desc lang="pl">Krótkometrażowe filmy o zachowaniach dzikich zwierząt oraz miejscach ich przebywania.</desc>
-		<category lang="pl">film krótkometrażowy</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212132500 +0000" stop="20191212132800 +0000">
-		<title lang="pl">Afryka</title>
-		<desc lang="pl">Przedstawiamy afrykańskie zwierzęta w ich naturalnym środowisku.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212132800 +0000" stop="20191212133100 +0000">
-		<title lang="pl">Sippi Sappi</title>
-		<desc lang="pl">Opowieści o wakacyjnych zabawach na wsi dwóch małych rolkarzy, Sippi i Sappi.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212133100 +0000" stop="20191212133400 +0000">
-		<title lang="pl">Kolorowa magia</title>
-		<desc lang="pl">Plamy farb opowiadają najmłodszym widzom o kolorach.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212133400 +0000" stop="20191212133600 +0000">
-		<title lang="pl">Opowieści warzywne</title>
-		<desc lang="pl">Warzywa i owoce pokazują najmłodszym widzom swoją prawdziwą osobowość.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212133600 +0000" stop="20191212133800 +0000">
-		<title lang="pl">Grupy</title>
-		<desc lang="pl">Przyjacielski lisek uczy się, co znaczą pojęcia grup i podobieństwa.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212133800 +0000" stop="20191212134100 +0000">
-		<title lang="pl">Oli - cykle natury</title>
-		<desc lang="pl">Słoń Oli przedstawia tajemnice natury.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212134100 +0000" stop="20191212134300 +0000">
-		<title lang="pl">Panni i Fanni</title>
-		<desc lang="pl">Dwie wróżki malują swój własny wzór obrazu.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212134300 +0000" stop="20191212134700 +0000">
-		<title lang="pl">Dotty i Kitty</title>
-		<desc lang="pl">Magiczny ołówek wyznacza kropkami zewnętrzne kontury figur. Kot stara się połączyć je liniami i pomalować obrazek.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212134700 +0000" stop="20191212134900 +0000">
-		<title lang="pl">Muzeum</title>
-		<desc lang="pl">Dzielny klaun poszukuje zaginionych zwierząt, które zniknęły z obrazów w muzeum.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212134900 +0000" stop="20191212135200 +0000">
-		<title lang="pl">Kolorowe koło</title>
-		<desc lang="pl">Mały szczeniak używa kolorowego koła, żeby znaleźć swojego małego przyjaciela w lesie.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212135200 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Jaki jest twój zawód ?</title>
-		<desc lang="pl">W zabawny sposób prezentowane są różne rodzaje zawodów.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="Duck TV" start="20191212135500 +0000" stop="20191212135700 +0000">
-		<title lang="pl">Sunville</title>
-		<desc lang="pl">Codzienne życie sympatycznych mieszkańców wsi.</desc>
-		<category lang="pl">program dla dzieci</category>
 	</programme>
 	<programme channel="Duck TV" start="20191212135700 +0000" stop="20191212140200 +0000">
 		<title lang="pl">Albert tłumaczy</title>
@@ -10757,16 +10067,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="CANAL+ SPORT HD" start="20191212111000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Piłka nożna: Liga hiszpańska - mecz: SD Eibar - Getafe CF</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="CANAL+ SPORT HD" start="20191212131500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Planeta Ekstraklasa</title>
-		<desc lang="pl">W programie prezentowane są reportaże poświęcone PKO Ekstraklasie.</desc>
-		<category lang="pl">magazyn piłkarski</category>
-	</programme>
 	<programme channel="CANAL+ SPORT HD" start="20191212134500 +0000" stop="20191212141500 +0000">
 		<title lang="pl">LaLiga World</title>
 		<desc lang="pl">Magazyn piłkarski.</desc>
@@ -10897,11 +10197,6 @@
 		<desc lang="pl">Dramat obyczajowy.</desc>
 		<category lang="pl">dramat obyczajowy</category>
 	</programme>
-	<programme channel="Animal Planet HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Resocjalizacja z pitbullem</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Animal Planet HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Kot z piekła rodem</title>
 		<desc lang="pl">Behawiorysta kotów Jackson Galaxy pomaga właścicielom zapanować nad swymi podopiecznymi. Dzięki niemu do domów powracają spokój i harmonia.</desc>
@@ -10972,11 +10267,6 @@
 		<desc lang="pl">Ponownie spotykamy się z kapitanem Paulem Watsonem i ekipą Sea Shepherd, którzy walczą przeciwko japońskim poławiaczom wielorybów.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Discovery Channel HD " start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fani czterech kółek</title>
-		<desc lang="pl">Mike Brewer i Ant Anstead zmagają się z renowacją zniszczonych pojazdów. Kupują i remontują stare samochody, by sprzedać je potem z zyskiem.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Discovery Channel HD " start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Stacja Australia</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -11045,16 +10335,6 @@
 	<programme channel="Discovery Channel HD " start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Ciężarówką po antypodach</title>
 		<desc lang="pl">Opowieści z życia kierowców ogromnych ciężarówek, którzy prowadzą największe i najmniej zwrotne pojazdy po drogach Australii.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Travel Channel HD" start="20191212125000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Międzynarodowi poszukiwacze domów</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Travel Channel HD" start="20191212132000 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Poszukiwacze domów w Azji</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="Travel Channel HD" start="20191212135000 +0000" stop="20191212142000 +0000">
@@ -11157,11 +10437,6 @@
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="TO!TV" start="20191212120000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Top Disco</title>
-		<desc lang="pl">Program, w którym prezentowane są największe i najpopularniejsze przeboje muzyki disco.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="TO!TV" start="20191212140000 +0000" stop="20191212210000 +0000">
 		<title lang="pl">Discostacja</title>
 		<desc lang="pl">Program poświęcony muzyce disco-polo i dance z przypomnieniem kultowych hitów i prezentacją nowości. Widzowie uczestniczą w konkursach.</desc>
@@ -11212,11 +10487,6 @@
 		<desc lang="pl">Film dokumentalny.</desc>
 		<category lang="pl">film dokumentalny</category>
 	</programme>
-	<programme channel="FilmBox Extra HD" start="20191212112500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Tak to się teraz robi</title>
-		<desc lang="pl">Lekka miłosna opowiastka z gwiazdą tego typu produkcji - Jennifer Aniston.</desc>
-		<category lang="pl">komedia obyczajowa</category>
-	</programme>
 	<programme channel="FilmBox Extra HD" start="20191212130500 +0000" stop="20191212144000 +0000">
 		<title lang="pl">Coco</title>
 		<desc lang="pl">Reżyserski debiut słynnego komika Gada Elmaleha.</desc>
@@ -11261,26 +10531,6 @@
 		<title lang="pl">Uwaga kobiety</title>
 		<desc lang="pl">Perypetie czterech przyjaciółek pracujących w redakcji dziennika. Różnią się one wiekiem oraz statusem społecznym.</desc>
 		<category lang="pl">film obyczajowy</category>
-	</programme>
-	<programme channel="Fashion TV" start="20191212130000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">The Kardashians Story</title>
-		<desc lang="pl">The Kardashians Story.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV" start="20191212132500 +0000" stop="20191212133000 +0000">
-		<title lang="pl">F-people</title>
-		<desc lang="pl">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events 1483</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV" start="20191212133000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">The Kardashians Story</title>
-		<desc lang="pl">The Kardashians Story.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fashion Week</title>
-		<desc lang="pl">Fashion Week.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Fashion TV" start="20191212140000 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Fashion Destination</title>
@@ -11552,16 +10802,6 @@
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="TVN HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">19+</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="TVN HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">19+</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="TVN HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Ugotowani</title>
 		<desc lang="pl">Reality show.</desc>
@@ -11656,11 +10896,6 @@
 		<title lang="pl">NOC Magii</title>
 		<desc lang="pl">Nocny program interaktywny, w którym wróżki odpowiadają na pytania widzów dotyczące ich przyszłości.</desc>
 		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="MTV Live HD" start="20191212124000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">MTV Presents Gibraltar Calling '18</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
 	</programme>
 	<programme channel="MTV Live HD" start="20191212132500 +0000" stop="20191212141000 +0000">
 		<title lang="pl">MTV Unplugged</title>
@@ -11795,16 +11030,6 @@
 	<programme channel="Polsat Sport Fight HD" start="20191213005500 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Boks: Gala w Radomiu - waga superpółśrednia: Rafał Jackiewicz - Stilian Kostow; waga półśrednia: Michał Żeromiński - Marcin Cybulski</title>
 		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="BBC World News" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Live With Lucy Hockings</title>
-		<desc lang="pl">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="BBC World News" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Live With Lucy Hockings</title>
-		<desc lang="pl">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents.</desc>
 		<category lang="pl"></category>
 	</programme>
 	<programme channel="BBC World News" start="20191212140000 +0000" stop="20191212143000 +0000">
@@ -11966,21 +11191,6 @@
 		<title lang="pl">BBC World News</title>
 		<desc lang="pl">The latest international news from the BBC.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="Nickelodeon" start="20191212124000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Sam &amp; Cat</title>
-		<desc lang="pl">Sam i Cat spotykają się w Hollywood. Nastolatki postawiają razem zamieszkać. Dziewczyny zatrudniają się jako opiekunki do dzieci.</desc>
-		<category lang="pl">serial dla młodzieży</category>
-	</programme>
-	<programme channel="Nickelodeon" start="20191212130500 +0000" stop="20191212131500 +0000">
-		<title lang="pl">SpongeBob Kanciastoporty 9</title>
-		<desc lang="pl">Przygody zabawnej gąbki SpongeBoba Kanciastoportego. Mieszka on w domku z ananasa na dnie oceanu w miejscowości Bikini Dolne.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Nickelodeon" start="20191212131500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">iCarly 4</title>
-		<desc lang="pl">Carly Shay z przyjaciółmi tworzą internetowy program 'iCarly'. Celem nie są jednak sława ani pieniądze, ale pozytywne wzorce i przesłanie.</desc>
-		<category lang="pl">serial dla młodzieży</category>
 	</programme>
 	<programme channel="Nickelodeon" start="20191212134500 +0000" stop="20191212141500 +0000">
 		<title lang="pl">iCarly 5</title>
@@ -12192,11 +11402,6 @@
 		<desc lang="pl">Thriller.</desc>
 		<category lang="pl">thriller</category>
 	</programme>
-	<programme channel="Kino TV HD" start="20191212110500 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Poirot</title>
-		<desc lang="pl">Pochodzący z Belgii, ekscentryczny Hercules Poirot jest doskonałym detektywem. Niezależnie od miejsca zawsze tropi przebiegłych przestępców.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="Kino TV HD" start="20191212131500 +0000" stop="20191212151000 +0000">
 		<title lang="pl">Pokonać lęk</title>
 		<desc lang="pl">Pielęgniarka pomaga pacjentom z ciężkimi urazami psychicznymi.</desc>
@@ -12236,11 +11441,6 @@
 		<title lang="pl">Londyński bulwar</title>
 		<desc lang="pl">Ekranizacja powieści Kena Bruena. Melancholijny obraz z mrocznym klimatem plus świetna obsada.</desc>
 		<category lang="pl">film kryminalny</category>
-	</programme>
-	<programme channel="Eurosport 1 HD" start="20191212130000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Snooker: Turniej Scottish Open w Glasgow - 3. dzień</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Eurosport 1 HD" start="20191212134500 +0000" stop="20191212180000 +0000">
 		<title lang="pl">Snooker: Turniej Scottish Open w Glasgow - 4. dzień</title>
@@ -12302,11 +11502,6 @@
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Ultra TV 4K" start="20191212100000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Ultra muzyka</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="Ultra TV 4K" start="20191212140000 +0000" stop="20191212180000 +0000">
 		<title lang="pl">Ultra hity</title>
 		<desc lang="pl">Program muzyczny.</desc>
@@ -12321,16 +11516,6 @@
 		<title lang="pl">Polska w 4K</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="Discovery Science HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Fabryki smaku USA</title>
-		<desc lang="pl">Widzowie dowiedzą się, jak wygląda produkcja ulubionych produktów spożywczych na skalę przemysłową.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Discovery Science HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fabryki smaku USA</title>
-		<desc lang="pl">Widzowie dowiedzą się, jak wygląda produkcja ulubionych produktów spożywczych na skalę przemysłową.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="Discovery Science HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Jak to jest zrobione?</title>
@@ -12426,21 +11611,6 @@
 		<title lang="pl">Jak działają maszyny?</title>
 		<desc lang="pl">Wszystko o parkometrach, myjniach samochodowych, hydrantach i windach.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="BBC Cbeebies" start="20191212124500 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Teletubisie 5</title>
-		<desc lang="pl">Przygody kilku stworków w magicznej krainie. Czwórka Teletubisiów, Tinky Winky, Dipsy, Laa-Laa i Po przeżywają wiele wesołych przygód.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="BBC Cbeebies" start="20191212131500 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Tosia i Tymek</title>
-		<desc lang="pl">Pięcioletnie bliźnięta, Tosia i Tymek, przeżywają typowe radości i smutki codziennego życia rodzinnego. Każdego dnia uczą się czegoś nowego.</desc>
-		<category lang="pl">serial dla dzieci</category>
-	</programme>
-	<programme channel="BBC Cbeebies" start="20191212133000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Tosia i Tymek</title>
-		<desc lang="pl">Pięcioletnie bliźnięta, Tosia i Tymek, przeżywają typowe radości i smutki codziennego życia rodzinnego. Każdego dnia uczą się czegoś nowego.</desc>
-		<category lang="pl">serial dla dzieci</category>
 	</programme>
 	<programme channel="BBC Cbeebies" start="20191212134500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Kucharz duży, kucharz mały 3</title>
@@ -12702,16 +11872,6 @@
 		<desc lang="pl">Enjoy our hand-picked assortment of soothing classics &amp; film soundtracks into the night</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Comedy Central Family HD" start="20191212123000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Co ludzie powiedzą</title>
-		<desc lang="pl">Hiacynta Bukiet nie jest zwykłą panią domu - ponieważ liczą się dla niej pozory, wiecznie udaje, że pochodzi z wyższej klasy społecznej.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Comedy Central Family HD" start="20191212130500 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Co ludzie powiedzą</title>
-		<desc lang="pl">Hiacynta Bukiet nie jest zwykłą panią domu - ponieważ liczą się dla niej pozory, wiecznie udaje, że pochodzi z wyższej klasy społecznej.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
 	<programme channel="Comedy Central Family HD" start="20191212134000 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Dzidzitata 3</title>
 		<desc lang="pl">Serial komediowy.</desc>
@@ -12842,16 +12002,6 @@
 		<desc lang="pl">Satyryczna opowieść o losach typowego szpitala w Polsce. Niezawodna kadra medyczna dokonuje karkołomnych wyczynów.</desc>
 		<category lang="pl">serial komediowy</category>
 	</programme>
-	<programme channel="Da Vinci HD" start="20191212124500 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Okropne historie</title>
-		<desc lang="pl">Rattus Rattus wyrusza w podróż po historii. Podąża śladem kilku z największych i najbardziej nikczemnych władców.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="Da Vinci HD" start="20191212132000 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Czy jesteś tak mądry jak ja?</title>
-		<desc lang="pl">Teleturniej.</desc>
-		<category lang="pl">teleturniej</category>
-	</programme>
 	<programme channel="Da Vinci HD" start="20191212135000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Sportowe laboratorium</title>
 		<desc lang="pl">Łyżwiarz Bryce dopinguje młodą i niedoświadczoną Giulianę. Pomaga jej też dr Heather, opowiadając o momencie pędu.</desc>
@@ -12967,11 +12117,6 @@
 		<desc lang="pl">Film dokumentalny.</desc>
 		<category lang="pl">film dokumentalny</category>
 	</programme>
-	<programme channel="FilmBox Family" start="20191212120500 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Sniff i nawiedzony zamek</title>
-		<desc lang="pl">Film familijny.</desc>
-		<category lang="pl">film familijny</category>
-	</programme>
 	<programme channel="FilmBox Family" start="20191212132500 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Sniff i duch z bagien</title>
 		<desc lang="pl">Film familijny.</desc>
@@ -13011,11 +12156,6 @@
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">Przerwa.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="Hustler HD" start="20191212123000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">All-Natural Anal Wives</title>
-		<desc lang="pl">Film erotyczny.</desc>
-		<category lang="pl">film erotyczny</category>
 	</programme>
 	<programme channel="Hustler HD" start="20191212140000 +0000" stop="20191212153000 +0000">
 		<title lang="pl">19YO Mean Lesbian Mistress</title>
@@ -13132,11 +12272,6 @@
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
 	</programme>
-	<programme channel="National Geographic HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Maszyny wagi ciężkiej</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="National Geographic HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Maszyny wagi ciężkiej</title>
 		<desc lang="pl">Jednym z czołowych producentów motocykli (także elektrycznych) są zakłady BMW Berlin-Spandau.</desc>
@@ -13222,11 +12357,6 @@
 		<desc lang="pl">Przypomnienie największych katastrof naszych czasów. W programie m.in. wypadki środków lokomocji, zawalenia budynków i ataki terrorystyczne.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="TVN Fabula HD" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Prawo Agaty</title>
-		<desc lang="pl">Dalsze perypetie prawniczki Agaty Przybysz, związanych z nią współpracowników i jej przyjaciół.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="TVN Fabula HD" start="20191212132000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Teraz albo nigdy! 3</title>
 		<desc lang="pl">Kontynuacja losów bohaterów. Basia pisze kolejną powieść. Andrzej ma kłopoty w pracy. Marta chce wprowadzić poprawki do swojego związku.</desc>
@@ -13276,11 +12406,6 @@
 		<title lang="pl">Ukryta prawda</title>
 		<desc lang="pl">Historie rodzin, których spokój został zburzony przez tajemnice lub ingerencję osób trzecich. Każdy odcinek serialu to odrębna opowieść.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="ESKA TV" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Hity na czasie</title>
-		<desc lang="pl">Zestawienie najpopularniejszych utworów muzycznych i teledysków, które znajdują się na szczytach różnych list przebojów.</desc>
-		<category lang="pl">program muzyczny</category>
 	</programme>
 	<programme channel="ESKA TV" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Szybkie strzały</title>
@@ -13362,11 +12487,6 @@
 		<desc lang="pl">Pasmo poświęcone krajowym wykonawcom. Prezentowane są wyłącznie utwory w wykonaniu najpopularniejszych polskich artystów.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="Extreme Sports Channel HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">X-traordinary</title>
-		<desc lang="pl">Najciekawsze momenty, najlepsi sportowcy i fascynujące rywalizacje, które przeszły do legendy X Games.</desc>
-		<category lang="pl">program sportowy</category>
-	</programme>
 	<programme channel="Extreme Sports Channel HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Drift Style</title>
 		<desc lang="pl">Magazyn sportowy.</desc>
@@ -13442,11 +12562,6 @@
 		<desc lang="pl">Najlepsi zawodnicy świata konkurują ze sobą podczas zawodów w ujeżdżaniu byków.</desc>
 		<category lang="pl">program sportowy</category>
 	</programme>
-	<programme channel="National Geographic Wild HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Kierunek Wild: Dzika Brazylia</title>
-		<desc lang="pl">Brazylia zachwyca swoją fauną i florą. To często ostatnia ostoja dzikiego życia na Ziemi. Każdy odcinek serii zabiera widzów w inne miejsce.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="National Geographic Wild HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Pomysłowi zabójcy z Afryki</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -13520,11 +12635,6 @@
 	<programme channel="National Geographic Wild HD" start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Dzikie Wyspy</title>
 		<desc lang="pl">Wyspa Vancouver to idealne środowisko dla jednej z najważniejszych ryb na świecie - łososia pacyficznego.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Discovery Historia" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Podziemne sekrety</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="Discovery Historia" start="20191212140000 +0000" stop="20191212150000 +0000">
@@ -13617,16 +12727,6 @@
 		<desc lang="pl">Komandosi, policjanci służb specjalnych i agenci FBI biorą udział w rywalizacji, która ma wyłonić żołnierza doskonałego.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Eurosport 2 HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Kombinacja norweska: Zawody Pucharu Świata w Lillehammer</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Eurosport 2 HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Kombinacja norweska: Zawody Pucharu Świata w Lillehammer</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="Eurosport 2 HD" start="20191212140000 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Tenis: Turniej Diriyah Tennis Cup - mecz ćwierćfinałowy</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -13680,26 +12780,6 @@
 	<programme channel="Eurosport 2 HD" start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Biatlon: Zawody Pucharu Świata w Östersund</title>
 		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV HD" start="20191212130000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">The Kardashians Story</title>
-		<desc lang="pl">The Kardashians Story.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV HD" start="20191212132500 +0000" stop="20191212133000 +0000">
-		<title lang="pl">F-people</title>
-		<desc lang="pl">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events 1483</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV HD" start="20191212133000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">The Kardashians Story</title>
-		<desc lang="pl">The Kardashians Story.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Fashion TV HD" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fashion Week</title>
-		<desc lang="pl">Fashion Week.</desc>
 		<category lang="pl"></category>
 	</programme>
 	<programme channel="Fashion TV HD" start="20191212140000 +0000" stop="20191212142500 +0000">
@@ -13937,11 +13017,6 @@
 		<desc lang="pl">Top Models.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="4Fun.tv" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Hot Pop</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="4Fun.tv" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Chcesz? Masz!</title>
 		<desc lang="pl">Interaktywny program, w którym o kolejności emitowanych piosenek decydują widzowie. Wystarczy wysłać SMS z tytułem ulubionego przeboju.</desc>
@@ -13981,11 +13056,6 @@
 		<title lang="pl">Najwięcej muzyki nocą</title>
 		<desc lang="pl">Najlepsze teledyski emitowane nieprzerwanie przez całą noc. Program bez reklam, nadawany codziennie od godziny 2:00 do 6:00.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TTV" start="20191212125500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">SOS. Ekipy w akcji</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
 	</programme>
 	<programme channel="TTV" start="20191212135500 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Przyłapani na zdradzie</title>
@@ -14111,16 +13181,6 @@
 		<title lang="pl">DeFacto 5</title>
 		<desc lang="pl">Program popularnonaukowy.</desc>
 		<category lang="pl">program popularnonaukowy</category>
-	</programme>
-	<programme channel="SKY News" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Lunchtime Live</title>
-		<desc lang="pl">Colin Brazier and Jayne Secker with live coverage of breaking news and lively debate on the big stories of the day.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="SKY News" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Lunchtime Live</title>
-		<desc lang="pl">Colin Brazier and Jayne Secker with live coverage of breaking news and lively debate on the big stories of the day.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="SKY News" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Lunchtime Live</title>
@@ -14251,11 +13311,6 @@
 		<title lang="pl">Sky News On The Hour</title>
 		<desc lang="pl">News reports on the big stories from the UK and around the world.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="ID Investigation Discovery" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">W sieci kłamstw</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="ID Investigation Discovery" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">W sieci kłamstw</title>
@@ -14397,11 +13452,6 @@
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
 	</programme>
-	<programme channel="STARS.TV HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Best 80's</title>
-		<desc lang="pl">Muzyczna podróż w przeszłość do lat osiemdziesiątych XX wieku, w których nie brakowało hitów polskich i zagranicznych.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="STARS.TV HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Best 90's</title>
 		<desc lang="pl">Najlepsi wykonawcy, największe przeboje i najsłynniejsze teledyski lat dziewięćdziesiątych XX wieku.</desc>
@@ -14456,16 +13506,6 @@
 		<title lang="pl">Best Polish</title>
 		<desc lang="pl">Zestawienie największych polskich przebojów. Zaprezentowane zostaną zarówno hity sprzed lat, jak te i współczesne.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="CANAL+ SERIALE HD" start="20191212124000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Łapu-capu extra</title>
-		<desc lang="pl">Z programów polskich stacji TV: gafy prezenterów, nietypowe zachowania przed kamerą oraz awarie techniczne powodujące absurdalne sytuacje.</desc>
-		<category lang="pl">chochliki telewizyjne</category>
-	</programme>
-	<programme channel="CANAL+ SERIALE HD" start="20191212131000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Mrówka wychodzi za mąż</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="CANAL+ SERIALE HD" start="20191212131500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Wrogowie: Prezydenci kontra FBI</title>
@@ -14597,11 +13637,6 @@
 		<desc lang="pl">Śmierć kolegi wstrząsa światem licealisty.</desc>
 		<category lang="pl">dramat obyczajowy</category>
 	</programme>
-	<programme channel="Cinemax HD" start="20191212115000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Bracia</title>
-		<desc lang="pl">Dramat przygodowy.</desc>
-		<category lang="pl">dramat przygodowy</category>
-	</programme>
 	<programme channel="Cinemax HD" start="20191212133500 +0000" stop="20191212151000 +0000">
 		<title lang="pl">Wielcy malutcy</title>
 		<desc lang="pl">Dramat obyczajowy.</desc>
@@ -14687,11 +13722,6 @@
 		<desc lang="pl">Diane, nastolatka z Brooklynu, po samobójczej śmierci matki staje się agresywna. Przypadkowo trafia do klubu, w którym trenują bokserzy.</desc>
 		<category lang="pl">dramat obyczajowy</category>
 	</programme>
-	<programme channel="FunBox UHD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">La Boheme</title>
-		<desc lang="pl">La Boheme.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="FunBox UHD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Island Hunter - Philippines</title>
 		<desc lang="pl">Island Hunter - Philippines.</desc>
@@ -14762,11 +13792,6 @@
 		<desc lang="pl">The Sea Chef - Flavors Of Galicia.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="nSport HD" start="20191212111500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Siatkówka mężczyzn: Liga Mistrzów - mecz: Tours VB - Sir Colussi Sicoma Perugia</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="nSport HD" start="20191212134500 +0000" stop="20191212160000 +0000">
 		<title lang="pl">Piłka nożna: PKO Ekstraklasa - mecz: Śląsk Wrocław - Legia Warszawa</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -14826,11 +13851,6 @@
 		<title lang="pl">Siatkówka mężczyzn: Liga Mistrzów - mecz: Trentino Itas - Fenerbahce HDI Sigorta Stambuł</title>
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="CANAL+ 1 HD" start="20191212115000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Rodzinne zdjęcie</title>
-		<desc lang="pl">Komedia.</desc>
-		<category lang="pl">komedia</category>
 	</programme>
 	<programme channel="CANAL+ 1 HD" start="20191212133000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Urlop macierzyński po amerykańsku</title>
@@ -14977,11 +13997,6 @@
 		<desc lang="pl">Afterschool Hang Out.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="ESKA TV EXTRA HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Hit godzina</title>
-		<desc lang="pl">Godzina z największymi hitami. Zaprezentowane zostanie zestawienie najsłynniejszych przebojów.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="ESKA TV EXTRA HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Hity zawsze na czasie</title>
 		<desc lang="pl">Program muzyczny.</desc>
@@ -15041,16 +14056,6 @@
 		<title lang="pl">Polska lista</title>
 		<desc lang="pl">Zestawienie najpopularniejszych polskich piosenek w wykonaniu uwielbianych rodzimych artystów.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TLC HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Salon sukien ślubnych: Wielka Brytania</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TLC HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Salon sukien ślubnych: Wielka Brytania</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="TLC HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Mała piękność</title>
@@ -15126,11 +14131,6 @@
 		<title lang="pl">Tatuaż do poprawki</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="TVP HD" start="20191212125500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">M jak miłość</title>
-		<desc lang="pl">Serial obyczajowy.</desc>
-		<category lang="pl">serial obyczajowy</category>
 	</programme>
 	<programme channel="TVP HD" start="20191212135500 +0000" stop="20191212145500 +0000">
 		<title lang="pl">Na dobre i na złe</title>
@@ -15212,11 +14212,6 @@
 		<desc lang="pl">Widowisko.</desc>
 		<category lang="pl">widowisko</category>
 	</programme>
-	<programme channel="TVP Seriale" start="20191212124000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Ranczo 7</title>
-		<desc lang="pl">Kozioł z pomocą Czerepacha robi karierę polityczną, a Solejuk wpada na kolejne pomysły, jak radykalnie poprawić swoją sytuację materialną.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="TVP Seriale" start="20191212133500 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Ojciec Mateusz 6</title>
 		<desc lang="pl">Szósta seria przygód detektywa amatora. Proboszcz małej parafii, ojciec Mateusz pasjonuje się rozwiązywaniem zagadek kryminalnych.</desc>
@@ -15296,16 +14291,6 @@
 		<title lang="pl">Siedem życzeń</title>
 		<desc lang="pl">12-letni Darek ratuje dręczonego przez chłopców kota. To egipski kapłan Rademenes, który obiecuje spełnić siedem życzeń swojego wybawcy.</desc>
 		<category lang="pl">serial przygodowy</category>
-	</programme>
-	<programme channel="Disney Junior" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Pidżamersi</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Disney Junior" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">T.O.T.S.</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Disney Junior" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Miki i raźni rajdowcy</title>
@@ -15577,11 +14562,6 @@
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Fox HD" start="20191212124000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Mentalista 3</title>
-		<desc lang="pl">Patrick jest konsultantem w Kalifornijskim Biurze Śledczym (CBI). Obdarzony nadzwyczajnymi zdolnościami obserwacyjnymi pomaga CBI.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="Fox HD" start="20191212133500 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Mentalista 3</title>
 		<desc lang="pl">Patrick jest konsultantem w Kalifornijskim Biurze Śledczym (CBI). Obdarzony nadzwyczajnymi zdolnościami obserwacyjnymi pomaga CBI.</desc>
@@ -15747,11 +14727,6 @@
 		<desc lang="pl">Serial animowany dla dorosłych.</desc>
 		<category lang="pl">serial animowany dla dorosłych</category>
 	</programme>
-	<programme channel="CANAL+ HD" start="20191212123000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Urlop macierzyński po amerykańsku</title>
-		<desc lang="pl">Opowieść o problemach kobiet w USA, które chcą pogodzić pracę z macierzyństwem.</desc>
-		<category lang="pl">film dokumentalny</category>
-	</programme>
 	<programme channel="CANAL+ HD" start="20191212131500 +0000" stop="20191212145500 +0000">
 		<title lang="pl">Nic nie mów</title>
 		<desc lang="pl">Komediodramat.</desc>
@@ -15807,11 +14782,6 @@
 		<desc lang="pl">Juliusz próbuje wpłynąć na swojego ojca, który uwielbia imprezować. Starszy pan przeszedł dwa zawały, ale nadal nie ma dość zabawy.</desc>
 		<category lang="pl">komedia</category>
 	</programme>
-	<programme channel="HBO2 HD" start="20191212125000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Znajdź mnie w Paryżu 2</title>
-		<desc lang="pl">Serial familijny.</desc>
-		<category lang="pl">serial familijny</category>
-	</programme>
 	<programme channel="HBO2 HD" start="20191212132000 +0000" stop="20191212145000 +0000">
 		<title lang="pl">Piękna i bestia</title>
 		<desc lang="pl">Francja, XVIII wiek. Piękna Belle pewnego dnia spieszy na ratunek ojcu. Zgadza się zamieszkać w zamku Bestii. Poznaje jej tajemnicę.</desc>
@@ -15866,11 +14836,6 @@
 		<title lang="pl">Władca Paryża</title>
 		<desc lang="pl">Film przygodowy.</desc>
 		<category lang="pl">film przygodowy</category>
-	</programme>
-	<programme channel="TV6" start="20191212125500 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Miodowe lata</title>
-		<desc lang="pl">Losy dwóch zaprzyjaźnionych małżeństw z warszawskiej Woli. Są to motorniczy tramwaju Karol Krawczyk i kanalarz Tadeusz Norek z żonami.</desc>
-		<category lang="pl">serial komediowy</category>
 	</programme>
 	<programme channel="TV6" start="20191212134000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Bumerang</title>
@@ -15939,11 +14904,6 @@
 	</programme>
 	<programme channel="TV6" start="20191213024000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Top 10 - lista przebojów</title>
-		<desc lang="pl">Program muzyczny.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="Polsat Music HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Tylko hity</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
@@ -16016,11 +14976,6 @@
 		<title lang="pl">Hity nocą</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="TVP1 HD" start="20191212125500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Dzika Holandia</title>
-		<desc lang="pl">Film dokumentalny.</desc>
-		<category lang="pl">film dokumentalny</category>
 	</programme>
 	<programme channel="TVP1 HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Elif</title>
@@ -16142,16 +15097,6 @@
 		<desc lang="pl">Troje mieszkańców Śląska próbuje zdobyć pieniądze.</desc>
 		<category lang="pl">dramat obyczajowy</category>
 	</programme>
-	<programme channel="TVP2 HD" start="20191212123000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Koło fortuny</title>
-		<desc lang="pl">Teleturniej.</desc>
-		<category lang="pl">teleturniej</category>
-	</programme>
-	<programme channel="TVP2 HD" start="20191212130500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Teściowe i synowe. Kto tu rządzi?</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="TVP2 HD" start="20191212133500 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Gotowi do gotowania. Start!</title>
 		<desc lang="pl">Magazyn kulinarny.</desc>
@@ -16241,16 +15186,6 @@
 		<title lang="pl">Zaginiona</title>
 		<desc lang="pl">Detektywi znajdują ciało zamordowanej prostytutki. Usiłują odkryć związek pomiędzy śmiercią kobiety a zniknięciem Lei.</desc>
 		<category lang="pl">serial kryminalny</category>
-	</programme>
-	<programme channel="TV Puls 2" start="20191212130000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Psi Patrol 3</title>
-		<desc lang="pl">Mechaniczny dinozaur nagle ożywa. Psi Patrol tworzy film na festiwal. Odważny Danny wykonuje niebezpieczne sztuczki kaskaderskie.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="TV Puls 2" start="20191212133500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Alvinnn!!! I wiewiórki 3</title>
-		<desc lang="pl">Wiewiórki martwią się o bezpieczeństwo Alvina po tym, jak zapisał się na konkurs karate.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="TV Puls 2" start="20191212134500 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Alvinnn!!! I wiewiórki 3</title>
@@ -16447,11 +15382,6 @@
 		<desc lang="pl">Serial paradokumentalny.</desc>
 		<category lang="pl">serial paradokumentalny</category>
 	</programme>
-	<programme channel="Mango 24" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Mango Nowości</title>
-		<desc lang="pl">Widzowie poznają zupełnie nowe produkty z oferty telezakupów. Podczas prezentacji poszczególnych towarów mają możliwość ich zakupu.</desc>
-		<category lang="pl">magazyn reklamowy</category>
-	</programme>
 	<programme channel="Mango 24" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Mango Bestseller</title>
 		<desc lang="pl">Magazyn reklamowy.</desc>
@@ -16521,11 +15451,6 @@
 		<title lang="pl">Mango Bestseller</title>
 		<desc lang="pl">Magazyn reklamowy.</desc>
 		<category lang="pl">magazyn reklamowy</category>
-	</programme>
-	<programme channel="CNN HD" start="20191212120000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">New Day</title>
-		<desc lang="pl">New Day.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="CNN HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">CNN Newsroom with Max Foster</title>
@@ -16612,11 +15537,6 @@
 		<desc lang="pl">Cuomo Prime Time.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Polsat HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Trudne sprawy</title>
-		<desc lang="pl">Serial paradokumentalny.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="Polsat HD" start="20191212140000 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Pierwsza miłość</title>
 		<desc lang="pl">Dalsze losy mieszkańców Wrocławia i wsi Wadlewo. Akcja skupia się na perypetiach Marysi (Aneta Zając) i jej przyjaciół.</desc>
@@ -16702,11 +15622,6 @@
 		<desc lang="pl">Program rozrywkowy.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="Polsat Sport Extra HD" start="20191212121000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Cafe Futbol</title>
-		<desc lang="pl">Mateusz Borek rozmawia przy kawie ze swoimi gośćmi na tematy związane z piłką nożną. Stałym ekspertem programu jest Roman Kołtoń.</desc>
-		<category lang="pl">magazyn piłkarski</category>
-	</programme>
 	<programme channel="Polsat Sport Extra HD" start="20191212140000 +0000" stop="20191212161000 +0000">
 		<title lang="pl">Piłka nożna: Liga czeska - mecz: AC Sparta Praga - FK Mlada Boleslav</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -16741,16 +15656,6 @@
 		<title lang="pl">Sporty walki: KSW 26 - waga średnia: Michał Materla - Jay Silva</title>
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="TVN Style HD" start="20191212120500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Kuchenne rewolucje</title>
-		<desc lang="pl">Magda Gessler pomaga właścicielom lokali gastronomicznych w Polsce. Układa nowe menu, uczy kulinarnych sztuczek i zmienia wystrój wnętrz.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVN Style HD" start="20191212130500 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Sexy kuchnia Magdy Gessler</title>
-		<desc lang="pl">Magazyn kulinarny.</desc>
-		<category lang="pl">magazyn kulinarny</category>
 	</programme>
 	<programme channel="TVN Style HD" start="20191212134000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Patent na święta</title>
@@ -16842,11 +15747,6 @@
 		<desc lang="pl">Magazyn poradnikowy.</desc>
 		<category lang="pl">magazyn poradnikowy</category>
 	</programme>
-	<programme channel="TVN 7 HD" start="20191212124000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Zakochani po uszy</title>
-		<desc lang="pl">Telenowela.</desc>
-		<category lang="pl">telenowela</category>
-	</programme>
 	<programme channel="TVN 7 HD" start="20191212131000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Szpital</title>
 		<desc lang="pl">Historie osób trafiających na SOR. Lekarze nie tylko walczą o zdrowie i życie pacjentów, ale też mierzą się z ich problemami rodzinnymi.</desc>
@@ -16920,11 +15820,6 @@
 	<programme channel="TVN 7 HD" start="20191213023500 +0000" stop="20191213030000 +0000">
 		<title lang="pl">NOC Magii</title>
 		<desc lang="pl">Nocny program interaktywny, w którym wróżki odpowiadają na pytania widzów dotyczące ich przyszłości.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
-	<programme channel="TVN Turbo HD" start="20191212130000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Złodzieje</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="TVN Turbo HD" start="20191212134500 +0000" stop="20191212144500 +0000">
@@ -17342,11 +16237,6 @@
 		<desc lang="pl">Program rozrywkowy.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="Sundance TV HD" start="20191212123500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">My Effortless Brilliance</title>
-		<desc lang="pl">Eric i Dylan byli przyjaciółmi. Ich drogi się rozeszły. Eric został sławnym pisarzem. Po dłuższym czasie postanawia odnaleźć przyjaciela.</desc>
-		<category lang="pl">komediodramat</category>
-	</programme>
 	<programme channel="Sundance TV HD" start="20191212140000 +0000" stop="20191212154000 +0000">
 		<title lang="pl">Paper Covers Rock</title>
 		<desc lang="pl">Po nieudanej próbie samobójczej Sam traci prawo do opieki nad córką. Wprowadza się do swej siostry Ed, która także przysparza jej zmartwień.</desc>
@@ -17391,21 +16281,6 @@
 		<title lang="pl">Kate Plays Christine</title>
 		<desc lang="pl">Film dokumentalny.</desc>
 		<category lang="pl">film dokumentalny</category>
-	</programme>
-	<programme channel="CANAL+ FAMILY HD" start="20191212114500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Twój Simon</title>
-		<desc lang="pl">Komediodramat.</desc>
-		<category lang="pl">komediodramat</category>
-	</programme>
-	<programme channel="CANAL+ FAMILY HD" start="20191212133500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Nie przegap</title>
-		<desc lang="pl">W magazynie prezentowane są najciekawsze propozycje programowe Canal+, których żaden widz nie powinien przegapić.</desc>
-		<category lang="pl">magazyn informacyjny</category>
-	</programme>
-	<programme channel="CANAL+ FAMILY HD" start="20191212134500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Łapu-capu</title>
-		<desc lang="pl">Z programów polskich stacji TV: gafy prezenterów, nietypowe zachowania przed kamerą oraz awarie techniczne powodujące absurdalne sytuacje.</desc>
-		<category lang="pl">chochliki telewizyjne</category>
 	</programme>
 	<programme channel="CANAL+ FAMILY HD" start="20191212140000 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Tajemnice wraków Bałtyku</title>
@@ -17466,16 +16341,6 @@
 		<title lang="pl">Cisza</title>
 		<desc lang="pl">Szymon chce poznać kobietę, której rodzice zginęli przez niego.</desc>
 		<category lang="pl">dramat obyczajowy</category>
-	</programme>
-	<programme channel="CANAL+ DOKUMENT HD" start="20191212111000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Opera paryska</title>
-		<desc lang="pl">Film dokumentalny.</desc>
-		<category lang="pl">film dokumentalny</category>
-	</programme>
-	<programme channel="CANAL+ DOKUMENT HD" start="20191212131000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Mała Brytania z przyczepą</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="CANAL+ DOKUMENT HD" start="20191212140000 +0000" stop="20191212145000 +0000">
 		<title lang="pl">Legendy komedii 2</title>
@@ -17561,26 +16426,6 @@
 		<title lang="pl">Chwile szczęścia</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="TV Republika" start="20191212130000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Polska na dzień dobry</title>
-		<desc lang="pl">Codzienne pasmo na żywo. Widzowie znajdą w nim m.in. przegląd prasy, najważniejsze wydarzenia dnia, analizy gospodarcze i prognozę pogody.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TV Republika" start="20191212131500 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Telezakupy</title>
-		<desc lang="pl">Prezentacja różnych produktów codziennego użytku, które można obejrzeć i kupić bez konieczności wychodzenia z domu.</desc>
-		<category lang="pl">magazyn reklamowy</category>
-	</programme>
-	<programme channel="TV Republika" start="20191212133000 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Polska na dzień dobry</title>
-		<desc lang="pl">Codzienne pasmo na żywo. Widzowie znajdą w nim m.in. przegląd prasy, najważniejsze wydarzenia dnia, analizy gospodarcze i prognozę pogody.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TV Republika" start="20191212134000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Telezakupy</title>
-		<desc lang="pl">Prezentacja różnych produktów codziennego użytku, które można obejrzeć i kupić bez konieczności wychodzenia z domu.</desc>
-		<category lang="pl">magazyn reklamowy</category>
 	</programme>
 	<programme channel="TV Republika" start="20191212135500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Polska na dzień dobry</title>
@@ -17827,11 +16672,6 @@
 		<desc lang="pl">Informacje na temat polskich atrakcji turystycznych podawane w języku angielskim.</desc>
 		<category lang="pl">program informacyjny</category>
 	</programme>
-	<programme channel="Zoom TV" start="20191212122000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Mój wymarzony dom: kupno, sprzedaż 3</title>
-		<desc lang="pl">Magazyn poradnikowy.</desc>
-		<category lang="pl">magazyn poradnikowy</category>
-	</programme>
 	<programme channel="Zoom TV" start="20191212131500 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Charlie Luxton: domy nad Morzem Śródziemnym</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -17922,16 +16762,6 @@
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Metro" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Przyjaciele</title>
-		<desc lang="pl">Serial opowiada o grupie przyjaciół, mieszkańcach Manhattanu, których myśli niezmiennie krążą wokół dwóch tematów - kariery i seksu.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Metro" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Detektyw do zadań specjalnych</title>
-		<desc lang="pl">Kobieta prosi Wolfe'a o pomoc, ponieważ niepokoi ją nowy mąż jej matki. Odkryta przez detektywa prawda będzie szokiem dla całej rodziny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Metro" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Przepis na życie 3</title>
 		<desc lang="pl">Po rozwodzie Anka dnosi sukcesy jako szefowa kuchni w restauracji 'Imbir' i próbuje ułożyć sobie życie z Jerzym. Elka uprzyksza jej życie...</desc>
@@ -18016,11 +16846,6 @@
 		<title lang="pl">Wędkarstwo nasze hobby 3</title>
 		<desc lang="pl">Magazyn wędkarski.</desc>
 		<category lang="pl">magazyn wędkarski</category>
-	</programme>
-	<programme channel="13.TV HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Zobacz to w 3d</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="13.TV HD" start="20191212140000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">2020</title>
@@ -18132,11 +16957,6 @@
 		<desc lang="pl">Program rozrywkowy.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="Nowa TV" start="20191212123000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Słoiki</title>
-		<desc lang="pl">Historie ludzi, którzy przyjechali do Warszawy, by odmienić swoje życie. Liczą, że uda im się zrealizować marzenia o lepszej pracy.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="Nowa TV" start="20191212133000 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Remont w bostońskim stylu 3</title>
 		<desc lang="pl">Program rozrywkowy.</desc>
@@ -18216,21 +17036,6 @@
 		<title lang="pl">Redakcja: Dział Śledczy</title>
 		<desc lang="pl">Serial paradokumentalny.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="Nick Jr." start="20191212125000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Bąbelkowy świat gupików 3</title>
-		<desc lang="pl">Tytułowe gupiki - Gill, Molly, Goby, Deema, Nonny oraz Oona - zabierają w podróż. Zachęcają do udziału w jednej z interaktywnych gier.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Nick Jr." start="20191212131000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Peppa</title>
-		<desc lang="pl">Animowany serial dla najmłodszych. Opowiada o losach sympatycznej świnki Peppy, jej brata Jacka oraz ich rodziców.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Nick Jr." start="20191212132500 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Top Wing: Ptasia Akademia</title>
-		<desc lang="pl">Kadeci Top Wing szkolą się w Ptasiej Akademii, aby zostać najlepszymi pilotami na Zakręconej Wyspie.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Nick Jr." start="20191212135000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Psi Patrol</title>
@@ -18502,11 +17307,6 @@
 		<desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.</desc>
 		<category lang="pl">program rozrywkowy</category>
 	</programme>
-	<programme channel="E! HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">The Bi Life</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
 	<programme channel="E! HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Plastyczna fuszerka</title>
 		<desc lang="pl">Dwaj chirurdzy plastycznymi, Terry Dubrow i Paul Nassif, próbują pomóc ofiarom nieudolnych lub wręcz oszpecających operacji plastycznych.</desc>
@@ -18582,11 +17382,6 @@
 		<desc lang="pl">Reality show.</desc>
 		<category lang="pl">reality show</category>
 	</programme>
-	<programme channel="TVP Sport HD" start="20191212122000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Boks: Walka o pasy IBF World, IBO World, WBA World i WBO World w Nowym Jorku - waga ciężka: Anthony Joshua - Andy Ruiz Jr.</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="TVP Sport HD" start="20191212132500 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Boks: Walka o pasy WBA Super World, IBF World, WBO World i IBO World w Ad-Dirijji - waga ciężka: Andy Ruiz Jr. - Anthony Joshua</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -18641,26 +17436,6 @@
 		<title lang="pl">Boks: Gala w Las Vegas - waga superkogucia: Brandon Figueroa - Julio Ceja; waga superpiórkowa: Leo Santa Cruz - Miguel Flores</title>
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="TVP ABC" start="20191212125500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Figu Migu</title>
-		<desc lang="pl">Widowisko.</desc>
-		<category lang="pl">widowisko</category>
-	</programme>
-	<programme channel="TVP ABC" start="20191212130500 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Figu Migu</title>
-		<desc lang="pl">Widowisko.</desc>
-		<category lang="pl">widowisko</category>
-	</programme>
-	<programme channel="TVP ABC" start="20191212131500 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Świnka Peppa 3</title>
-		<desc lang="pl">Peppa nie jest zwykłą świnką. Uwielbia spędzać czas na zabawie. W jej przygodach, które zawsze dobrze się kończą, uczestniczy cała rodzina.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="TVP ABC" start="20191212132500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Łowcy smoków</title>
-		<desc lang="pl">Bohaterami serialu fantasy dla najmłodszych są dzielni Lian-Chu i Gwizdo. W ich baśniowej krainie mieszkają liczne oryginalne stworzenia.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="TVP ABC" start="20191212135500 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Misiowanki</title>
@@ -18811,11 +17586,6 @@
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">Przerwa.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="stopklatka tv" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Katastrofy w przestworzach</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="stopklatka tv" start="20191212132000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Katastrofy w przestworzach</title>
@@ -18987,11 +17757,6 @@
 		<desc lang="pl">Magazyn popularnonaukowy.</desc>
 		<category lang="pl">magazyn popularnonaukowy</category>
 	</programme>
-	<programme channel="VOX Music TV" start="20191212120000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">W Rytmie Hitów</title>
-		<desc lang="pl">Widzowie programu usłyszą największe przeboje stacji VOX Music TV.</desc>
-		<category lang="pl">program muzyczny</category>
-	</programme>
 	<programme channel="VOX Music TV" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Polowanie Na Prezent</title>
 		<desc lang="pl">Widzowie VOX Music TV ruszają w pościg za Świętym Mikołajem. Jego złapanie zapewni szczęśliwcom wyjątkowe, muzyczne prezenty.</desc>
@@ -19026,11 +17791,6 @@
 		<title lang="pl">W Rytmie Nocy</title>
 		<desc lang="pl">Twórcy programu prezentują największe hity stacji. Pozycja dla tych osób, które uwielbiają nocne imprezy.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="ID Investigation Discovery HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">W sieci kłamstw</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="ID Investigation Discovery HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">W sieci kłamstw</title>
@@ -19101,16 +17861,6 @@
 		<title lang="pl">Koroner: na tropie zbrodni</title>
 		<desc lang="pl">Badając ciała ofiar, koroner Graham Hetrick pomaga policji poznać okoliczności zbrodni i ustalić tożsamość mordercy.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Motowizja HD" start="20191212123000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">The Fast Lane</title>
-		<desc lang="pl">Magazyn motoryzacyjny.</desc>
-		<category lang="pl">magazyn motoryzacyjny</category>
-	</programme>
-	<programme channel="Motowizja HD" start="20191212130500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Autoportret Ostrego</title>
-		<desc lang="pl">Magazyn motoryzacyjny.</desc>
-		<category lang="pl">magazyn motoryzacyjny</category>
 	</programme>
 	<programme channel="Motowizja HD" start="20191212133500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Wyścigi samochodowe: Porsche Carrera Cup w Moście</title>
@@ -19221,21 +17971,6 @@
 		<title lang="pl">The Fast Lane</title>
 		<desc lang="pl">Magazyn motoryzacyjny.</desc>
 		<category lang="pl">magazyn motoryzacyjny</category>
-	</programme>
-	<programme channel="Boomerang HD" start="20191212125000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Królikula</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Boomerang HD" start="20191212132000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Królikula</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Boomerang HD" start="20191212134500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">The Happos Family</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Boomerang HD" start="20191212135500 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Scooby-Doo i... zgadnij kto?</title>
@@ -19427,11 +18162,6 @@
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="UA TV" start="20191212124500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Digest</title>
-		<desc lang="pl">Digest.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="UA TV" start="20191212140000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">News</title>
 		<desc lang="pl">News.</desc>
@@ -19607,11 +18337,6 @@
 		<desc lang="pl">Digest.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="WP" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pokochaj lub sprzedaj Vancouver 2</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="WP" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Jak zarobić na remoncie 2</title>
 		<desc lang="pl">Reality show.</desc>
@@ -19686,16 +18411,6 @@
 		<title lang="pl">Oficer i morderca</title>
 		<desc lang="pl">Szanowany żołnierz dokonuje serii zbrodni.</desc>
 		<category lang="pl">dramat kryminalny</category>
-	</programme>
-	<programme channel="Adventure HD" start="20191212123500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Odlotowe parki</title>
-		<desc lang="pl">Magazyn.</desc>
-		<category lang="pl">magazyn</category>
-	</programme>
-	<programme channel="Adventure HD" start="20191212130500 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Bezpieczna osada</title>
-		<desc lang="pl">Magazyn.</desc>
-		<category lang="pl">magazyn</category>
 	</programme>
 	<programme channel="Adventure HD" start="20191212133500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Wędkarskie przygody Babe'a Winkelmana</title>
@@ -19807,11 +18522,6 @@
 		<desc lang="pl">Magazyn wędkarski.</desc>
 		<category lang="pl">magazyn wędkarski</category>
 	</programme>
-	<programme channel="HISTORY2 HD" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Starożytne odkrycia</title>
-		<desc lang="pl">W programie starożytne wynalazki i dokonania inżynierskie, o których sądzono, że pojawiły się dopiero w czasach współczesnych.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="HISTORY2 HD" start="20191212132000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Starożytni kosmici</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -19886,16 +18596,6 @@
 		<title lang="pl">Starożytne odkrycia</title>
 		<desc lang="pl">W programie starożytne wynalazki i dokonania inżynierskie, o których sądzono, że pojawiły się dopiero w czasach współczesnych.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Comedy Central HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Przyjaciele 4</title>
-		<desc lang="pl">Serial o grupie przyjaciół, którzy dzielą czas między miłosne podboje i karierę. Uważają, że życie oferuje im nieograniczone możliwości.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Comedy Central HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Przyjaciele 4</title>
-		<desc lang="pl">Serial o grupie przyjaciół, którzy dzielą czas między miłosne podboje i karierę. Uważają, że życie oferuje im nieograniczone możliwości.</desc>
-		<category lang="pl">serial komediowy</category>
 	</programme>
 	<programme channel="Comedy Central HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Przyjaciele 4</title>
@@ -20037,11 +18737,6 @@
 		<desc lang="pl">Serial animowany dla dorosłych.</desc>
 		<category lang="pl">serial animowany dla dorosłych</category>
 	</programme>
-	<programme channel="Discovery Turbo Xtra HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Fani czterech kółek</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Discovery Turbo Xtra HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Fani czterech kółek</title>
 		<desc lang="pl">Kolejna seria programu dla miłośników starych, klasycznych aut. W każdym odcinku Mike i Edd przeprowadzają renowację zniszczonego samochodu.</desc>
@@ -20121,16 +18816,6 @@
 		<title lang="pl">Brytyjskie aukcje w ciemno</title>
 		<desc lang="pl">Licytator Sean Kelly przemierza Wielką Brytanię w poszukiwaniu cennych przedmiotów, ukrytych w garażach i na strychach.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="TV Puls 2 HD" start="20191212130000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Psi Patrol 3</title>
-		<desc lang="pl">Mechaniczny dinozaur nagle ożywa. Psi Patrol tworzy film na festiwal. Odważny Danny wykonuje niebezpieczne sztuczki kaskaderskie.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="TV Puls 2 HD" start="20191212133500 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Alvinnn!!! I wiewiórki 3</title>
-		<desc lang="pl">Wiewiórki martwią się o bezpieczeństwo Alvina po tym, jak zapisał się na konkurs karate.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="TV Puls 2 HD" start="20191212134500 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Alvinnn!!! I wiewiórki 3</title>
@@ -20241,11 +18926,6 @@
 		<title lang="pl">Niesamowite!</title>
 		<desc lang="pl">Historie, które wydarzyły się naprawdę, czyli zawiłe ludzkie relacje, pułapki prawne, pomyłki medyczne czy skrywane głęboko tajemnice.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Lifetime HD" start="20191212122500 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Miłość od pierwszego lotu</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
 	</programme>
 	<programme channel="Lifetime HD" start="20191212132000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Cztery wesela</title>
@@ -20376,16 +19056,6 @@
 		<title lang="pl">Elektra</title>
 		<desc lang="pl">Płatna zabójczyni pomaga w ucieczce rodzinie, którą miała zlikwidować.</desc>
 		<category lang="pl">film przygodowy</category>
-	</programme>
-	<programme channel="Nicktoons HD" start="20191212125000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Sanjay &amp; Craig 2</title>
-		<desc lang="pl">Przygody hinduskiego chłopca i jego najlepszego przyjaciela władającego ludzką mową, węża Craiga.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Nicktoons HD" start="20191212132000 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Wróżkowie chrzestni 7</title>
-		<desc lang="pl">Opowieść o 10-letnim Timmym i jego opiekunce, Vicky, która nienawidzi dzieci. Na szczęście czuwają nad nim wróżka Wanda i jej mąż, Cosmo.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Nicktoons HD" start="20191212135000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Wróżkowie chrzestni 7</title>
@@ -20559,31 +19229,6 @@
 	</programme>
 	<programme channel="Nicktoons HD" start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Alvinnn!!! I wiewiórki</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191212124000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Dom: Przygody Ocha i Tip</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191212130500 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Zwierzaki-przebieraki</title>
-		<desc lang="pl">Lis Waszyngton, dzik Sam i jego siostra Eugenia pragną wygodnego i bezpiecznego życia. Zwierzaki przebierają się za domowych pupili.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191212131500 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Zwierzaki-przebieraki</title>
-		<desc lang="pl">Lis Waszyngton, dzik Sam i jego siostra Eugenia pragną wygodnego i bezpiecznego życia. Zwierzaki przebierają się za domowych pupili.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191212133000 +0000" stop="20191212134500 +0000">
-		<title lang="pl">Wishfart</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="teleTOON+ HD" start="20191212134500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Gadający Tom i przyjaciele 3</title>
 		<desc lang="pl">Serial animowany.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
@@ -20892,11 +19537,6 @@
 		<desc lang="pl">Noc z polską muzyką w NUTA.TV. Potężna dawka najlepszych polskich przebojów!</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="ale kino+ HD" start="20191212121000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Poszukiwanie</title>
-		<desc lang="pl">Filmy krótkometrażowe.</desc>
-		<category lang="pl">filmy krótkometrażowe</category>
-	</programme>
 	<programme channel="ale kino+ HD" start="20191212132500 +0000" stop="20191212140500 +0000">
 		<title lang="pl">Atlantis</title>
 		<desc lang="pl">Film krótkometrażowy.</desc>
@@ -20936,11 +19576,6 @@
 		<title lang="pl">Wieża. Jasny dzień</title>
 		<desc lang="pl">Debiut reżyserski Jagody Szelc uhonorowany został dwoma Złotymi Lwami. Skomplikowane rodzinne relacje, symbolika i tajemnice.</desc>
 		<category lang="pl">thriller</category>
-	</programme>
-	<programme channel="PLANETE+ HD" start="20191212122000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Królowa L'Oreala. Sekrety najbogatszej kobiety świata</title>
-		<desc lang="pl">Burzliwe dzieje twórców pierwszego wielkiego koncernu kosmetycznego L'Oreal - rodziny Bettencourt.</desc>
-		<category lang="pl">film dokumentalny</category>
 	</programme>
 	<programme channel="PLANETE+ HD" start="20191212140000 +0000" stop="20191212145500 +0000">
 		<title lang="pl">Martwy wieloryb pełen plastiku</title>
@@ -21062,11 +19697,6 @@
 		<desc lang="pl">Znany producent telewizyjny prowadzi podwójne życie.</desc>
 		<category lang="pl">dramat kryminalny</category>
 	</programme>
-	<programme channel="TV4 HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Septagon</title>
-		<desc lang="pl">Serial kryminalny.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="TV4 HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">STOP Drogówka</title>
 		<desc lang="pl">Przegląd postaw i zachowań rodzimych kierowców.</desc>
@@ -21146,16 +19776,6 @@
 		<title lang="pl">Disco Polo Life</title>
 		<desc lang="pl">Program muzyczny.</desc>
 		<category lang="pl">program muzyczny</category>
-	</programme>
-	<programme channel="Polsat 2 HD" start="20191212123000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Nasz nowy dom</title>
-		<desc lang="pl">Reality show.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="Polsat 2 HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Świat według Kiepskich</title>
-		<desc lang="pl">Ciąg dalszy perypetii Ferdynanda Kiepskiego i jego rodziny oraz sąsiadów Paździochów i Boczka. Kiepscy obchodzą 40. rocznicę ślubu.</desc>
-		<category lang="pl">serial komediowy</category>
 	</programme>
 	<programme channel="Polsat 2 HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Świat według Kiepskich</title>
@@ -21246,21 +19866,6 @@
 		<title lang="pl">Wystarczy chcieć</title>
 		<desc lang="pl">Bartosz Kwiatek wraz z gośćmi omawia w każdym odcinku ważny problem społeczny związany z leczeniem dzieci i systemem zdrowotnym w Polsce.</desc>
 		<category lang="pl">magazyn</category>
-	</programme>
-	<programme channel="Top KIDS HD" start="20191212130000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Kajtuś</title>
-		<desc lang="pl">Pouczające przygody czterolatka Kajtusia, który każdego dnia lepiej poznaje świat i uczy się ciekawych rzeczy.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Top KIDS HD" start="20191212131000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Dolina Koni</title>
-		<desc lang="pl">Trzy dziewczynki: Sarah, Alma i Molly oraz chłopiec Bailey spotykają się w miejscu zwanym Doliną Koni.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Top KIDS HD" start="20191212133500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Przygody braci Mario</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Top KIDS HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Dennis Rozrabiaka</title>
@@ -21377,11 +19982,6 @@
 		<desc lang="pl">Specjalne pasmo z uspokajającą muzyką, która pozwoli najmłodszym szybko zasnąć.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
-	<programme channel="FilmBox Arthouse HD" start="20191212123000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Viridiana</title>
-		<desc lang="pl">Krytyka burżuazyjnej moralności.</desc>
-		<category lang="pl">dramat obyczajowy</category>
-	</programme>
 	<programme channel="FilmBox Arthouse HD" start="20191212140000 +0000" stop="20191212151000 +0000">
 		<title lang="pl">Pawilon</title>
 		<desc lang="pl">Dramat obyczajowy.</desc>
@@ -21421,21 +20021,6 @@
 		<title lang="pl">Piętno śmierci</title>
 		<desc lang="pl">Kanji Watanabe dowiaduje się, że jest chory na raka. Pozostało mu niewiele czasu. Chce go w pełni wykorzystać i nie bardzo wie, co robić.</desc>
 		<category lang="pl">dramat obyczajowy</category>
-	</programme>
-	<programme channel="Active Family HD" start="20191212130000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Piękni ale spłukani</title>
-		<desc lang="pl">Piękni ale spłukani.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Active Family HD" start="20191212133500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Active Stars</title>
-		<desc lang="pl">Active Stars.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Active Family HD" start="20191212135500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Sprawdzone, zatwierdzone</title>
-		<desc lang="pl">Sprawdzone, zatwierdzone.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="Active Family HD" start="20191212140000 +0000" stop="20191212144500 +0000">
 		<title lang="pl">Bieg po życie</title>
@@ -21557,11 +20142,6 @@
 		<desc lang="pl">Gwiazdy na wyjeździe.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="13 Ulica HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Hawaii 5.0 8</title>
-		<desc lang="pl">Ekipa prowadzi dochodzenie w sprawie serii tajemniczych zbrodni, które - jak się wydaje - inspirowane są starymi wierzeniami ludowymi.</desc>
-		<category lang="pl">serial kryminalny</category>
-	</programme>
 	<programme channel="13 Ulica HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Hawaii 5.0 8</title>
 		<desc lang="pl">Serial kryminalny.</desc>
@@ -21631,11 +20211,6 @@
 		<title lang="pl">Zaprzysiężeni 8</title>
 		<desc lang="pl">Erin zajmuje się sprawą handlarza ludźmi. Kiedy ginie sędzia prowadzący proces, sytuacja mocno się komplikuje.</desc>
 		<category lang="pl">serial kryminalny</category>
-	</programme>
-	<programme channel="Polsat Play HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Top 20 - Umrzesz ze śmiechu</title>
-		<desc lang="pl">Zestawienie najśmieszniejszych filmików tygodnia. W rankingu domowe materiały wideo, nagrania z kamer przemysłowych i potknięcia celebrytów.</desc>
-		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="Polsat Play HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Hardkorowy lombard</title>
@@ -21741,16 +20316,6 @@
 		<title lang="pl">Mój pierwszy letni obóz</title>
 		<desc lang="pl">Film erotyczny.</desc>
 		<category lang="pl">film erotyczny</category>
-	</programme>
-	<programme channel="Polsat Cafe HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Zdrowie na widelcu</title>
-		<desc lang="pl">Anna Guzik zmienia złe nawyki żywieniowe. Odwiedza sklepy i szuka w nich dobrych produktów. Pokazuje, jak przyrządzić zdrowe posiłki.</desc>
-		<category lang="pl">magazyn poradnikowy</category>
-	</programme>
-	<programme channel="Polsat Cafe HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Słodki zawrót głowy</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
 	</programme>
 	<programme channel="Polsat Cafe HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Panny młode z Atlanty</title>
@@ -21947,11 +20512,6 @@
 		<desc lang="pl">Magazyn kulinarny.</desc>
 		<category lang="pl">magazyn kulinarny</category>
 	</programme>
-	<programme channel="Domo+ HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Telesprzedaż</title>
-		<desc lang="pl">Prezentacja atrakcyjnych produktów codziennego użytku, które można kupić nie wychodząc z domu.</desc>
-		<category lang="pl">magazyn reklamowy</category>
-	</programme>
 	<programme channel="Domo+ HD" start="20191212140000 +0000" stop="20191212143500 +0000">
 		<title lang="pl">TkaniNOWE kreacje</title>
 		<desc lang="pl">Magazyn poradnikowy.</desc>
@@ -22056,31 +20616,6 @@
 		<title lang="pl">Wakacyjne domy z Marią Semczyszyn</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="MiniMini+ HD" start="20191212125500 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Wissper 2</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="MiniMini+ HD" start="20191212130500 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Przygody Rybki MiniMini</title>
-		<desc lang="pl">Program dla dzieci.</desc>
-		<category lang="pl">program dla dzieci</category>
-	</programme>
-	<programme channel="MiniMini+ HD" start="20191212131000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Tęczowa Rubinka</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="MiniMini+ HD" start="20191212132000 +0000" stop="20191212133500 +0000">
-		<title lang="pl">Tęczowa Rubinka</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="MiniMini+ HD" start="20191212133500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">My Little Pony: Przyjaźń to magia 9</title>
-		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="MiniMini+ HD" start="20191212140000 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Strażniczki tęczy</title>
@@ -22327,21 +20862,6 @@
 		<desc lang="pl">Ponadgodzinna audycja, której twórcy prezentują najbardziej znane i lubiane przeboje muzyki tanecznej.</desc>
 		<category lang="pl">program muzyczny</category>
 	</programme>
-	<programme channel="TVP Info HD" start="20191212125900 +0000" stop="20191212132900 +0000">
-		<title lang="pl">Serwis Info</title>
-		<desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TVP Info HD" start="20191212132900 +0000" stop="20191212135100 +0000">
-		<title lang="pl">Serwis Info</title>
-		<desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="TVP Info HD" start="20191212135100 +0000" stop="20191212135900 +0000">
-		<title lang="pl">Pogoda Info</title>
-		<desc lang="pl">Szczegółowe informacje na temat stanu pogody w najbliższych dniach.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
 	<programme channel="TVP Info HD" start="20191212135900 +0000" stop="20191212142900 +0000">
 		<title lang="pl">Serwis Info</title>
 		<desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
@@ -22492,11 +21012,6 @@
 		<desc lang="pl">Program publicystyczny.</desc>
 		<category lang="pl">program publicystyczny</category>
 	</programme>
-	<programme channel="Eleven Sports 1 HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Piłka nożna: Liga włoska - skrót meczu: SS Lazio - Juventus FC</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="Eleven Sports 1 HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Piłka nożna: Liga hiszpańska - skrót meczu: Real Madryt CF - RCD Espanyol</title>
 		<desc lang="pl">Program sportowy.</desc>
@@ -22574,11 +21089,6 @@
 	</programme>
 	<programme channel="Eleven Sports 1 HD" start="20191213030000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Piłka nożna: Liga niemiecka - skrót meczu: 1. FC Union Berlin - 1. FC Köln</title>
-		<desc lang="pl">Program sportowy.</desc>
-		<category lang="pl"></category>
-	</programme>
-	<programme channel="Eleven Sports 2 HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Piłka nożna: 2. liga angielska - skrót meczu: West Bromwich Albion FC - Swansea City AFC</title>
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
 	</programme>
@@ -22697,16 +21207,6 @@
 		<desc lang="pl">Program sportowy.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Metro HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Przyjaciele</title>
-		<desc lang="pl">Serial opowiada o grupie przyjaciół, mieszkańcach Manhattanu, których myśli niezmiennie krążą wokół dwóch tematów - kariery i seksu.</desc>
-		<category lang="pl">serial komediowy</category>
-	</programme>
-	<programme channel="Metro HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Detektyw do zadań specjalnych</title>
-		<desc lang="pl">Kobieta prosi Wolfe'a o pomoc, ponieważ niepokoi ją nowy mąż jej matki. Odkryta przez detektywa prawda będzie szokiem dla całej rodziny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Metro HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Przepis na życie 3</title>
 		<desc lang="pl">Po rozwodzie Anka dnosi sukcesy jako szefowa kuchni w restauracji 'Imbir' i próbuje ułożyć sobie życie z Jerzym. Elka uprzyksza jej życie...</desc>
@@ -22792,11 +21292,6 @@
 		<desc lang="pl">Magazyn wędkarski.</desc>
 		<category lang="pl">magazyn wędkarski</category>
 	</programme>
-	<programme channel="WP HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pokochaj lub sprzedaj Vancouver 2</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="WP HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Jak zarobić na remoncie 2</title>
 		<desc lang="pl">Reality show.</desc>
@@ -22871,11 +21366,6 @@
 		<title lang="pl">Oficer i morderca</title>
 		<desc lang="pl">Szanowany żołnierz dokonuje serii zbrodni.</desc>
 		<category lang="pl">dramat kryminalny</category>
-	</programme>
-	<programme channel="Zoom TV HD" start="20191212122000 +0000" stop="20191212131500 +0000">
-		<title lang="pl">Mój wymarzony dom: kupno, sprzedaż 3</title>
-		<desc lang="pl">Magazyn poradnikowy.</desc>
-		<category lang="pl">magazyn poradnikowy</category>
 	</programme>
 	<programme channel="Zoom TV HD" start="20191212131500 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Charlie Luxton: domy nad Morzem Śródziemnym</title>
@@ -22966,26 +21456,6 @@
 		<title lang="pl">Tajemniczy Dolny Śląsk</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Superstacja HD" start="20191212130000 +0000" stop="20191212132700 +0000">
-		<title lang="pl">SuperLudzie</title>
-		<desc lang="pl">Historie ludzi, którzy pomimo swojej niepełnosprawności potrafią żyć pełnią życia, osiągając przy tym niesamowite sukcesy.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Superstacja HD" start="20191212132700 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Serwis informacyjny o pogodzie w całym kraju. Sympatyczni prowadzący przedstawią widzom aktualne prognozy dotyczące kapryśnej aury.</desc>
-		<category lang="pl">program informacyjny</category>
-	</programme>
-	<programme channel="Superstacja HD" start="20191212133000 +0000" stop="20191212135900 +0000">
-		<title lang="pl">SuperLudzie</title>
-		<desc lang="pl">Historie ludzi, którzy pomimo swojej niepełnosprawności potrafią żyć pełnią życia, osiągając przy tym niesamowite sukcesy.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Superstacja HD" start="20191212135900 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Serwis informacyjny o pogodzie w całym kraju. Sympatyczni prowadzący przedstawią widzom aktualne prognozy dotyczące kapryśnej aury.</desc>
-		<category lang="pl">program informacyjny</category>
 	</programme>
 	<programme channel="Superstacja HD" start="20191212140000 +0000" stop="20191212141800 +0000">
 		<title lang="pl">Supernews</title>
@@ -23282,11 +21752,6 @@
 		<desc lang="pl">Prezentacja atrakcyjnych produktów codziennego użytku, które można kupić nie wychodząc z domu.</desc>
 		<category lang="pl">magazyn reklamowy</category>
 	</programme>
-	<programme channel="Nowa TV HD" start="20191212123000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Słoiki</title>
-		<desc lang="pl">Historie ludzi, którzy przyjechali do Warszawy, by odmienić swoje życie. Liczą, że uda im się zrealizować marzenia o lepszej pracy.</desc>
-		<category lang="pl">serial paradokumentalny</category>
-	</programme>
 	<programme channel="Nowa TV HD" start="20191212133000 +0000" stop="20191212142500 +0000">
 		<title lang="pl">Remont w bostońskim stylu 3</title>
 		<desc lang="pl">Program rozrywkowy.</desc>
@@ -23366,16 +21831,6 @@
 		<title lang="pl">Redakcja: Dział Śledczy</title>
 		<desc lang="pl">Serial paradokumentalny.</desc>
 		<category lang="pl">serial paradokumentalny</category>
-	</programme>
-	<programme channel="E-SPORT HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Veni Vidi Vici</title>
-		<desc lang="pl">Magazyn komputerowy.</desc>
-		<category lang="pl">magazyn komputerowy</category>
-	</programme>
-	<programme channel="E-SPORT HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Zetrig na pustkowiach</title>
-		<desc lang="pl">Magazyn poradnikowy.</desc>
-		<category lang="pl">magazyn poradnikowy</category>
 	</programme>
 	<programme channel="E-SPORT HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Zetrig na pustkowiach</title>
@@ -23462,16 +21917,6 @@
 		<desc lang="pl">Najciekawsze mecze &quot;Counter-Strike: Global Offensive&quot;, które zostały rozegrane podczas turnieju DreamHack Masters 2017 w Las Vegas.</desc>
 		<category lang="pl">magazyn sportowy</category>
 	</programme>
-	<programme channel="Polsat Doku HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Poszukiwacze historii</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Polsat Doku HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Poszukiwacze historii</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Polsat Doku HD" start="20191212140000 +0000" stop="20191212150500 +0000">
 		<title lang="pl">W kręgu zła: Ludzie Hitlera</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -23552,11 +21997,6 @@
 		<desc lang="pl">Bogusław Wołoszański odkrywa tajemnice historii minionego stulecia. W tym odcinku opowie m.in. co wydarzyło się w Wilczym Szańcu.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="DocuBox HD" start="20191212130000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Mundo Ad Portas</title>
-		<desc lang="pl">Mundo Ad Portas.</desc>
-		<category lang="pl"></category>
-	</programme>
 	<programme channel="DocuBox HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Graveyards - Ushuaia Graveyard</title>
 		<desc lang="pl">Graveyards - Ushuaia Graveyard.</desc>
@@ -23636,16 +22076,6 @@
 		<title lang="pl">The Force Of The Air - Aeolian Potential</title>
 		<desc lang="pl">The Force Of The Air - Aeolian Potential.</desc>
 		<category lang="pl"></category>
-	</programme>
-	<programme channel="Food Network HD" start="20191212123000 +0000" stop="20191212130500 +0000">
-		<title lang="pl">Ugotowani</title>
-		<desc lang="pl">W każdym odcinku prezentuje się jeden z uczestników. Jego zadaniem jest zorganizowanie kolacji dla pozostałych kucharzy amatorów.</desc>
-		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="Food Network HD" start="20191212130500 +0000" stop="20191212134000 +0000">
-		<title lang="pl">Ugotowani</title>
-		<desc lang="pl">W każdym odcinku prezentuje się jeden z uczestników. Jego zadaniem jest zorganizowanie kolacji dla pozostałych kucharzy amatorów.</desc>
-		<category lang="pl">reality show</category>
 	</programme>
 	<programme channel="Food Network HD" start="20191212134000 +0000" stop="20191212141000 +0000">
 		<title lang="pl">Przyślij przepis</title>
@@ -23761,16 +22191,6 @@
 		<title lang="pl">Mordercza kuchnia</title>
 		<desc lang="pl">Reality show.</desc>
 		<category lang="pl">reality show</category>
-	</programme>
-	<programme channel="TVN24 BiS HD" start="20191212121000 +0000" stop="20191212131000 +0000">
-		<title lang="pl">Pojedynki wizjonerów</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="TVN24 BiS HD" start="20191212131000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Czarno na białym</title>
-		<desc lang="pl">Analiza wydarzeń, które wywarły wpływ na życie polityczno-społeczne Polaków w ostatnich dniach.</desc>
-		<category lang="pl">magazyn</category>
 	</programme>
 	<programme channel="TVN24 BiS HD" start="20191212140000 +0000" stop="20191212150000 +0000">
 		<title lang="pl">Fakty o świecie</title>
@@ -23917,16 +22337,6 @@
 		<desc lang="pl">W programie rozmowy z przedstawicielami świata kultury, omówienie bestsellerów, wywiady i aktorskie interpretacje literatury współczesnej.</desc>
 		<category lang="pl">magazyn kulturalny</category>
 	</programme>
-	<programme channel="HGTV HD" start="20191212125000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Kupujemy dom nad jeziorem 3</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="HGTV HD" start="20191212132000 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Projektowanie na zawołanie</title>
-		<desc lang="pl">Program rozrywkowy.</desc>
-		<category lang="pl">program rozrywkowy</category>
-	</programme>
 	<programme channel="HGTV HD" start="20191212135000 +0000" stop="20191212142000 +0000">
 		<title lang="pl">Mały dom, duże możliwości 7</title>
 		<desc lang="pl">Reality show.</desc>
@@ -24041,16 +22451,6 @@
 		<title lang="pl">Maja w ogrodzie 13</title>
 		<desc lang="pl">Magazyn ogrodniczy.</desc>
 		<category lang="pl">magazyn ogrodniczy</category>
-	</programme>
-	<programme channel="TBN HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Punkt zwrotny 2</title>
-		<desc lang="pl">Talk-show.</desc>
-		<category lang="pl">talk-show</category>
-	</programme>
-	<programme channel="TBN HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Chata. Rekonstrukcja</title>
-		<desc lang="pl">Chata. Rekonstrukcja.</desc>
-		<category lang="pl"></category>
 	</programme>
 	<programme channel="TBN HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Podróż przez historię</title>
@@ -24187,11 +22587,6 @@
 		<desc lang="pl">Podróż przez historię.</desc>
 		<category lang="pl"></category>
 	</programme>
-	<programme channel="Romance TV HD" start="20191212123000 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Wszystko dla pań</title>
-		<desc lang="pl">Serial obyczajowy.</desc>
-		<category lang="pl">serial obyczajowy</category>
-	</programme>
 	<programme channel="Romance TV HD" start="20191212132500 +0000" stop="20191212151500 +0000">
 		<title lang="pl">Rejs ku szczęściu - Podróż poślubna na Sardynię</title>
 		<desc lang="pl">Film obyczajowy.</desc>
@@ -24246,11 +22641,6 @@
 		<title lang="pl">Statek marzeń: Palau</title>
 		<desc lang="pl">Film obyczajowy.</desc>
 		<category lang="pl">film obyczajowy</category>
-	</programme>
-	<programme channel="Polsat Viasat Explore HD" start="20191212122000 +0000" stop="20191212132000 +0000">
-		<title lang="pl">Mistrzowie drewna 4</title>
-		<desc lang="pl">Program o najlepszych na świecie cieślach, którzy wznoszą wspaniałe domy z bali dla sławnych i bogatych klientów.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="Polsat Viasat Explore HD" start="20191212132000 +0000" stop="20191212141500 +0000">
 		<title lang="pl">Mistrzowie drewna 4</title>
@@ -24327,11 +22717,6 @@
 		<desc lang="pl">Jeremy Wade wyrusza na poszukiwania krwiożerczych ryb. Próbuje schwytać groźne stworzenia i sprawdzić, czy są one w stanie zaatakować ludzi.</desc>
 		<category lang="pl">serial dokumentalny</category>
 	</programme>
-	<programme channel="Polsat Viasat History HD" start="20191212125500 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Wojna asów przestworzy</title>
-		<desc lang="pl">Serial dokumentalny.</desc>
-		<category lang="pl">serial dokumentalny</category>
-	</programme>
 	<programme channel="Polsat Viasat History HD" start="20191212140000 +0000" stop="20191212151000 +0000">
 		<title lang="pl">Wojna asów przestworzy</title>
 		<desc lang="pl">Serial dokumentalny.</desc>
@@ -24401,16 +22786,6 @@
 		<title lang="pl">Na tropie zbrodni 2</title>
 		<desc lang="pl">Pierwsza część historii Johna Christie. W latach 40. i 50. zabił co najmniej osiem kobiet. Wśród nich znalazła się jego żona.</desc>
 		<category lang="pl">serial dokumentalny</category>
-	</programme>
-	<programme channel="Disney Channel HD" start="20191212130000 +0000" stop="20191212133000 +0000">
-		<title lang="pl">Blog na cztery łapy 3</title>
-		<desc lang="pl">Serial dla młodzieży.</desc>
-		<category lang="pl">serial dla młodzieży</category>
-	</programme>
-	<programme channel="Disney Channel HD" start="20191212133000 +0000" stop="20191212140000 +0000">
-		<title lang="pl">Blog na cztery łapy</title>
-		<desc lang="pl">Tyler i Avery są przybranym rodzeństwem. W domu jest jeszcze Chloe i rodzice. Pojawia się pies Stan i zaczyna prowadzić bloga o rodzinie.</desc>
-		<category lang="pl">serial dla młodzieży</category>
 	</programme>
 	<programme channel="Disney Channel HD" start="20191212140000 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Supa Strikas 2</title>
@@ -24555,16 +22930,6 @@
 	<programme channel="Disney Channel HD" start="20191213025000 +0000" stop="20191213030000 +0000">
 		<title lang="pl">Era Ronków</title>
 		<desc lang="pl">Serial animowany.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Cartoon Network HD" start="20191212125500 +0000" stop="20191212132500 +0000">
-		<title lang="pl">Niesamowity świat Gumballa</title>
-		<desc lang="pl">Serial dla dzieci o Gumballu, niebieskim kocie z wielką głową, który mieszka w miasteczku zamieszkanym przez niezwykłe, barwne postacie.</desc>
-		<category lang="pl">serial animowany</category>
-	</programme>
-	<programme channel="Cartoon Network HD" start="20191212132500 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Niesamowity świat Gumballa</title>
-		<desc lang="pl">Serial dla dzieci o Gumballu, niebieskim kocie z wielką głową, który mieszka w miasteczku zamieszkanym przez niezwykłe, barwne postacie.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
 	<programme channel="Cartoon Network HD" start="20191212135500 +0000" stop="20191212142000 +0000">
@@ -24727,11 +23092,6 @@
 		<desc lang="pl">Serial animowany.</desc>
 		<category lang="pl">serial animowany</category>
 	</programme>
-	<programme channel="BBC First HD" start="20191212125500 +0000" stop="20191212135000 +0000">
-		<title lang="pl">Doktor Who 8</title>
-		<desc lang="pl">Ciąg dalszy przygód nieustraszonego Doktora. Ekscentryczny superbohater podróżuje w czasie i przestrzeni. Stawia czoło wszelkim formom zła.</desc>
-		<category lang="pl">serial SF</category>
-	</programme>
 	<programme channel="BBC First HD" start="20191212135000 +0000" stop="20191212145000 +0000">
 		<title lang="pl">Nowe triki 9</title>
 		<desc lang="pl">Serial kryminalny.</desc>
@@ -24881,11 +23241,6 @@
 		<title lang="pl">Nieprzewidywalna pogoda 2</title>
 		<desc lang="pl">Film dokumentalny.</desc>
 		<category lang="pl">film dokumentalny</category>
-	</programme>
-	<programme channel="BBC Brit HD" start="20191212130000 +0000" stop="20191212135500 +0000">
-		<title lang="pl">Kuchenne koszmary USA 7</title>
-		<desc lang="pl">Amerykańskie restauracje czeka brutalna pobudka. Lokale zagrożone zamknięciem zostaną poddane kuracji samego Gordona Ramsaya.</desc>
-		<category lang="pl">serial dokumentalny</category>
 	</programme>
 	<programme channel="BBC Brit HD" start="20191212135500 +0000" stop="20191212143000 +0000">
 		<title lang="pl">Najgorsi kierowcy świata 2</title>
