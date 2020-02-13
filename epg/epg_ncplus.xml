@@ -724,19 +724,9 @@
 		<display-name>CANAL+ SPORT 4 HD</display-name>
 		<icon src="https://ncplusgo.img.rd.insyscd.net/ch-canal-sport-4/ch-canal-sport-197.png"/>
 	</channel>
-	<programme channel="38" start="20200213180000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Przerwa</title>
-		<desc lang="pl">Brak emisji</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="38" start="20200214000000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">Brak emisji</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="13-ulica" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Hawaii 5.0 10 (odc. 11)</title>
-		<desc lang="pl">Kolejne śledztwa prowadzone przez jednostkę specjalną, utworzoną przez gubernatora Hawajów, by strzec bezpieczeństwa na pozornie idyllicznych wyspach.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="13-ulica" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -789,11 +779,6 @@
 		<desc lang="pl">Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="8tv" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Warsaw Shore</title>
-		<desc lang="pl">Polski program typu reality show wzorowany na amerykańskim formacie &quot;Ekipa z New Jersey&quot;. Bohaterami są młodzi ludzie z zamiłowaniem do imprez, którzy w trakcie trwania programu mieszkają razem i wspólnie spędzają czas. Ich codzienne życie, na które w dużej mierze składają się imprezy, jest rejestrowane przez kamery. Uczestnicy programu odwiedzają kluby, bawią się na spotkaniach tanecznych, angaż</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="8tv" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Eks na plaży</title>
 		<desc lang="pl">Program skupia się na relacjach między uczestnikami i ich byłymi partnerami. Ośmioro singli otrzymuje szansę przeżycia wymarzonych wakacji. Nie wiedzą jednak, że na wyspie, na której spędzą czas, pojawią się także ich byli partnerzy. Niektórzy z nich będą chcieli odzyskać ukochanych, inni zjawią się z innymi intencjami.</desc>
@@ -832,11 +817,6 @@
 	<programme channel="8tv" start="20200214054500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">TV Okazje</title>
 		<desc lang="pl">Program reklamowy prezentujący produkty, które można zakupić bez wychodzenia z domu. Wystarczy zadzwonić lub skorzystać ze strony internetowej.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="Epic-HD" start="20200213222000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Detektyw Murdoch 6 (odc. 6)</title>
-		<desc lang="pl">Lata 90. XIX w.: William Murdoch sięga po nowatorskie techniki kryminologiczne, takie jak badanie odcisków palców i traseologia, aby wyjaśniać najbardziej makabryczne morderstwa i chwytać przestępców. Burmistrz Clarkson otrzymuje film, na którym widać psa umierającego od trującego gazu. Burmistrz uważa, że nagranie jest fałszywe, ale Murdoch obawia się, że zagrożenie dla Toronto jest realne.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="Epic-HD" start="20200213231500 +0000" stop="20200214001000 +0000">
@@ -879,11 +859,6 @@
 		<desc lang="pl">Lata 90. XIX w.: William Murdoch sięga po nowatorskie techniki kryminologiczne, takie jak badanie odcisków palców i traseologia, aby wyjaśniać najbardziej makabryczne morderstwa i chwytać przestępców. Dwóch dziedziców zamożnego rodu Beatonów ginie w tajemniczych okolicznościach. Służba twierdzi, że posiadłość Beatonów jest nawiedzona, ale Murdoch nie wierzy w obecność duchów.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="TNT" start="20200213210000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Zabójcza broń II</title>
-		<desc lang="pl">Dwaj detektywi, zrównoważony Roger Murtaugh i porywczy Martin Riggs, otrzymują kolejne zadanie. Wydaje się ono mało ciekawe, mają bowiem ochraniać księgowego mafii, Leo Getza, który jest świadkiem koronnym w procesie przeciwko gangsterom. W tym czasie do Stanów Zje-dnoczonych przybywa dyplomata z RPA Arjen Rudd. Według zeznań Getza jest on szefem narkotykowego imperium. Riggs i Murtaugh podejmują z nim walkę. Nie jest to łatwy przeciwnik, gdyż chroni go immunitet.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="TNT" start="20200213231500 +0000" stop="20200214012500 +0000">
 		<title lang="pl">Predator</title>
 		<desc lang="pl">Klasyka kina akcji z Arnoldem Schwarzeneggerem w roli głównej. Major Dutch Schaeffer (Schwarzenegger) i jego elitarny oddział komandosów zostaje wynajęty przez CIA w celu odbicia zakładników przetrzymywanych przez partyzantów w południowoamerykańskiej dżungli. Niespodziewanie na ich drodze staje okrutny przybysz z innej planety, któremu polowanie na ludzi sprawia niezwykłą przyjemność. Jedynym człowiekiem, który może mu się przeciwstawić jest major Schaeffer.</desc>
@@ -912,16 +887,6 @@
 	<programme channel="TNT" start="20200214053500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Tropiciele 2 (odc. 10)</title>
 		<desc lang="pl">Dory prowadzi nieciekawe życie w Nowym Jorku. Kiedy dowiaduje się, że zaginęła jej koleżanka ze studiów, postanawia ją odnaleźć. W poszukiwania angażuje swojego chłopaka Drew oraz przyjaciół, Elliotta i Portię. Młodzi ludzie wplątują się w sieć intryg.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="active-family" start="20200213230000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Naga prawda</title>
-		<desc lang="pl">&quot;Poruszający, odważny i kontrowersyjny dokument z udziałem młodych ludzi, którzy całkowicie obnażeni, dzielą się swoimi historiami o własnych ciałach. Osoby otyłe, z nadmiarem skóry po drastycznym schudnięciu, perfekcyjnie wyrzeźbieni, pokryci od stóp do głów tatuażami, z protezami kończyn - każdy z nich z osobistej perspektywy opowie jaki ma stosunek do własnej fizyczności i jak jest odbierany przez społeczeństwo. &quot;</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="active-family" start="20200213232000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Sprawdzone, zatwierdzone</title>
-		<desc lang="pl">&quot;Jessica to nieustraszona testerka najróżniejszych sportów i niekonwencjonalnych sposobów na aktywne spędzanie czasu. Na wodzie, na lodzie, w jaskini czy w powietrzu - ta dziewczyna próbuje dosłownie wszystkiego, aby przekonać Cię, że żaden sport nie jest człowiekowi straszny.&quot;</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="active-family" start="20200213233000 +0000" stop="20200214003000 +0000">
@@ -972,11 +937,6 @@
 	<programme channel="active-family" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Jak piwo ocaliło świat</title>
 		<desc lang="pl">&quot;Czy za najważniejszymi wynalazkami ludzkości stało piwo? Wielu antropologów i archeologów twierdzi, że to piwo wiele tysięcy lat temu pchnęło ludzkość do rozwoju rolnictwa, które w rezultacie dało początek pierwszym cywilizacjom. Systemy nawadniania, pismo, matematyka, a nawet medycyna - to zdaniem twórców dokumentu tylko niektóre dziedziny które piwo pchnęło do przodu!&quot;</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="adventure-hd" start="20200213221500 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Kolekcjonerska pasja</title>
-		<desc lang="pl">Elyse Luray - historyk sztuki wyrusza w podróż po Ameryce, aby zobaczyć najbardziej pożądane, rzadkie kolekcje na największych i najsłynniejszych wystawach i pchlich targach. W każdym odcinku Elyse, wraz ze specjalistami z danego regionu, wspólnie odnajdują najciekawsze okazje kolekcjonerskie.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="adventure-hd" start="20200213232000 +0000" stop="20200214003000 +0000">
@@ -1079,11 +1039,6 @@
 		<desc lang="pl">Konrad Wolski, szef wydziału Q, elitarnej komórki polskiego wywiadu, przejmując w Stambule białoruskiego handlarza bronią, dowiaduje się o planowanym w Szwecji zamachu terrorystycznym. Broń, która zostanie użyta w zamachu, ma pochodzić z sowieckiego arsenału ukrytego na Białorusi. Konrad natychmiast uruchamia Travisa, polskiego szpiega zakonspirowanego w mińskim KGB, by zdobył informacje wywiadowcze, które udaremnią plan terrorystów.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="animal-planet-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Z kamerą w szczękach rekina</title>
-		<desc lang="pl">Dokumentaliści dzikiej przyrody wypływają na wody wokół RPA, aby sfilmować żarłacze białe z zupełnie nowej perspektywy. Czy dopisze im szczęście i zdobędą niesamowite ujęcia? [9-A]</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="animal-planet-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Mieszkanie na pniu 5 (odc. 9)</title>
 		<desc lang="pl">Gwiazda muzyki country, Zac Brown, prosi Pete'a o skonstruowanie nieziemskiego domku na drzewie na potrzeby letniej kolonii dla dzieci, Camp Southern Ground. [AL]</desc>
@@ -1154,11 +1109,6 @@
 		<desc lang="pl">Pełna gama rozrywki: humor, cięte komentarze prowadzącego Roberta &quot;Mykee&quot; Jarka, sonda uliczna Mariana Skowronka, nasz typ, czyli piosenka wybrana przez redakcję, rozmowy z gwiazdami o muzyce disco polo, spotkania z zespołami muzycznymi w Hot Weekend, wydarzenia medialne, wizyty na planach teledysków i koncertach, ciekawostki, plotki także z mediów społecznościowych.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="axn-black" start="20200213225500 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Rekrut (odc. 4)</title>
-		<desc lang="pl">&quot;The Rookie&quot; jest amerykańskim serialem kryminalnym, stworzonym dla telewizji ABC przez Alexiego Hawleya. Fabuła została oparta na faktach. Będziemy śledzić losy Johna Nolana, czterdziestoletniego mężczyzny, który opuszcza małe miasteczko i wyrusza do Los Angeles. Tam chce spełnić swoje marzenie o pracy policjanta. Będzie musiał się odnaleźć w niebezpiecznym, czasem zabawnym i nieprzewidywalnym świecie kalifornijskiej policji. Bohater musi dopilnować, by nie zmarnować swojej drugiej szansy.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="axn-black" start="20200213235500 +0000" stop="20200214005000 +0000">
 		<title lang="pl">Porwani (odc. 2)</title>
 		<desc lang="pl">Frank, &quot;Kick&quot;, Bishop i James prowadzą sprawę zaginięcia trzech studentek. Podczas powrotu do domu ofiary korzystały z popularnej aplikacji, lecz nigdy nie dotarły na miejsce.</desc>
@@ -1189,11 +1139,6 @@
 		<desc lang="pl">Heads Up Daily, w skrócie HUD, to dostępny na szeroką gamę urządzeń program o wszystkim, co związane jest z e-sportem i kulturą gier wideo. Każdego dnia pełni energii i zabawni gospodarze podsumowują ostatnie turnieje e-sportowe, analizują najlepsze zagrywki, omawiają ważne w świecie gier tematy i zapowiadają nadchodzące wydarzenia. Często dołączają do nich stale zmieniający się goście, od zawodowych graczy po twórców gier i popularnych YouTuberów czy streamerów z serwisu Twitch.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="axn-hd" start="20200213225500 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Agenci NCIS: Los Angeles 10 (odc. 19)</title>
-		<desc lang="pl">Serial Agenci NCIS śledzi poczynania grupy agentów specjalnych, którzy pracując w rządowej agencji Naval Criminal Investigative Service, prowadzą dochodzenia w sprawach związanych z Marynarką lub Piechotą Morską. Kierowana przez agenta specjalnego - Leroya Jethro Gibbsa, świetnie wyszkolona ekipa podróżuje po świecie, badając najróżniejsze sprawy, od morderstw i szpiegostwo, po terroryzm i uprowadzenia.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="axn-hd" start="20200213235000 +0000" stop="20200214004500 +0000">
 		<title lang="pl">Agenci NCIS: Los Angeles 10 (odc. 20)</title>
 		<desc lang="pl">Serial Agenci NCIS śledzi poczynania grupy agentów specjalnych, którzy pracując w rządowej agencji Naval Criminal Investigative Service, prowadzą dochodzenia w sprawach związanych z Marynarką lub Piechotą Morską. Kierowana przez agenta specjalnego - Leroya Jethro Gibbsa, świetnie wyszkolona ekipa podróżuje po świecie, badając najróżniejsze sprawy, od morderstw i szpiegostwo, po terroryzm i uprowadzenia.</desc>
@@ -1222,11 +1167,6 @@
 	<programme channel="axn-hd" start="20200214042500 +0000" stop="20200214061500 +0000">
 		<title lang="pl">Zabójcze umysły: poza granicami 2 (odc. 12)</title>
 		<desc lang="pl">Drugi sezon amerykańskiego dramatu policyjnego stworzonego przez Ericę Messer na potrzeby stacji CBS. Jest to spin-off serialu Criminal Minds nadawanego w tej samej stacji i jednocześnie trzeci projekt realizowany w ramach tej marki. Criminal Minds: Beyond Borders opowiada o elitarnej grupie agentów FBI zajmującej się rozwiazywaniem spraw dotyczących obywateli USA przebywających poza granicami kraju.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="axn-spin-hd" start="20200213230000 +0000" stop="20200213235500 +0000">
-		<title lang="pl">2091 (odc. 7)</title>
-		<desc lang="pl">Enira, której udaje się pojmać wroga, zaczyna się szykować na zakończenie misji wyznaczonej jej przez boginię. Lila z niepokojem wyczekuje wznowienia rozgrywki, nieświadoma, że wkrótce utraci jedyną rzecz, która naprawdę ma dla niej znaczenie. Mefisto rzuca Neodimio Corporations wyzwanie, nie zastanawiając się nad konsekwencjami swojego ruchu.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="axn-spin-hd" start="20200213235500 +0000" stop="20200214005000 +0000">
@@ -1292,56 +1232,6 @@
 	<programme channel="axn-white" start="20200214050000 +0000" stop="20200214062500 +0000">
 		<title lang="pl">Ultraviolet 2 (odc. 3)</title>
 		<desc lang="pl">Ultraviolet to serial kryminalny, w którym tajemnice i niewyjaśnione przez policję sprawy rozwiązuje tytułowa grupa Ultraviolet, działająca w sieci i wykorzystująca do tego siłę nowych technologii. Do grupy dołącza trzydziestoletnia Ola Serafin, którą osobiste przejścia zmusiły do opuszczenia Londynu i powrotu do rodzinnej Łodzi. Pewnej nocy, prowadząc samochód, jest świadkiem tragicznego zdarzenia. Policja uznaje je za samobójstwo i zamyka sprawę, z czym nie zgadza się Ola.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213225900 +0000" stop="20200213230300 +0000">
-		<title lang="pl">Zmierzch</title>
-		<desc lang="pl">Nadszedł czas, aby odpocząć od codziennych zajęć i przygotować się do snu.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213230300 +0000" stop="20200213230700 +0000">
-		<title lang="pl">Spadająca gwiazda</title>
-		<desc lang="pl">Czas usiąść, zrelaksować się i cieszyć spokojną nocą.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213230700 +0000" stop="20200213231300 +0000">
-		<title lang="pl">Concertino: Koncercik</title>
-		<desc lang="pl">Ta seria pozwoli twojemu dziecku poznać bliżej muzykę klasyczną. Zobacz jak muzycy z orkiestry grają na różnych instrumentach, takich jak: harfa, pianino, wiolonczela i flet. Wszystko przeplatane spektakularnym, pełnym kolorów animowanym światem. Muzycy grają najsłynniejsze kompozycje, które zostały starannie wybrane i specjalnie zaadaptowane przez kompozytora BabyTV. Zawiera utwory największych wirtuozów świata muzyki Beethovena, Vivaldiego, Bacha, Mozarta i wielu innych.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213231300 +0000" stop="20200213231700 +0000">
-		<title lang="pl">Magiczne gwiazdki</title>
-		<desc lang="pl">Zwolnijmy i zmieńmy bieg.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213231700 +0000" stop="20200213232700 +0000">
-		<title lang="pl">Kwiaty</title>
-		<desc lang="pl">Cztery odcinki z krajobrazami prezentują pomieszanie natury i wyobraźni. Dołącz do nas w spokojnej przechadzce wzdłuż spokojnego brzegu rzeki, pola kwiatów, wśród rafy koralowej lub delikatnie wznieś się w powietrze balonem. Spokojne tempo programu, bogata ścieżka dźwiękowa i delikatne postacie, tworzą razem wspaniałą bajeczkę!</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213232700 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Droga Mleczna</title>
-		<desc lang="pl">Pora się uspokoić i zrelaksować.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213233000 +0000" stop="20200213234100 +0000">
-		<title lang="pl">Niebo</title>
-		<desc lang="pl">Cztery odcinki z krajobrazami prezentują pomieszanie natury i wyobraźni. Dołącz do nas w spokojnej przechadzce wzdłuż spokojnego brzegu rzeki, pola kwiatów, wśród rafy koralowej lub delikatnie wznieś się w powietrze balonem. Spokojne tempo programu, bogata ścieżka dźwiękowa i delikatne postacie, tworzą razem wspaniałą bajeczkę!</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213234100 +0000" stop="20200213235100 +0000">
-		<title lang="pl">Ocean</title>
-		<desc lang="pl">Cztery odcinki z krajobrazami prezentują pomieszanie natury i wyobraźni. Dołącz do nas w spokojnej przechadzce wzdłuż spokojnego brzegu rzeki, pola kwiatów, wśród rafy koralowej lub delikatnie wznieś się w powietrze balonem. Spokojne tempo programu, bogata ścieżka dźwiękowa i delikatne postacie, tworzą razem wspaniałą bajeczkę!</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213235100 +0000" stop="20200213235400 +0000">
-		<title lang="pl">Magiczne gwiazdki</title>
-		<desc lang="pl">Zwolnijmy i zmieńmy bieg.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="baby-tv" start="20200213235400 +0000" stop="20200213235700 +0000">
-		<title lang="pl">Nocne niebo</title>
-		<desc lang="pl">Przyjaciele z Babyhood znów wracają, tym razem ruszają w relaksującą nocną podróż. Odwiedź księżyc wraz z Hipciem, kołysz się razem z owcą w chmurach i wyrusz w podróż balonem, aby pomachać słońcu.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="baby-tv" start="20200213235700 +0000" stop="20200214000700 +0000">
@@ -1799,11 +1689,6 @@
 		<desc lang="pl">Toto i jego najlepszy przyjaciel, Robbie, to zabawki, które ożywają w przedszkolu, kiedy wszystkie dzieci już pójdą do domu. Przedszkole przemienia się w wyobrażony świat, gdzie odkrywają, co danego dnia dzieci zrobiły i czego się nauczyły w przedszkolu, i przeżywają cudowne przygody.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="bbc-brit-hd" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Brytyjskie więzienia bez tajemnic (odc. 1)</title>
-		<desc lang="pl">Przemoc za kratami brytyjskich więzień osiąga rekordowy poziom. Od początku 2017 roku do maja odnotowano 26 643 napaści, z czego 7 000 dotyczyło personelu. Sytuacja dramatycznie wymyka się spod kontroli.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="bbc-brit-hd" start="20200213233000 +0000" stop="20200214003500 +0000">
 		<title lang="pl">Życie w celi śmierci 3 (odc. 2)</title>
 		<desc lang="pl">Jak wygląda życie w celi śmierci? Poruszający serial dokumentalny zawiera portrety ludzi, którzy zostali skazani na najwyższy wymiar kary. Kamera towarzyszy bohaterom od procesu, przez kolejne apelacje, aż do egzekucji.</desc>
@@ -1844,11 +1729,6 @@
 		<desc lang="pl">Ramsay odwiedza Lido Di Manhattan Beach w Kalifornii. Właścicielka Lisa ma MBA, nie ma natomiast pojęcia, jak prowadzić restaurację. 8/13</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="bbc-earth-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Cała prawda o menopauzie (odc. 1)</title>
-		<desc lang="pl">Menopauza to jeden z ostatnich tematów tabu dotyczących kobiet. 57-letnia dziennikarka Mariella Frostrop motywowana własnymi doświadczeniami, postanawia sprawdzić, czego na temat menopauzy można dowiedzieć się z najnowszych badań naukowych. 1/1</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="bbc-earth-hd" start="20200214000000 +0000" stop="20200214010500 +0000">
 		<title lang="pl">Cała prawda o stresie</title>
 		<desc lang="pl">Niektóre rodzaje stresu mogą działać motywująco i budować naszą pewność siebie. Okazuje się też, że zmieniając sposób, w jaki go postrzegamy, możemy wykorzystać go na własną korzyść.</desc>
@@ -1882,11 +1762,6 @@
 	<programme channel="bbc-earth-hd" start="20200214053500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Ziemia. Rok 2050 2 (odc. 8)</title>
 		<desc lang="pl">To nieprawdopodobne, ale w historii naszej planety jej bieguny magnetyczne przemieszczały się już kilkadziesiąt razy. Chuck odwiedza naukowców, którzy potrafią przewidzieć, kiedy to się powtórzy. 8/26</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="bbc-hd" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Milczący świadek 22 (odc. 1)</title>
-		<desc lang="pl">Świeżo po podróży do Stanów Nikki i jednostka Lyell zostają wezwane do zbadania ataku na transseksualnego mężczyznę. 1/10</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="bbc-hd" start="20200213233000 +0000" stop="20200214003000 +0000">
@@ -1924,11 +1799,6 @@
 		<desc lang="pl">Zespół wraca do sprawy zaginięcia policjanta, do którego doszło w 1956 r. 4/10</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="bbc-lifestyle" start="20200213225500 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Stacey Dooley wpada na weekend (odc. 1)</title>
-		<desc lang="pl">Reporterka śledcza Stacey Dooley spędza 72 godziny w towarzystwie wyjątkowych rodzin, by od środka przyjrzeć się życiu we współczesnym, zróżnicowanym społeczeństwie. Tym razem zamieszkuje u Thomasa i Cathy oraz ich 7-letniego syna. Małżeństwo jest otwarte na poliamorię i dzieli swój dom z Nicole. 1/6</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="bbc-lifestyle" start="20200213235500 +0000" stop="20200214005500 +0000">
 		<title lang="pl">Wstydliwe choroby (odc. 4)</title>
 		<desc lang="pl">Lekarze pomagają pacjentom z krępującymi dolegliwościami. W tym odcinku m.in. przypadek mężczyzny, który cierpi na przerost sutka. 4/4</desc>
@@ -1962,16 +1832,6 @@
 	<programme channel="bbc-lifestyle" start="20200214050500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Pogotowie remontowe: Wielka przebudowa 29 (odc. 7)</title>
 		<desc lang="pl">Nick Knowles i jego ekipa budują dwa nowe budynki dla społeczności zniszczonego w wyniku pożaru wieżowca Grenfell w Londynie. Zaczynają od siedziby klubu bokserskiego. 7/7</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="bbc-world-news" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">BBC World News America</title>
-		<desc lang="pl">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="bbc-world-news" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">BBC World News America</title>
-		<desc lang="pl">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="bbc-world-news" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -2054,11 +1914,6 @@
 		<desc lang="pl">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="blue-hustler" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">BHE Scenes</title>
-		<desc lang="pl">A selection of the best scenes, shot from the most renown Blue Hustler Europe movies</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="blue-hustler" start="20200214000000 +0000" stop="20200214010600 +0000">
 		<title lang="pl">Filthy Fetish MILFs</title>
 		<desc lang="pl">Filthy MILFs leave their normal clothes at home and elect to ear latex, leather, and fishnets! These fetish freaks will have you begging for more of thei mom domination!</desc>
@@ -2082,11 +1937,6 @@
 	<programme channel="blue-hustler" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">BHE Scenes</title>
 		<desc lang="pl">A selection of the best scenes, shot from the most renown Blue Hustler Europe movies</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="boomerang" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Mój rycerz i ja</title>
-		<desc lang="pl">Uroczy i nieporadny Henri to średniowieczny rycerz, któremu przyświecają szlachetne ideały. W skład jego rycerskiej świty wchodzi Jimmy, syn Henriego i jego najlepsza przyjaciółka, księżniczka Cat. To wyjątkowe trio wnosi w mroczne, średniowieczne czasy wiele dobrego humoru i znakomitej zabawy.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="boomerang" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -2184,11 +2034,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-discovery" start="20200213223000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Opowieści wielkich rzek (odc. 4)</title>
-		<desc lang="pl">Mekong, Missisipi, Dunaj, Parana… Na wszystkich kontynentach znajdziemy ogromne rzeki, które są źródłami największych cywilizacji, źródłem wyżywienia wielu osób czy też same w sobie niesamowitymi ekosystemami. Dokument opowiada o współżyciu ludzkich społeczności i wielkich rzek. Francuski dziennikarz, François Pécheux, wypływa na Paranę, drugą co do długości rzekę kontynentu południowoamerykańskiego. Swoją podróż zaczyna od wodospadów Iguazu na argentyńskim odcinku rzeki.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-discovery" start="20200213232500 +0000" stop="20200214001500 +0000">
 		<title lang="pl">Koleją przez świat 5 (odc. 2)</title>
 		<desc lang="pl">W serii dokumentalnej &quot;Koleją przez świat&quot; angielski prezenter telewizyjny i radiowy - Chris Tarrant już po raz trzeci zaprezentuje widzom najbardziej niebezpieczne linie kolejowe na świecie. W trzyczęściowej serii widzowie będą mogli towarzyszyć prowadzącemu w podróżach do najbardziej egzotycznych miejsc na świecie. Za pomocą kolei Chris Tarrant przemierzy australijskie prowincje, zawędruje do wybrzeży Indii i dotrze do samego serca afrykańskiej dżungli.</desc>
@@ -2259,11 +2104,6 @@
 		<desc lang="pl">film dokumentalny</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-film-hd" start="20200213220000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Johnny English: Nokaut</title>
-		<desc lang="pl">Hakerzy przeprowadzają atak cybernetyczny, podczas którego ujawniają dane wszystkich brytyjskich agentów. Emerytowany agent Johnny English zostaje wezwany przez swoje byłe szefostwo, by złapać sprawcę całego zamieszania. Choć Johnny English jest już na agenckiej emeryturze, czeka na niego jeszcze jedna robota. Nie może jej wykonać nikt inny, ponieważ dane wszystkich pozostałych agentów zostały wykradzione w ataku cybernetycznym. Według szefa sam atak to dopiero początek kłopotów.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-film-hd" start="20200213232500 +0000" stop="20200214012000 +0000">
 		<title lang="pl">Ciemno, prawie noc</title>
 		<desc lang="pl">&quot;Ciemno, prawie noc&quot; to ekranizacja bestsellerowej powieści polskiej pisarki Joanny Bator o tym samym tytule. Wałbrzychem wstrząsa seria tajemniczych zaginięć dzieci. Kiedy policja bezradnie rozkłada ręce, do miasta decyduje się przyjechać dziennikarka Alicja Tabor. Alicja Tabor to dziennikarka, która powraca po latach do swojej rodzinnej miejscowości, Wałbrzycha, aby rozwiązać tajemnicę zaginięcia trójki dzieci.</desc>
@@ -2294,11 +2134,6 @@
 		<desc lang="pl">film krótkometrażowy</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-hd" start="20200213215500 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Eskorta</title>
-		<desc lang="pl">Agent elitarnej jednostki CIA ma za zadanie przewieźć ważnego informatora z ambasady amerykańskiej na lotnisko. Przejechanie tego odcinka nie będzie takie łatwe, ponieważ po drodze czeka na nich wiele przeszkód. James Silva jest agentem specjalnej jednostki CIA. Dostaje nowe zadanie, jakim jest eskortowanie na pokład samolotu informatora, którego zeznania mogą uratować setki ludzkich istnień.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-hd" start="20200213232500 +0000" stop="20200214010500 +0000">
 		<title lang="pl">Smak zemsty. Peppermint</title>
 		<desc lang="pl">Kiedy mąż i córka Riley zostają zamordowani przez członków kartelu, kobieta sama postanawia wymierzyć sprawiedliwość przestępcom. Riley North to szczęśliwa matka oraz żona. Wszystko się zmienia w dniu, gdy zabójcy działający na zlecenie potężnego kartelu zabijają jej córkę oraz męża. Zabójcy stają twarzą w twarz z wymiarem sprawiedliwości, jednak przekupiony wcześniej sędzia puszcza ich wolno. Kiedy mija 5 lat od tragedii, policja znajduje ciała trzech zamordowanych członków kartelu.</desc>
@@ -2322,11 +2157,6 @@
 	<programme channel="canal-hd" start="20200214041500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Ostatni rozdział</title>
 		<desc lang="pl">Znakomity portret hermetycznego środowiska górskiego sanatorium, które z Pałacu Zdrowia staje się siedliskiem śmierci i pozbawionego uczuć seksu. Trwa wielka wojna, później nazwana I wojną światową. Kosmopolityczne Zakopane zachowuje jednak pozory normalności. Góry pozostają tak samo piękne i niewzruszone, a powietrze rześkie i czyste.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="canal-seriale" start="20200213230000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Polityka (odc. 3)</title>
-		<desc lang="pl">Serialowa wersja kinowego hitu Patryka Vegi, tuż po premierze filmu w kinach. W &quot;Pitbullu&quot; Patryk Vega zajął się policją, w &quot;Botoksie&quot; wziął pod lupę służbę zdrowia, a teraz przyszedł czas na polską scenę polityczną. Co robią i jak zachowują się najważniejsi ludzie w kraju, kiedy gasną światła kamer i spadają maski? Jak władza i dostęp do publicznych pieniędzy wpływa na osoby piastujące najwyższe urzędy i pełniące obowiązki wobec Narodu? Bezkompromisowa &quot;Polityka&quot; odpowiada na te pytania.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="canal-seriale" start="20200213234000 +0000" stop="20200214002500 +0000">
@@ -2364,11 +2194,6 @@
 		<desc lang="pl">Witek jest korespondentem wojennym, a Anka to jego żona, która nieustannie czeka, aż mąż wróci bezpiecznie do domu. Czy nawet tak wielka miłość jest w stanie wytrzymać warunki, w których przyszło im żyć? Anka i Witek są w sobie bardzo zakochani, jednak gdy mężczyzna wyjeżdża na wojenny front, aby dokumentować zachodzące tam wydarzenia, jego żona nie może usiedzieć w spokoju, drżąc ze strachu o jego życie. Anka stara się żyć normalnie, jednak niepewność i strach o życie męża wygrywa.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-sport-2" start="20200213205500 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Liga Mistrzów CEV: SL Benfica - Sir Sicoma Colussi Perugia</title>
-		<desc lang="pl">Liga Mistrzów CEV to najważniejsze klubowe rozgrywki siatkarzy w Europie. W elitarnym gronie 20 zespołów Polska ma aż trzech reprezentantów. Równie mocną obsadą pochwalić mogą się jedynie Włosi i Rosjanie. Turniej wygląda następująco: z pięciu grupo po cztery drużyny wyłania się osiem ekip z najlepszym bilansem punktowym. Potem następuje faza pucharowa (mecz i rewanż). Dopiero finał rozgrywany je</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-sport-2" start="20200213233000 +0000" stop="20200214003500 +0000">
 		<title lang="pl">Magazyn Ligi Mistrzów CEV</title>
 		<desc lang="pl">W programie podsumowanie ostatnich wydarzeń w rozgrywkach Ligi Mistrzów CEV. Nie zabraknie fragmentów meczów, rozmów z zawodnikami i trenerami oraz felietonów.</desc>
@@ -2402,11 +2227,6 @@
 	<programme channel="canal-sport-2" start="20200214023500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="canal-sport-3" start="20200213214000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">PKO BP Ekstraklasa: Korona Kielce - Górnik Zabrze</title>
-		<desc lang="pl">W najwyższej klasie rozgrywkowej piłki nożnej mężczyzn w Polsce występuje 16 drużyn klubowych. Rozgrywają one mecze w 30 kolejkach fazy zasadniczej. Potem dzielą się na grupy mistrzowską i spadkową, by rozgrywać spotkania w 7 kolejkach. Ekipa z najwyższą liczbą punktów zostaje mistrzem kraju i awansuje do eliminacji Ligi Mistrzów UEFA, a dwie następne awansują do eliminacji Ligi Europy UEFA. Trzy</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="canal-sport-3" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -2464,11 +2284,6 @@
 		<desc lang="pl">Autorzy przedstawiają historię i współczesność poszczególnych klubów występujących w najwyższej klasie rozgrywkowej piłkarzy w Polsce. Rozmawiają z piłkarzami, trenerami i działaczami.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-sport-4" start="20200213230000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Kącik klubowy (odc. 21)</title>
-		<desc lang="pl">magazyn piłkarski</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-sport-4" start="20200213231500 +0000" stop="20200214001000 +0000">
 		<title lang="pl">Ekstrapaka: 21. kolejka</title>
 		<desc lang="pl">Autorzy przedstawiają skróty wszystkich meczów ostatniej kolejki PKO Ekstraklasy.</desc>
@@ -2504,21 +2319,6 @@
 		<desc lang="pl">Krzysztof Marciniak i eksperci podsumowują kolejkę PKO Ekstraklasy. Przedstawiają najważniejsze wydarzenia, rozmawiają z piłkarzami i trenerami. Jedną ze stałych części programu jest objaśnienie sytuacji meczowych, które autorzy uważają za kontrowersyjne z punktu widzenia przepisów gry. Omawia je były sędzia piłkarski.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="canal-sport-hd" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Magazyn Ligi Mistrzów CEV</title>
-		<desc lang="pl">W programie podsumowanie ostatnich wydarzeń w rozgrywkach Ligi Mistrzów CEV. Nie zabraknie fragmentów meczów, rozmów z zawodnikami i trenerami oraz felietonów.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="canal-sport-hd" start="20200213233000 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Sport News+</title>
-		<desc lang="pl">W programie skrót najważniejszych wydarzeń ze świata sportu w Polsce i na świecie.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="canal-sport-hd" start="20200213234500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Basket+</title>
-		<desc lang="pl">W programie ciekawostki z parkietów najlepszej ligi koszykówki mężczyzn na świecie. Autorzy pokazują najciekawsze akcje i krótkie rozmowy z zawodnikami.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="canal-sport-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Gala boksu zawodowego: Danny Garcia - Iwan Redkacz</title>
 		<desc lang="pl">Widzowie obejrzą galę boksu zawodowego.</desc>
@@ -2552,16 +2352,6 @@
 	<programme channel="canal-sport-hd" start="20200214053000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Witaj w klubie: Jagiellonia Białystok</title>
 		<desc lang="pl">Autorzy przedstawiają historię i współczesność poszczególnych klubów występujących w najwyższej klasie rozgrywkowej piłkarzy w Polsce. Rozmawiają z piłkarzami, trenerami i działaczami.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cartoon-network" start="20200213225500 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Niesamowity świat Gumballa: Waza/Ollie</title>
-		<desc lang="pl">Niesamowity świat Gumballa to animowany sitcom o przygodach dwunastoletniego Gumballa i jego rodziny zamieszkującej dziwne i wspaniałe miasteczko Elmore. To wizualnie przełomowy serial komediowy, wyprodukowany przez Cartoon Network Europe, który łączy animację 2D, 3D z realną scenerią. Akcja serialu rozgrywa się w małym, sympatycznym miasteczku, które zamieszkuje pełno kolorowych i niezwykłych postaci takich jak banan, T-Rex czy fistaszek cheerleaderka. No cóż...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cartoon-network" start="20200213231500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Ninjago: Mistrzowie spinjitzu 7 (odc. 11)</title>
-		<desc lang="pl">Kai, Jay, Cole i Zane pragną walczyć ze złem. Uczą się starożytnej sztuki walki, spinjitzu, i ruszają do walki ze złowrogimi przeciwnikami, pragnącymi siać chaos i zniszczenie. Największym wrogiem wojowników ninja jest Garmadon, który pragnie zniszczyć planetę. Czterej młodzi wojownicy wiedzą, że są zbyt słabi, by pokonać lorda. Postanawiają znaleźć silnego sojusznika.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="cartoon-network" start="20200213234500 +0000" stop="20200214000500 +0000">
@@ -2652,26 +2442,6 @@
 	<programme channel="cartoon-network" start="20200214054000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Niesamowity świat Gumballa: Były/Dziwadło</title>
 		<desc lang="pl">Niesamowity świat Gumballa to animowany sitcom o przygodach dwunastoletniego Gumballa i jego rodziny zamieszkującej dziwne i wspaniałe miasteczko Elmore. To wizualnie przełomowy serial komediowy, wyprodukowany przez Cartoon Network Europe, który łączy animację 2D, 3D z realną scenerią. Akcja serialu rozgrywa się w małym, sympatycznym miasteczku, które zamieszkuje pełno kolorowych i niezwykłych postaci takich jak banan, T-Rex czy fistaszek cheerleaderka. No cóż...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cbeebies" start="20200213224500 +0000" stop="20200213230500 +0000">
-		<title lang="pl">Numeraki (odc. 13)</title>
-		<desc lang="pl">Połączenie animacji i gry aktorskiej, piosenek i liczb - program, który pomaga przedszkolakom opanować podstawy liczenia. 13/26</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cbeebies" start="20200213230500 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Sara i Kaczorek 3 (odc. 9)</title>
-		<desc lang="pl">Przedstawiamy animowany serial o przygodach Sary i Kaczorka - pary przyjaciół, którzy razem poznają świat. 9/20</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cbeebies" start="20200213231500 +0000" stop="20200213233500 +0000">
-		<title lang="pl">Katie Morag 2 (odc. 11)</title>
-		<desc lang="pl">Katie Morag to rudowłosa, mała, ale przebojowa dziewczynka mieszkająca wraz z rodziną na pięknej, szkockiej wyspie - Isle of Struay. 11/13</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cbeebies" start="20200213233500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Hau hau, Ćwirka i Panda Dave 2 (odc. 9)</title>
-		<desc lang="pl">Bohaterem tej wesołej, kolorowej serii jest Hatty, elegancki chomik, który wspólnie z przyjaciółmi wyrusza na pokładzie wirującego pojazdu do fantastycznych krain, aby grać, śpiewać i odkrywać. 9/52</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="cbeebies" start="20200213234500 +0000" stop="20200214001000 +0000">
@@ -2804,11 +2574,6 @@
 		<desc lang="pl">Stary przyjaciel prosi Jake'a o wybaczenie: to on po pijanemu spowodował wypadek, w którym Jake stracił wzrok. Margaret nie chce wyjeżdżać z koleżankami ze szkoły pielęgniarskiej.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="cbs-reality" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Najgroźniejszy morderca świata 3 (odc. 6)</title>
-		<desc lang="pl">Zanurzymy się w przerażające, prawdziwe historie najgorszych morderców, dowiemy się, co popchnęło ich na drogę zbrodni i poznamy ich mrożące krew w żyłach dziedzictwo.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="cbs-reality" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Na miejscu zbrodni 3 (odc. 3)</title>
 		<desc lang="pl">Serial ukazujący kulisy śledztw - nabierają one rozpędu w miarę, jak znajdowane są nowe dowody zbrodni. Każde z dochodzeń prezentowane jest stopniowo, jedna wskazówka po drugiej...</desc>
@@ -2889,11 +2654,6 @@
 		<desc lang="pl">Zaglądamy do umysłów sprawców, by poznać motywy, jakimi się kierowali, zabijając z zimną krwią. Materiał dowodowy analizują eksperci z FBI, Scotland Yardu i czołowi śledczy z wydziałów zabójstw.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="cinemax-hd" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Władcy chaosu</title>
-		<desc lang="pl">Oslo, przełom lat osiemdziesiątych i dziewięćdziesiątych XX wieku. Znany pod pseudonimem Euronymous siedemnastoletni Øystein Aarseth (Rory Culkin) znużony jest idyllicznym życiem klasy średniej. Razem ze swoimi kumplami zakłada black metalową kapelę o nazwie Mayhem. Zespół szybko zyskuje rozgłos za sprawą swoich nietuzinkowych koncertów i mrocznemu image'owi. Sytuacja szybko zaczyna wymykać się spod kontroli.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="cinemax-hd" start="20200214000000 +0000" stop="20200214013500 +0000">
 		<title lang="pl">Zoo</title>
 		<desc lang="pl">Karen (Zoë Tapper) i John (Edward Speleers) stracili radość w swoim związku w chwili, kiedy dowiedzieli się, że nie mogą mieć dzieci. Teraz ich życie przypomina wegetację na granicy rozwodu. Kiedy jednak świat zaczyna pogrążać się w chaosie z powodu pandemii, która zamienia ludzi w zombie, para musi zacząć razem działać. Zamykają się w mieszkaniu i czekają na ratunek. Kiedy świat stoi nad przepaścią, Karen i John próbują wskrzesić utraconą miłość.</desc>
@@ -2907,11 +2667,6 @@
 	<programme channel="cinemax-hd" start="20200214032000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Pewnego razu na Dzikim Zachodzie</title>
 		<desc lang="pl">Jill McBain (Claudia Cardinale) jedzie z Nowego Orleanu do swojego męża, który mieszka w małym miasteczku na Dzikim Zachodzie. Jednak kilka dni przed jej przybyciem McBain i jego dzieci z poprzedniego małżeństwa zostają zamordowani przez bandę Franka (Henry Fonda). Złoczyńca pragnie zagarnąć ziemie mężczyzny pod budowę kolei. Teraz pozostawiona na pastwę losu Jill musi się zmierzyć z przestępcami.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cinemax2-hd" start="20200213212000 +0000" stop="20200213230500 +0000">
-		<title lang="pl">Podejrzani</title>
-		<desc lang="pl">Pewnej nocy w porcie w Los Angeles potężna eksplozja niszczy statek i zabija 27 osób. Ginie w nim czterech z pięciu przestępców, których kilka tygodni wcześniej prześwietlała policja. Jedynym ocalałym jest niepełnosprawny drobny oszust, Verbal Kint (Kevin Spacey). Mężczyzna przesłuchiwany jest przez nieustępliwego policjanta, który za wszelką cenę pragnie poznać prawdę o śmierci jego byłych kompanów.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="cinemax2-hd" start="20200213230500 +0000" stop="20200214012500 +0000">
@@ -2932,16 +2687,6 @@
 	<programme channel="cinemax2-hd" start="20200214051000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Filmy (odc. 10)</title>
 		<desc lang="pl">Dwunastogodzinny serial pokazuje historię amerykańskiego kina i bada, jak zmiany kulturowe, społeczne i polityczne wpływały na jego ewolucję. W produkcji można zobaczyć materiały archiwalne oraz wywiady z czołowymi aktorami, reżyserami, producentami, krytykami filmowymi i historykami - w tym m.in. z Ronem Howardem, Ridleyem Scottem, Tomem Hanksem, Baz Luhrmannem oraz Morganem Freemanem. Serial dokumentalny, który jest swego rodzaju hołdem dla amerykańskiego kina.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cnn" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">The Brief with Bianca Nobilo</title>
-		<desc lang="pl">An incisive look at the most significant live events and stories of the last 24 hours, covering the UK and beyond, showcasing CNN's distinctive and agenda-setting reporting.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="cnn" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">World Sport</title>
-		<desc lang="pl">A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="cnn" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -2972,21 +2717,6 @@
 	<programme channel="cnn" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Amanpour</title>
 		<desc lang="pl">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="comedy-central-family" start="20200213230000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Ucho Prezesa 2 (odc. 13)</title>
-		<desc lang="pl">Centrum dowodzenia krajem mieści się w gabinecie tytułowego &quot;Ucha&quot;, czyli prezesa partii rządzącej, a nie w Kancelarii Prezesa Rady Ministrów. Główny bohater przyjmuje polityków obozu rządowego, by wysłuchać sprawozdań z podejmowanych działań oraz wydać im stosowne polecenia.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="comedy-central-family" start="20200213232000 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Ucho Prezesa 2 (odc. 14)</title>
-		<desc lang="pl">Centrum dowodzenia krajem mieści się w gabinecie tytułowego &quot;Ucha&quot;, czyli prezesa partii rządzącej, a nie w Kancelarii Prezesa Rady Ministrów. Główny bohater przyjmuje polityków obozu rządowego, by wysłuchać sprawozdań z podejmowanych działań oraz wydać im stosowne polecenia.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="comedy-central-family" start="20200213234500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Ucho Prezesa 3 (odc. 1)</title>
-		<desc lang="pl">Po zmianach personalnych w rządzie nadszedł czas wyrównywania za nie rachunków. Gdy Antoni szuka sprawiedliwości, Prezes z Mariuszem szukają dla niego zajęcia, żeby z walecznego sprzymierzeńca nie stał się wrogiem. Bo prawdziwy wróg czyha tuż za rogiem. A właściwie w Brukseli.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="comedy-central-family" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -3049,16 +2779,6 @@
 		<desc lang="pl">Państwo Kwiatkowscy wraz z dwójką swoich dzieci - Majką i Filipem, postanawiają zaadoptować chłopca o imieniu Romek. Przez przypadek do tytułowej rodziny zastępczej trafiają jeszcze dwie dziewczynki - Zosia i Eliza. Wiernym towarzyszem wesołej familii jest Śliniak, pies rasy Dogue de Bordeaux.W szalonym domu Kwiatkowskich co chwilę pojawia się ktoś inny - ciocia Ula, zaprzyjaźniony policjant, kuzynka Jadzia oraz sąsiedzi - Alutka i Jędrula Kossoń.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="comedy-central-hd" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Teoria wielkiego podrywu (odc. 1)</title>
-		<desc lang="pl">&quot;Teoria wielkiego podrywu&quot; to serial, którego bohaterami są dwaj geniusze o nieco dziwnych poglądach. Leonard i Sheldon potrafią rozszczepić atom, jednak nie wiedzą, jak postępować z kobietami i nie mają pojęcia o życiowych realiach. Kiedy pewnego dnia w ich mieszkaniu zjawia się piękna dziewczyna, postanawiają porzucić dotychczasowy styl życia i poszerzyć horyzonty. Serial jest kwintesencją teorii... sukcesu w praktyce.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="comedy-central-hd" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Teoria wielkiego podrywu (odc. 2)</title>
-		<desc lang="pl">&quot;Teoria wielkiego podrywu&quot; to serial, którego bohaterami są dwaj geniusze o nieco dziwnych poglądach. Leonard i Sheldon potrafią rozszczepić atom, jednak nie wiedzą, jak postępować z kobietami i nie mają pojęcia o życiowych realiach. Kiedy pewnego dnia w ich mieszkaniu zjawia się piękna dziewczyna, postanawiają porzucić dotychczasowy styl życia i poszerzyć horyzonty. Serial jest kwintesencją teorii... sukcesu w praktyce.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="comedy-central-hd" start="20200214000000 +0000" stop="20200214003000 +0000">
 		<title lang="pl">Teoria wielkiego podrywu (odc. 3)</title>
 		<desc lang="pl">&quot;Teoria wielkiego podrywu&quot; to serial, którego bohaterami są dwaj geniusze o nieco dziwnych poglądach. Leonard i Sheldon potrafią rozszczepić atom, jednak nie wiedzą, jak postępować z kobietami i nie mają pojęcia o życiowych realiach. Kiedy pewnego dnia w ich mieszkaniu zjawia się piękna dziewczyna, postanawiają porzucić dotychczasowy styl życia i poszerzyć horyzonty. Serial jest kwintesencją teorii... sukcesu w praktyce.</desc>
@@ -3119,21 +2839,6 @@
 		<desc lang="pl">&quot;Daleko od noszy&quot; to polski sitcom, który w zabawny sposób przedstawia życie pracowników oddziału chirurgicznego na czwartym piętrze Szpitala Miejskiego w Warszawie. W placówce, gdzie pod okiem ordynatora Łubicza, pracują doktorzy Basen i Kidler nie dzieje się najlepiej, za to jest bardzo śmiesznie. To jedyne takie miejsce gdzie przed drzwiami sali operacyjnej widnieje lampa z napisem &quot;nie zaglądać, jak nam idzie&quot;.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="da-vinci-learning" start="20200213220000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Historia kobiet: Rewolucja</title>
-		<desc lang="pl">Amanda przygląda się roli kobiet w rewolucjach, które przekształciły współczesny świat. Od przewrotów politycznych po walkę o prawa reprodukcyjne. Od rewolucjonistek we Francji, przez zwolenniczki rewolucji bolszewickiej, po amerykańskie i afrykańskie aktywistki.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="da-vinci-learning" start="20200213231500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">A to wiesz?: Jak pokonać nerwicę natręctw, fobie i zaburzenia odżywiania</title>
-		<desc lang="pl">Nerwica natręctw, fobie i zaburzenia odżywiania mogą być stanem przejściowym lub bardzo mocno odcisnąć się na ludzkim życiu. Kiedy stają się problemem i jak je leczyć?</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="da-vinci-learning" start="20200213234500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">A to wiesz? Ciekawostki: Szpiedzy są wśród nas</title>
-		<desc lang="pl">Exploring the world through science, Did You Know separates facts from fiction. Presenting the latest in technology and research, it goes behind the scenes to reveal the secrets of life around us.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="da-vinci-learning" start="20200214000000 +0000" stop="20200214002500 +0000">
 		<title lang="pl">Projekt eksploracja: bajeczna planeta: Farmerzy</title>
 		<desc lang="pl">Philippe bada różne sposoby uprawy i hodowli. Odwiedza fermę ostryg i farmę hydroponiczną. Poznaje też kulisy programu szkoleniowego dla rolników, dzięki któremu mogą zacząć działalność.</desc>
@@ -3179,11 +2884,6 @@
 		<desc lang="pl">Philippe dowiaduje się więcej o migracji łososi oraz o technologii, pozwalającej błyskawicznie zastępować stare mosty nowymi. Odwiedza też jednostkę ochrony przed huraganami i i odkrywa tajemnice języka Majów.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="disco-polo-music" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">W rytmie Disco Polo</title>
-		<desc lang="pl">Program muzyczny prezentuje utwory Disco Polo, idealne tło do zabawy i relaksu.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="disco-polo-music" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Music by Night</title>
 		<desc lang="pl">Emitowany nocą program muzyczny prezentujący przeboje muzyki tanecznej.</desc>
@@ -3224,11 +2924,6 @@
 		<desc lang="pl">Serial opowiadający o perypetiach młodych ludzi, którzy spotykają się i pracuję w jednej z największych dyskotek w Warszawie. W produkcji nie zabraknie występów artystów związanych z muzyką taneczną.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="discovery-channel-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Ekstremalna Alaska: Nowa stodoła</title>
-		<desc lang="pl">Po raz pierwszy od poszerzenia drogi Eivin próbuje przewieźć na teren gospodarstwa dużą stodołę. Kilcherów odwiedzają Jewel i jej syn. August stawia nietypową przybudówkę. [9-AT]</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="discovery-channel-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Fani czterech kółek 10 (odc. 3)</title>
 		<desc lang="pl">Za okazyjną sumę 5000 funtów Mike'owi udaje się kupić zdezelowanego range rovera Mk3. Ma zamiar go przemalować, oddać w ręce Edda, a potem sprzedać z podwójnym zyskiem. [AL]</desc>
@@ -3264,11 +2959,6 @@
 		<desc lang="pl">Co dzieje się z przestępcami, po schwytaniu przez policję? W programie zobaczymy postępowanie po ujęciu sprawcy, od spisywania danych po pierwsze chwile aresztanta za kratami. [9-AT]</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="discovery-historia" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Wojna na żywo: Zagłada talibów</title>
-		<desc lang="pl">We wrześniu 2006 r. amerykańskie &quot;zielone berety&quot; stanęły do walki z talibami. Zginęło prawie 1000 muzułmańskich rebeliantów. To najbardziej zaciekła bitwa wojny z terroryzmem. [12-GA]</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="discovery-historia" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Wojna w Zatoce Perskiej: Żołnierskie opowi...</title>
 		<desc lang="pl">(Gulf War: A Soldier's Tale:</desc>
@@ -3302,11 +2992,6 @@
 	<programme channel="discovery-historia" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Wyprawa po skarb 2 (odc. 2)</title>
 		<desc lang="pl">Grupa poszukiwaczy skarbów wyrusza na wielką wyprawę, aby odnaleźć ukryte złoto Inków. Przed nimi wiele niebezpieczeństw. Czy poradzą sobie ze skomplikowanymi zagadkami? [AL-T]</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="discovery-life" start="20200213225000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Sekrety lekarzy 3 (odc. 3)</title>
-		<desc lang="pl">Nietypowe schorzenia i ciężkie choroby to specjalność lekarzy pracujących dla TVN Style. Podejmują walkę o zdrowie każdego pacjenta i dają mu nadzieję na lepsze życie. Jak wskazują statystyki - ponad połowa dzieci w Polsce ulega wypadkom. I choć niektóre ze zdarzeń na pierwszy rzut oka wydają się nie być groźne, w miarę wzrostu dziecka, coraz bardziej uwidaczniają się ich przykre skutki.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="discovery-life" start="20200213235000 +0000" stop="20200214005000 +0000">
@@ -3349,11 +3034,6 @@
 		<desc lang="pl">Emocjonujący serial dokumentalny ukazujący życie trzech rodzin. W każdej z nich poznamy jasne i ciemne strony nieplanowanych ciąż nastolatek. Relacje rodzinne są tym bardziej skomplikowane, że każda z tych młodych mam także była kiedyś córką niepełnoletniej. Przyjrzymy się problemom ciąż nastolatek zarówno od strony społecznej, jak i medycznej. Będziemy świadkami negocjacji, jakie przyszłe matki prowadzą ze swoimi rodzicami i partnerami. Prześledzimy cały okres ciąży - aż do narodzin dzieci.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="discovery-science" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Jak działają maszyny? (odc. 5)</title>
-		<desc lang="pl">Od parkometrów po myjnie samochodowe, hydranty przeciwpożarowe i schody ruchome, ten program ukazuje w najdrobniejszych szczegółach sposoby działania pozornie zwyczajnych urządzeń. [AL]</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="discovery-science" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Jak działają maszyny? (odc. 6)</title>
 		<desc lang="pl">Odkryj sekrety przedmiotów, z których korzystamy na co dzień. W tym odcinku przyjrzymy się wciągarkom samochodowym, butom trekkingowym, ekspresom do kawy i fortepianom. [AL]</desc>
@@ -3387,11 +3067,6 @@
 	<programme channel="discovery-science" start="20200214053000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Jak to jest zrobione? 16 (odc. 6)</title>
 		<desc lang="pl">Wnikliwa analiza przedmiotów, które otaczają nas w codziennym życiu. Przyjrzymy się, jak powstają instrumenty chirurgiczne, keczup i autobusy piętrowe. [AL]</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="discovery-turbo-xtra-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Wyścig pełen ryzyka: Pierścień ognia</title>
-		<desc lang="pl">Na stadionie Bowman Gray w Winston-Salem rozpoczyna się nowy sezon. Kierowcy przygotowują się do pierwszego wyścigu. Były mistrz Tim Brown chce odzyskać tytuł. [AL-T]</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="discovery-turbo-xtra-hd" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -3432,16 +3107,6 @@
 	<programme channel="discovery-turbo-xtra-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Mieszkanie na pniu (odc. 5)</title>
 		<desc lang="pl">Para z Teksasu zleca Nelsonowi wybudowanie największego jak dotąd domu na drzewie. Pete projektuje dom w stylu ranczo, osadzony na starych wiązowcach, rosnących na ich posiadłości. [AL]</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-channel" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Alex i spółka 3 (odc. 8)</title>
-		<desc lang="pl">Alex, Nicole, Christian, Sam i Emma to piątka nierozłącznych przyjaciół z liceum, którzy razem przeżywają emocje pełne miłości, lęku i mają wspólne marzenia. Łączy ich wielka przyjaźń i ich nowo odkryta muzyczna pasja, która ujawni ich prawdziwy talent. Oczywiście czekają ich trudne chwile, rozczarowania i przeszkody, ale jeśli Alex i przyjaciele będą trzymać się razem, to poradzą sobie z każdymi</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-channel" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Kroniki Evermoor (odc. 22)</title>
-		<desc lang="pl">Amerykańska nastolatka przeprowadza się wraz z rodziną do chatki w angielskim miasteczku. Pojawienie się magicznych gobelinów i zaczarowanej maszyny do pisania to ledwie początek wielkiej przygody w Evermoor.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="disney-channel" start="20200214000000 +0000" stop="20200214001000 +0000">
@@ -3532,21 +3197,6 @@
 	<programme channel="disney-channel" start="20200214053500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Falsyfikot (odc. 13)</title>
 		<desc lang="pl">Historia nietypowych przyjaciół - domowego kota oraz kosmity, Garka, który przybył na Ziemię i przywdział kostium mruczącego czworonoga. Max, 12-letni żółty kot, z powodu Garka często wplątuje się w niebezpieczne sytuacje. Max jest leniwy i ceni spokój. Gark lubi być tam, gdzie coś się dzieje. Na dodatek kosmita mylnie sądzi, że jego przyjaciel jest tygrysem - jednym z najodważniejszych zwierząt </desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-junior" start="20200213230000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Jej Wysokość Zosia 2 (odc. 9)</title>
-		<desc lang="pl">Poznajcie księżniczkę Sofię, najnowszą bohaterke oczarowującej bajki Disney'a. Jest to opowieść o zwyczajnej dziewczynce, ktorej życie nagle sie zmienia kiedy jej matka poślubia krόla, a ona zostaje księżniczką.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-junior" start="20200213232500 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Music Lullabies (odc. 5)</title>
-		<desc lang="pl">program dla dzieci</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-junior" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Gigantozaur (odc. 12)</title>
-		<desc lang="pl">Cztery młode dinozaury zamieszkują prehistoryczną krainę, gdzie przeżywają niesamowite przygody.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="disney-junior" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -3649,16 +3299,6 @@
 		<desc lang="pl">Serial animowany zainspirowany odcinkiem &quot;Klubu przyjaciół Myszki Miki&quot; pod tytułem: &quot;Butik Minnie&quot;. Minnie jest tu ikoną mody, która wciela się w szereg ról, między innymi hostessy, organizatorki przyjęć, konsultantki mody i przewodniczki wycieczek.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="disney-xd" start="20200213230000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Duch i nas dwóch (odc. 17)</title>
-		<desc lang="pl">Serial komediowy o przygodach chłopca imieniem Spencer, ktόry przyzwyczaja się do życia po przeprowadzce do Hollywood ze swoim nowym przyjacielem a zarazem opiekunem- duchem eksentrycznego rock'owego gitarysty.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="disney-xd" start="20200213232500 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Duch i nas dwóch (odc. 18)</title>
-		<desc lang="pl">Serial komediowy o przygodach chłopca imieniem Spencer, ktόry przyzwyczaja się do życia po przeprowadzce do Hollywood ze swoim nowym przyjacielem a zarazem opiekunem- duchem eksentrycznego rock'owego gitarysty.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="disney-xd" start="20200213235000 +0000" stop="20200214001500 +0000">
 		<title lang="pl">Furiki (odc. 9)</title>
 		<desc lang="pl">André marzy o tym, by zostać mistrzem kierownicy. By tego dokonać, podejmuje wszelkie wyzwania - od najdzikszych wyścigów, przez niebezpieczne wyczyny kaskaderskie, aż po testy z parkowania równoległego.</desc>
@@ -3734,11 +3374,6 @@
 		<desc lang="pl">André marzy o tym, by zostać mistrzem kierownicy. By tego dokonać, podejmuje wszelkie wyzwania - od najdzikszych wyścigów, przez niebezpieczne wyczyny kaskaderskie, aż po testy z parkowania równoległego.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="domo-hd" start="20200213230000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Gardeners' World 8 (odc. 18)</title>
-		<desc lang="pl">Ta produkowana od ponad 50 lat seria w pełni zasługuje na miano kultowej. To skarbnica wiedzy o urządzaniu i pielęgnacji ogrodów. Od czego zacząć prace? Jakie rośliny należy sadzić wiosną? Jak obchodzić się z delikatnymi cebulkami kwiatów? Tajniki ekspertów pomogą rozwiać wszelkie wątpliwości. Monty, Carol i Joe, czyli nieustraszona ekipa ogrodników oferuje porady i inspirujące pomysły w zakresie ogrodnictwa i projektów ogrodniczych.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="domo-hd" start="20200213234000 +0000" stop="20200214001000 +0000">
 		<title lang="pl">Pogotowie remontowe Wieśka (odc. 9)</title>
 		<desc lang="pl">Brak wiedzy w tematach remontowo-budowlanych, naiwność i zbyt duże zaufanie powodują, że ludzie często stają się ofiarami nierzetelnych firm remontowych. Najnowsza seria poradnikowa Domo+ postara się temu zaradzić. Każdy z nas zna tę historię. Najpierw są marzenia o funkcjonalnej kuchni czy zmianie kafelków po babci. Potem pojawiają się &quot;złote rączki&quot; i pseudofachowcy z ogłoszenia. Na koniec zostają zszargane nerwy i pusty po portfel, a wyremontowanej przestrzeni jak nie było tak nie ma.</desc>
@@ -3799,26 +3434,6 @@
 		<desc lang="pl">Ciągły pośpiech, korki, hałas, korporacyjny pęd. Coraz więcej zarabiamy, coraz więcej wydajemy. Musimy coraz więcej pracować. Brak czasu na książkę. Brak czasu na spacer. Brak czasu nawet na chorobę! Brak chwili na zatrzymanie się i spotkanie z samym sobą. Dziś luksusem jest cisza i spokój. A to można znaleźć z dala od miasta lub w nowej autorskiej produkcji Domo+ &quot;Daleko od miasta&quot;. Zapomnieć o hałasie, wielkomiejskim pędzie, wysokich cenach, ciasnocie mieszkań, korkach.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="dorcel-tv" start="20200213230000 +0000" stop="20200213231900 +0000">
-		<title lang="pl">Sexy_Story_91_Ava_Courcelles</title>
-		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="dorcel-tv" start="20200213231900 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Spot Dorcel Club</title>
-		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="dorcel-tv" start="20200213232000 +0000" stop="20200213233100 +0000">
-		<title lang="pl">Claire_Castel</title>
-		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="dorcel-tv" start="20200213233100 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Sexy Tour 14</title>
-		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="dorcel-tv" start="20200214000000 +0000" stop="20200214014800 +0000">
 		<title lang="pl">Secrets De Femmes</title>
 		<desc lang="pl">eroticism</desc>
@@ -3847,16 +3462,6 @@
 	<programme channel="dorcel-tv" start="20200214045900 +0000" stop="20200214071100 +0000">
 		<title lang="pl">Secrets &amp; Seductions</title>
 		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="e-entertainment" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Nightly Pop</title>
-		<desc lang="pl">Nightly Pop to zakręcony przegląd najciekawszych wydarzeń tygodnia ze świata popkultury. Bezkonkurencyjny, bezkompromisowy, bez retuszu.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="e-entertainment" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Nightly Pop</title>
-		<desc lang="pl">Nightly Pop to zakręcony przegląd najciekawszych wydarzeń tygodnia ze świata popkultury. Bezkonkurencyjny, bezkompromisowy, bez retuszu.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="e-entertainment" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -3894,11 +3499,6 @@
 		<desc lang="pl">Kim i Kourtney udaje się w końcu zobaczyć jak wygląda życie Khloe w Cleveland. Tymczasem ostatni projekt Kendall spotyka się z surową krytyką. piątek</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="eleven-extra-hd" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">2. Bundesliga: VfB Stuttgart - FC Erzgebirge Aue</title>
-		<desc lang="pl">Niepokonana od pięciu meczów drużyna ze Stuttgartu w meczu z Erzgebirge Aue chce wywalczyć komplet punktów i umocnić się w ścisłej ligowe czołówce. Zawodnikiem gospodarzy jest Marcin Kamiński, który wraca do pełnej sprawności bo przerwie spowodowanej ciężką kontuzją.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="eleven-extra-hd" start="20200214000000 +0000" stop="20200214020000 +0000">
 		<title lang="pl">Serie A TIM: SPAL - US Sassuolo Calcio</title>
 		<desc lang="pl">Sassuolo w poprzedniej kolejce sensacyjnie pokonało Romę, a bohaterami drużyny byli Francesco Caputo i Filip Đuričić. Kibice tego zespołu liczą, że ich piłkarze zdobędą trzy punkty również z spotkaniu ze SPAL-em w którym występują Arkadiusz Reca i Thiago Cionek.</desc>
@@ -3917,11 +3517,6 @@
 	<programme channel="eleven-extra-hd" start="20200214050000 +0000" stop="20200214070000 +0000">
 		<title lang="pl">Serie A TIM: AS Roma - Bologna FC</title>
 		<desc lang="pl">Po sensacyjnej porażce z Sassuolo Roma potrzebuje kompletu punktów w meczu z Bologną. Bramkarz gości Łukasz Skorupski stawi czoła Edinowi Džeko, jednemu z najlepszych napastników Serie A TIM.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="eleven-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">LaLiga Top Goals</title>
-		<desc lang="pl">W programie najpiękniejsze bramki roku 2019 w hiszpańskiej ekstraklasie.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="eleven-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -3954,11 +3549,6 @@
 		<desc lang="pl">Bristol City przystąpi do meczu z Birmingham po czterech zwycięstwach z rzędu. Jeśli pokona rywala, może awansować nawet na podium Sky Bet Championship.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="eleven-sports-4-hd" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Serie A TIM: SPAL - US Sassuolo Calcio</title>
-		<desc lang="pl">Sassuolo w poprzedniej kolejce sensacyjnie pokonało Romę, a bohaterami drużyny byli Francesco Caputo i Filip Đuričić. Kibice tego zespołu liczą, że ich piłkarze zdobędą trzy punkty również z spotkaniu ze SPAL-em w którym występują Arkadiusz Reca i Thiago Cionek.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="eleven-sports-4-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">LaLiga Santander</title>
 		<desc lang="pl">Magazyn, w którym prezentowane są najważniejsze wydarzenia ostatniej kolejki LaLiga Santander.</desc>
@@ -3977,11 +3567,6 @@
 	<programme channel="eleven-sports-4-hd" start="20200214050000 +0000" stop="20200214070000 +0000">
 		<title lang="pl">Bundesliga: Hertha BSC - 1. FSV Mainz 05</title>
 		<desc lang="pl">Krzysztof Piątek zaliczył przed tygodniem krótki debiut w barwach Herthy w starciu z FC Schalke 04. Teraz czeka na pierwszy ligowy występ od pierwszej minuty i premierowe trafienie na boiskach Bundesligi. Jest na to spora szansa, bo Mainz w tym sezonie straciło już 47 bramek, co jest najsłabszym wynikiem wśród drużyn ligi niemieckiej.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="eleven-sports-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Bundesliga: Borussia Mönchengladbach - 1. FC Köln</title>
-		<desc lang="pl">Kilka punktów straty w ostatnich kolejkach i Borussia z pierwszego miejsca szybko spadła na czwarte. W meczu z Kolonią będzie mogła poprawić humory kibicom, co wcale nie musi przyjść łatwo. Kozły, choć zajmują dopiero czternastą pozycję w tabeli, wygrały aż pięć z sześciu ostatnich meczów.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="eleven-sports-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -4014,11 +3599,6 @@
 		<desc lang="pl">Autorzy przedstawiają skróty meczów kolejki najwyższej klasy rozgrywkowej ligi włoskiej oraz bramki.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="eska-tv" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Twoja ImprESKA</title>
-		<desc lang="pl">Program muzyczny prezentujący najlepsze hity na imprezę taneczną. Pojawiają się w nim przeboje wykonawców polskich i zagranicznych.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="eska-tv" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Hity zawsze na czasie</title>
 		<desc lang="pl">W programie zostaną przedstawione klipy, które zawsze będą modne, także ciekawostki na ich temat.</desc>
@@ -4027,11 +3607,6 @@
 	<programme channel="eska-tv" start="20200214010000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Polska lista</title>
 		<desc lang="pl">Najlepsze polskie klipy. Te kultowe i te najnowsze.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="eurosport-hd" start="20200213194500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Welsh Open: 4. dzień</title>
-		<desc lang="pl">Welsh Open to ostatni z czterech rozgrywanych w tym sezonie brytyjskich turniejów snookerowych, które należą do Home Nations Series. Wyniki zaliczają się do rankingu światowego. W imprezie weźmie udział stu dwudziestu ośmiu zawodników, wśród których będą między innymi Anglicy Ronnie O'Sullivan i Mark Selby oraz Szkot John Higgins, Walijczyk Mark Williams i Australijczyk Neil Robertson. Ten ostatn</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="eurosport-hd" start="20200214000000 +0000" stop="20200214000500 +0000">
@@ -4074,11 +3649,6 @@
 		<desc lang="pl">Autorzy opowiadają o historii i teraźniejszości letnich i zimowych igrzysk olimpijskich.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="eurosport2-hd" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Igrzyska olimpijskie: Na przekór wszystkiemu</title>
-		<desc lang="pl">Autorzy opowiadają o historii i teraźniejszości letnich i zimowych igrzysk olimpijskich.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="eurosport2-hd" start="20200213233000 +0000" stop="20200214003000 +0000">
 		<title lang="pl">Igrzyska olimpijskie: Shredding Monsters</title>
 		<desc lang="pl">Autorzy opowiadają o historii i teraźniejszości letnich i zimowych igrzysk olimpijskich.</desc>
@@ -4112,11 +3682,6 @@
 	<programme channel="eurosport2-hd" start="20200214050000 +0000" stop="20200214070000 +0000">
 		<title lang="pl">Welsh Open: 4. dzień</title>
 		<desc lang="pl">snooker</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="extreme-sports" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Action Sports World 3 (odc. 26)</title>
-		<desc lang="pl">Action Sports World przedstawia najbardziej emocjonujące lokalizacje, przygody i wydarzenia takie jak freeskiing, kolarstwo górskie, wspinaczkę oraz różne inne ekscytujące dyscypliny.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="extreme-sports" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -4162,16 +3727,6 @@
 	<programme channel="extreme-sports" start="20200214053000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Sports Adventure 4 (odc. 4)</title>
 		<desc lang="pl">W tym pełnym akcji programie pojawiają się najdziksze, najbardziej egzotyczne i spektakularne miejsca na świecie. Jego twórcy towarzyszą śmiałkom, uwieczniając ich wyczyny - w najtrudniejszych warunkach.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="fightbox" start="20200213224500 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Fighting Rookies</title>
-		<desc lang="pl">Fighting Rookies is a competition with a unique chance for a kickboxer to clim the ladder of success in his sport. The Rookies compete for a chance to become professionals and get the experience needed to succeed at the highest level. Each fighter gives his best to turn his dream into reality. What they do today builds their future and echoes into eternity!</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="fightbox" start="20200213233000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">ALL Japan Pro Wrestling - AJPW</title>
-		<desc lang="pl">All Japan Pro Wrestling (AJPW) is a Japanese professional wrestling promotion established in 1972. Known for their hard strikes, stiff submissions and mixed martial arts influence, All Japan Pro Wrestlers are as tough as they come. Legends of the ring and new up and comers battle it out for one thing, the NWA International Heavyweight Championship, NWA United National Championship, PWF World Heav</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="fightbox" start="20200213235000 +0000" stop="20200214000500 +0000">
@@ -4247,11 +3802,6 @@
 	<programme channel="fightklub-hd" start="20200214052500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">ONE Warrior Series (odc. 2)</title>
 		<desc lang="pl">sporty walki</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="filmbox" start="20200213210000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Szybcy i martwi</title>
-		<desc lang="pl">Tajemnicza kobieta przybywa do małego miasteczka na Dzikim Zachodzie, aby wziąć udział w organizowanym tam turnieju rewolwerowców. Nikt nie podejrzewa, że kieruje nią coś więcej, niż tylko chęć wygranej...</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="filmbox" start="20200213231500 +0000" stop="20200214014500 +0000">
@@ -4339,11 +3889,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="filmbox-extra" start="20200213210000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">13 godzin: Tajna misja w Benghazi</title>
-		<desc lang="pl">Libia, rok 2012. Podczas trwającej wojny domowej, zostaje zaatakowany konsulat USA. Jego członkowie rozpoczynają walkę o przetrwanie, ale i o zachowanie wyższych wartości - w świecie chaosu, bezprawia i niebezpieczeństw.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="filmbox-extra" start="20200213232000 +0000" stop="20200214005500 +0000">
 		<title lang="pl">Uwięziona</title>
 		<desc lang="pl">Samotna matka zmagająca się z uzależnieniem od narkotyków zostaje wzięta jako zakładniczka w swoim własnym mieszkaniu przez mężczyznę, który uciekł z więzienia i zamordował sędziego prowadzącego jego sprawę.</desc>
@@ -4367,11 +3912,6 @@
 	<programme channel="filmbox-extra" start="20200214045500 +0000" stop="20200214062500 +0000">
 		<title lang="pl">Przyjaciele na śmierć i życie</title>
 		<desc lang="pl">Nastoletni Petter zostaje odcięty od swoich przyjaciół, gdy wraz z rodzicami przeprowadza się na oddaloną od dotychczasowego życia wieś. Jest lato, a chłopak czuje się okropnie, twierdząc, że od tej pory już nic nie będzie takie samo. Szybko jednak nastolatek dowiaduje się, że życie na wsi wcale nie musi być nudne. Petter bierze pod swoją opiekę psa, który cierpiał męki przy swoim poprzednim właścicielu. Chłopak zaprzyjaźnia się również z dziewczyną o imieniu Nila.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="filmbox-family" start="20200213222500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Powrót Tomka Oszukańca</title>
-		<desc lang="pl">Familijny film fantasy, będący sequelem pierwszej części z roku 1988 pod tytułem &quot;Tomek oszukaniec i znaczkowy podróżnik&quot;. Tommy Tricker (Michael Stevens) i jego przyjaciel Ralph (Andrew Bauer-Gador) posiadają niezwykłą zdolność podróżowania w czasie i przestrzeni dzięki magicznemu wykorzystaniu znaczków pocztowych. Pewnego dnia odkrywają, że na znaczku przedstawiającym słynny żeglarski statek Bluenose uwięziony został tajemniczy chłopiec o imieniu Charles Merriweather.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="filmbox-family" start="20200214000000 +0000" stop="20200214045000 +0000">
@@ -4414,11 +3954,6 @@
 		<desc lang="pl">Rozdarty wojną wewnętrzną Rzym, staje się miastem, w którym panuje chaos i zniszczenie. Uwięzionemu przez rebeliantów, na wyspie Capri, cesarzowi udaje się uciec, dzięki pomocy swego nauczyciela Ambrosinusa (Sir Ben Kingsley) i legionisty Aureliusa (Colin Firth). Młody cesarz podejmuje się zadania odbudowania świetności dawnego imperium. Wyrusza więc z niewielką grupą żołnierzy do Bretanii, by odszukać ostatni rzymski legion i powrócić wraz z nim do Rzymu.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="fokus-tv" start="20200213224500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Handlarze historią (odc. 5)</title>
-		<desc lang="pl">Bruce Crompton to prawdziwy miłośnik historii i militariów. W jego zbiorach znajdują się m.in. zestawy radiowe czy czołgi z okresu II wojny światowej. W wynajdywaniu sprzętu pomagają mu najlepsi specjaliści z branży. Wśród nich są: Ian - ekspert od militariów, a także bliźniacy, Nick i Phil, którzy potrafią naprawić dosłownie wszystko. Bruce Crompton wraz z nimi podróżuje po całej Europie, polując na wojskowe trofea. Ekipa zrobi wszystko, aby zdobyć okazyjny egzemplarz i jeszcze na nim zarobić.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="fokus-tv" start="20200213234500 +0000" stop="20200214004000 +0000">
 		<title lang="pl">Tajne akta UFO 2 (odc. 9)</title>
 		<desc lang="pl">Druga seria programu powstałego w oparciu o imponujące archiwa, które kryją wyniki licznych śledztw dotyczących niezidentyfikowanych obiektów latających. Filmowcy prezentują dokumenty i dowody rzeczowe zgromadzone przez MUFON (Mutual UFO Network) - liczącą ponad cztery tysiące członków międzynarodową organizację non profit, która zajmuje się wyjaśnianiem doniesień o obserwacjach UFO. Funkcjonuje ona od 1969 roku i działa w 43 krajach na całym świecie.</desc>
@@ -4457,16 +3992,6 @@
 	<programme channel="fokus-tv" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Redakcja: dział śledczy 2 (odc. 10)</title>
 		<desc lang="pl">Wyłudzenia, morderstwa, oszustwa, niewyjaśnione zagadki kryminalne - to codzienność pracy dziennikarzy śledczych redakcji &quot;Expressu Codziennego&quot;. Balansując na krawędzi prawa i pod presją czasu, próbują dociec prawdy, aby przekazać ją potem opinii publicznej. Stanowisko naczelnej piastuje Alicja, a Marek, Adam i Basia są pracownikami działu śledczego. Kamery rejestrują ich życie zawodowe oraz osobiste.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="food-network-hd" start="20200213224500 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Sexy kuchnia Magdy Gessler 5 (odc. 8)</title>
-		<desc lang="pl">Jaki jest przepis na idealne danie? Zdaniem Magdy Gessler należy dorzucić do niego przede wszystkim szczyptę miłości! Ikona telewizji będzie rozpalać zmysły Polaków już po raz piąty! Jej potrawy, które po prostu zniewalają smakiem, są intrygującym połączeniem kolorów i kształtów. Jakie afrodyzjaki naprawdę działają? Co zrobić, aby zachwycić najbliższą osobę pyszną kolacją i zdobyć jej serce? Aromatyczne ceviche, czarny makaron z owocami morza czy lekka kubańska sałatka?</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="food-network-hd" start="20200213231500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Odkrycia Magdy Gessler 2 (odc. 2)</title>
-		<desc lang="pl">Magda Gessler króluje w kulinarnym świecie od lat, a jej programy biją rekordy oglądalności. Czy wiemy o niej już wszystko? Nic bardziej mylnego! Ambasadorka kanału Food Network potrafi zaskoczyć, o czym nieraz mogli przekonać się widzowie programu &quot;Odkrycia Magdy Gessler&quot;! W nowych odcinkach ponownie ruszymy w Polskę, odwiedzimy Piekary Śląski i Kraków, aby odwiedzić utalentowanych szefów kuchni oraz ich oryginalne restauracje. Jak wygląda ich praca? Czy ich popisowe dania zachwycą prowadzącą?</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="food-network-hd" start="20200213234500 +0000" stop="20200214001500 +0000">
@@ -4512,16 +4037,6 @@
 	<programme channel="food-network-hd" start="20200214051500 +0000" stop="20200214061500 +0000">
 		<title lang="pl">Pyszne 25 (odc. 6)</title>
 		<desc lang="pl">Kuchnia to jej żywioł. Anna Starmach uwielbia kombinować i eksperymentować. Gotowanie, mieszanie i smakowanie nigdy się jej nie znudzi. Pyszne i tanie danie w dwadzieścia pięć minut? Żaden problem! Anna Starmach na antenie TVN Style w wyśmienitym towarzystwie. Zielony szpinak, złota dynia, mięsisty bakłażan, soczysty kabaczek, słodziutkie figi, chrupiące orzechy i aromatyczne grzyby, to tylko kilku z jej pysznych towarzyszy.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="fox-comedy-hd" start="20200213220000 +0000" stop="20200213233500 +0000">
-		<title lang="pl">Ace Ventura: psi detektyw</title>
-		<desc lang="pl">Detektyw specjalizujący się w odnajdywaniu zaginionych zwierząt poszukuje ukradzionego delfina - maskotki drużyny futbolowej. W odcinku: Detektyw specjalizujący się w odnajdywaniu zaginionych zwierząt poszukuje ukradzionego delfina - maskotki drużyny futbolowej.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="fox-comedy-hd" start="20200213233500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Family Guy: Głowa rodziny 15 (odc. 2)</title>
-		<desc lang="pl">Wywrotowa komedia animowana w prześmiewczy i pokrętny sposób ukazująca codzienne, życiowe zmagania amerykańskiej rodziny z klasy średniej.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="fox-comedy-hd" start="20200214000000 +0000" stop="20200214002500 +0000">
@@ -4614,11 +4129,6 @@
 		<desc lang="pl">Kiedy członek gangu, do którego dawniej należał Cho, zostaje znaleziony martwy, Jane upiera się, żeby pomóc koledze w jego prywatnym, nieoficjalnym śledztwie.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="h2-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Życie po zagładzie ludzi (odc. 5)</title>
-		<desc lang="pl">Seria dokumentalna o świecie po nagłym zniknięciu ludzkości. Jaki los spotkałby zwierzęta i rośliny? Co stałoby się z miastami i konstrukcjami, które powstały w ciągu tysiącleci?</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="h2-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Starożytne odkrycia 3 (odc. 7)</title>
 		<desc lang="pl">Dowiemy się, jak w starożytnej medycynie stosowano pijawki, a potem sprawdzimy na ochotniku, ile krwi można utoczyć w ten sposób.</desc>
@@ -4647,11 +4157,6 @@
 	<programme channel="h2-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Starożytne odkrycia 3 (odc. 7)</title>
 		<desc lang="pl">Dowiemy się, jak w starożytnej medycynie stosowano pijawki, a potem sprawdzimy na ochotniku, ile krwi można utoczyć w ten sposób.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="hbo-comedy-hd" start="20200213230000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Babylon Berlin 2 (odc. 5)</title>
-		<desc lang="pl">W Berlinie końca lat dwudziestych mieszkańcy pogrążają się w długach, spekulacje finansowe nieuchronnie prowadzą do krachu, a prawicowa partia narodowa wykorzystuje coraz bardziej brutalne metody, aby wprowadzać swoich ludzi do policji i administracji państwowej. Jednak nawet w najtrudniejszej sytuacji jest nadzieja - pomimo morderstwa i rozpaczy Rath odnajduje miłość i doświadcza poczucia solidarności.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="hbo-comedy-hd" start="20200213235000 +0000" stop="20200214004500 +0000">
@@ -4712,11 +4217,6 @@
 	<programme channel="hbo2-hd" start="20200214035000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Władca Paryża</title>
 		<desc lang="pl">Czasy panowania Napoleona. François Vidocq (Vincent Cassel) uchodzi we w Francji za prawdziwą legendę. Mężczyzna 27 razy uciekł z najlepiej strzeżonych więzień w kraju. Po ostatniej spektakularnej ucieczce oszust ukrywa się pod przykrywką handlarza tkanin. W końcu przeszłość go jednak dopada. Mężczyzna zostaje oskarżony o przestępstwo, którego nie popełnił.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="hip-hop-tv" start="20200213200000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Rock nie wyrok</title>
-		<desc lang="pl">magazyn muzyczny</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="hip-hop-tv" start="20200214000000 +0000" stop="20200214060000 +0000">
@@ -4799,11 +4299,6 @@
 		<desc lang="pl">2 sexy lesbians decide to have one last fling before they get married, and both end up cheating with the same super-hot MILF!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="id-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Morderca w rodzinie: Śmiercionośna dynamika</title>
-		<desc lang="pl">Podczas śledztwa w sprawie brutalnego morderstwa policja uważnie przesłuchuje kilku skłóconych członków rodziny. Detektywi odkryją brutalną prawdę, której nikt się nie spodziewał. [9-AT]</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="id-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Połączeni zbrodnią: Znasz mój głos</title>
 		<desc lang="pl">W 2017 r. Linda Harden była przekonana, że jej mąż jest doskonałym partnerem. Kiedy mężczyzna został aresztowany za morderstwo, miłość kobiety została poddana ciężkiej próbie. [6-A]</desc>
@@ -4832,11 +4327,6 @@
 	<programme channel="id-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Śmierć na pustkowiu: Koniec ery</title>
 		<desc lang="pl">Lokalny przedsiębiorca zostaje znaleziony martwy w swoim sklepie w miasteczku w stanie Tennessee. Czy zabójcą był ktoś obcy czy może ktoś, kogo ofiara dobrze znała? [9-A]</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="itv" start="20200213210000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Ezo TV</title>
-		<desc lang="pl">Telesprzedaż</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="itv" start="20200214000000 +0000" stop="20200214020000 +0000">
@@ -4879,11 +4369,6 @@
 		<desc lang="pl">Dwaj bracia, Józek i Franek, zostają sami na gospodarstwie. Starszy - Józek, postanawia pracować na wsi, siedemnastoletni Franek chce zdać maturę i kontynuować naukę. Aby odciążyć brata, podejmuje pracę w jednej z łódzkich fabryk. Powoli aklimatyzuje się w nowym miejscu, przeżywa pierwszą miłość i coraz bardziej oddala się od rodzinnego domu. Film ze znakomitą rolą Krzysztofa Stroińskiego otrzymał nagrodę na festiwalu w Koszalinie.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="kino-polska-muzyka" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Kochamy lata 90!</title>
-		<desc lang="pl">Najlepsze polskie przeboje lat 90.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="kino-polska-muzyka" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Młoda Polska</title>
 		<desc lang="pl">Najlepsze polskie nowości w wykonaniu debiutantów oraz uznanych artystów. Świeżość, energia, oryginalność - oglądaj i trzymaj rękę na żywym pulsie muzycznych spraw!</desc>
@@ -4902,16 +4387,6 @@
 	<programme channel="kino-polska-muzyka" start="20200214040000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Śpiewaj z nami!</title>
 		<desc lang="pl">Zapraszamy do wspólnego śpiewania najpopularnieszych polskich hitów.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="kuchnia-hd" start="20200213223500 +0000" stop="20200213230500 +0000">
-		<title lang="pl">Kulinarne odkrycia Johna Torode - Azja (odc. 10)</title>
-		<desc lang="pl">John Torode już po raz kolejny wyrusza w podróż, aby znaleźć najlepsze azjatyckie dania. Tym razem przemierza kontynent wzdłuż i wszerz eksplorując kuchnie Hongkongu, Pekinu oraz Malediwów. W każdej z nowych lokalizacji John Torode dostaje porady i wskazówki dotyczące lokalnych przepisów, a dodatkowo poznaje fascynujące historie stojące za każdym z inspirujących kucharzy. Podczas swojej kulinarnej przygody John eksploruje Hongkong, Makau, Pekin, Bangkok, Malediwy i Bombaj.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="kuchnia-hd" start="20200213230500 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Sara w Stambule (odc. 2)</title>
-		<desc lang="pl">Sara La Fountain wyrusza w podróż do Stambułu, by odkryć jego kulinarne tajemnice. Przemierzając zakamarki miasta, poszukuje inspiracji do nowych dań. Chce także dowiedzieć się, jak jedzenie, kultura i historia Stambułu wpływają na jego mieszkańców.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="kuchnia-hd" start="20200213234000 +0000" stop="20200214001000 +0000">
@@ -4974,11 +4449,6 @@
 		<desc lang="pl">Bohaterami są osoby, które sądzą, że rodzina zgłosiła ich do programu ze względu na ich wybitne zdolności kulinarne. Uważają, że potrafią dobrze gotować, a ich popisowe danie doceniane jest przez domowników. Tymczasem okazuje się, że bliscy mają już dość serwowanych im dań, ale boją się powiedzieć o tym kucharzowi. W programie bohaterowie przygotowują potrawy, które zostaną ocenione przez Andrzej</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="lifetime-hd" start="20200213220000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Niebezpieczne związki</title>
-		<desc lang="pl">Kobieta tkwiąca w pozbawionym uczucia związku małżeńskim nawiązuje romans z młodym agentem ubezpieczeniowym. Wplątuje się w zabójczą intrygę.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="lifetime-hd" start="20200213235000 +0000" stop="20200214002000 +0000">
 		<title lang="pl">Medium z Jersey (odc. 5)</title>
 		<desc lang="pl">Przedstawiamy Tię - kiedyś zuchwałą policjantkę, dzisiaj medium. Wykorzystuje swoją wiedzę i doświadczenie z policji, by pomagać innym. Odpowiedzi na ich problemy szuka w kontaktach z zaświatami. W programie obserwujemy Tię przy pracy.</desc>
@@ -5022,11 +4492,6 @@
 	<programme channel="lifetime-hd" start="20200214053000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Medium z Jersey (odc. 4)</title>
 		<desc lang="pl">Przedstawiamy Tię - kiedyś zuchwałą policjantkę, dzisiaj medium. Wykorzystuje swoją wiedzę i doświadczenie z policji, by pomagać innym. Odpowiedzi na ich problemy szuka w kontaktach z zaświatami. W programie obserwujemy Tię przy pracy.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="mango-24" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Mango to wygoda kupowania w Twoim domu</title>
-		<desc lang="pl">Program ukazuje ofertę różnych produktów codziennego użytku. Wśród przedstawianych produktów są sprzęty gospodarstwa domowego, urządzenia sportowe, kosmetyki. Każdy z prezentowanych przedmiotów można zamówić wygodnie, bez wychodzenia z domu, dzięki czemu oszczędza się czas.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="mango-24" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -5274,11 +4739,6 @@
 		<desc lang="pl">&quot;Dzieciaki MiniMini&quot; to autorski projekt stacji skierowany do najmłodszych widzów i ich opiekunów. Głównymi bohaterami serii są Kacper i jego ojciec, Paweł, w którego wcielił się aktor i prezenter Daniel Wieleba. Program podzielony jest na trzy części. W pierwszej z nich ojciec i syn wspólnie przyrządzają łatwe, zabawne i zawsze zdrowe potrawy. W drugiej części programu bohaterów odwiedzają goście - rodzina lub koledzy Kacpra.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="mjuziktv" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Najpiękniejsze ballady</title>
-		<desc lang="pl">Program prezentuje wzruszające, pełne emocji i niezapomniane ballady.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="mjuziktv" start="20200214000000 +0000" stop="20200214030000 +0000">
 		<title lang="pl">Karaoke</title>
 		<desc lang="pl">Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.</desc>
@@ -5292,16 +4752,6 @@
 	<programme channel="mjuziktv" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Karaoke</title>
 		<desc lang="pl">Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="motowizja-tv" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Porsche Carrera Cup Germany 2019: Hockenheimring - podsumowanie wyścigów</title>
-		<desc lang="pl">Od rundy na Hockenheimringu rozpoczął się sezon 2019 w Porsche Carrera Cup Deutschland. Wśród zgłoszonych zawodników był między innymi Igor Waliłko.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="motowizja-tv" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Motojazda (odc. 270)</title>
-		<desc lang="pl">Land Rover Discovery Sport. Prawdziwa terenówka czy samochód rodzinny? Sprawdza Marek Wieruszewski.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="motowizja-tv" start="20200214000000 +0000" stop="20200214003500 +0000">
@@ -5349,11 +4799,6 @@
 		<desc lang="pl">Samochody elektryczne z roku na rok stają się coraz częstszym widokiem na polskich drogach. W programie &quot;Jeżdżę na prąd&quot; pojawią się wszystkie najważniejsze informacje dotyczące pojazdów z tego segmentu rynku, a także ciekawostki i testy.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="mtv-live-hd" start="20200213224500 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Isle Of MTV: Malta 2018 Highlights 2018 (odc. 101)</title>
-		<desc lang="pl">Highlights from Isle of MTV 2018 in Malta where Jason Derulo, Hailee Steinfeld, Sigala, Ella Eyre, Paloma Faith, Dimitri Vegas &amp; Like Mike all took to the stage!</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="mtv-live-hd" start="20200213233000 +0000" stop="20200214001500 +0000">
 		<title lang="pl">MTV Unplugged Liam Gallagher</title>
 		<desc lang="pl">Recorded live at the Hull City Hall, legendary frontman Liam Gallagher performs a one-off acoustic set of songs from his solo albums along with some Oasis classics, exclusively for MTV Unplugged.</desc>
@@ -5384,11 +4829,6 @@
 		<desc lang="pl">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="mtv-polska" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Ekipa z Florydy 3 (odc. 8)</title>
-		<desc lang="pl">Ośmioro młodych ludzi postanawia spędzić lato w Panama City Beach, by uniknąć życiowych zobowiązań, a za to znaleźć miłość, trochę dodatkowej gotówki i przyjaciół, którzy staną się rodziną z wyboru.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="mtv-polska" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Ekipa z Newcastle 20 (odc. 3)</title>
 		<desc lang="pl">Akcja brytyjskiej wersji serii, wzorowanej na popularnym programie &quot;Ekipa z New Jesey&quot; rozgrywa się w Newcastle. Podobnie jak w pierwowzorze, ósemka bohaterów, którzy nigdy wcześniej się nie spotkali, na sześć tygodni zamieszka razem, rozpoczynając tym samym nowy, ekscytujący rozdział w życiu. Wybuchowa mieszanka charakterów, osobowości i temperamentów uczestników to gwarancja, że widz nie będzie się nudzić.</desc>
@@ -5409,11 +4849,6 @@
 		<desc lang="pl">program muzyczny</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="mtv-rocks" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Smells Like 90s Anthems</title>
-		<desc lang="pl">Tune in as we rewind back to the 90s, and bring you some of the biggest anthems from one of the biggest decades in music!</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="mtv-rocks" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Coldplay Vs the MTV Rocks Playlist</title>
 		<desc lang="pl">We're putting the biggest anthems from Coldplay up against our carefully curated MTV Rocks Playlist! You're in for a treat...</desc>
@@ -5427,11 +4862,6 @@
 	<programme channel="mtv-rocks" start="20200214050000 +0000" stop="20200214070000 +0000">
 		<title lang="pl">Teleshopping</title>
 		<desc lang="pl">Teleshopping.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="muzotv" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Gorące hity</title>
-		<desc lang="pl">Autorzy programu zapraszają do wysłuchania najbardziej znanych przebojów i obejrzenia teledysków. Prezentowane są utwory z czołowych miejsc światowych list i rankingów, należące do różnych gatunków muzycznych - między innymi R'n'B, dancehall i dance. &quot;Gorące hity&quot; to także okazja do obejrzenia niebanalnych klipów i zabawy w rytm muzyki. Może stanowić doskonałe tło dla tanecznego spotkania z przyj</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="muzotv" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -5464,11 +4894,6 @@
 		<desc lang="pl">Program prezentujący polską muzykę rozrywkową - emitowany późną porą, w sam raz dla nocnych marków.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="nat-geo-people-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Przemek Saleta: najcięższe zadania (odc. 8)</title>
-		<desc lang="pl">Saleta zostanie pracownikiem największego w Polsce przedsiębiorstwa chemicznego. Zobaczy, jak na co dzień wygląda praca w zakładach w Puławach.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="nat-geo-people-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Narkotyki 6 (odc. 6)</title>
 		<desc lang="pl">&quot;Popularność tanecznej muzyki elektronicznej sprawiła, że spożycie molly wzrosło w zawrotnym tempie, a ceny poszybowały w górę. Molly jest nową, bardzo silnie uzależniającą wersją ecstasy. Zażywanie tej substancji może prowadzić nawet do zawału serca.&quot;</desc>
@@ -5497,11 +4922,6 @@
 	<programme channel="nat-geo-people-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Niezwykły dr Pol (odc. 4)</title>
 		<desc lang="pl">Potrafią się tulić i słodko mruczeć, ale też znienacka na kogoś skoczyć. Te kapryśne stworzenia zachwycają jednak swoim pięknem, a ich opiekunowie przywiązują się do nich bezgranicznie. Zarówno małe urocze kociaki, jak i ogromne puchate kocury potrzebują pomocy weterynarzy z kliniki doktora Pola. Oto odcinek specjalny poświęcony pełnym gracji kocim pacjentom.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nat-geo-wild-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Połowy na Alasce 2 (odc. 4)</title>
-		<desc lang="pl">Na płytkich wodach Taylor niszczy wał napędowy. Postanawia nie przerywać połowów, co kończy się poważną awarią kutra.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="nat-geo-wild-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -5534,11 +4954,6 @@
 		<desc lang="pl">Simon i Siouxsie otrzymują bardzo dziwne zlecenie konduktor pociągu zauważył węża wpełzającego na podwozie pociągu.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="national-geographic-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Wyprawa na dno 2 (odc. 9)</title>
-		<desc lang="pl">Dzięki wykorzystaniu nowoczesnej technologii można poznać fascynujące sekrety spoczywające na dnie oceanu. Kamera towarzyszy naukowcom, którzy za pomocą mapowania sonarowego badają zaginione cywilizacje, niezwykłe zjawiska geologiczne i historię naszej planety. Badacze zaglądają w uliczki zatopionych miast, eksplorują wraki, wyjaśniają przyczyny kataklizmów naturalnych, szukają skarbów i odkrywaj</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="national-geographic-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Katastrofa w przestworzach 20 (odc. 5)</title>
 		<desc lang="pl">Gdy rozbija się samolot, dowiaduje się o tym cały świat. Eksperci muszą wówczas ustalić, co doprowadziło do katastrofy. Oto kolejny sezon &quot;Katastrofy w przestworzach&quot;, ujawniający prawdę o najgłośniejszych wypadkach w oparciu o zeznania świadków, niezwykle realistyczne rekonstrukcje zdarzeń, wyśmienite animacje komputerowe oraz wywiady z śledczymi, którzy nie spoczną, dopóki nie ustalą przyczyn tragedii.</desc>
@@ -5567,21 +4982,6 @@
 	<programme channel="national-geographic-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Katastrofa w przestworzach 12 (odc. 13)</title>
 		<desc lang="pl">&quot;Revealing the dark truth that aviation safety improves one crash at a time, AIR CRASH INVESTIGATION continues to investigate legendary aviation disasters to find out what went wrong and why. Based on cockpit voice recorders, accident reports and eyewitness accounts, every episode also features interviews, state-of-the-art CGI and gripping reenactments.&quot;</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nick-jr" start="20200213224100 +0000" stop="20200213230900 +0000">
-		<title lang="pl">Bąbelkowy świat gupików 4 (odc. 11)</title>
-		<desc lang="pl">W każdym odcinku serialu tytułowe gupiki, czyli: Gill, Molly, Goby, Deema, Nonny oraz Oona zabiorą widzów w niesamowitą podróż, zachęcą do wzięcia udziału w jednej z interaktywnych gier, w których nie zabraknie tańca i muzyki. A wszystko to rozgrywa się w wielobarwnej podwodnej scenerii, wśród koralowców i morskich ogrodów.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nick-jr" start="20200213230900 +0000" stop="20200213233700 +0000">
-		<title lang="pl">Psi patrol 2 (odc. 18)</title>
-		<desc lang="pl">Psi patrol to seria dla przedszkolaków ukazująca perypetie sześciorga bohaterskich szczeniąt: Marshalla, Chase'a, Rocky'ego, Zumy, Rubble'a i Skye, które pod przywództwem dziesięcioletniego Rydera wyruszają na ratunek potrzebującym.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nick-jr" start="20200213233700 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Psi patrol 2 (odc. 20)</title>
-		<desc lang="pl">Psi patrol to seria dla przedszkolaków ukazująca perypetie sześciorga bohaterskich szczeniąt: Marshalla, Chase'a, Rocky'ego, Zumy, Rubble'a i Skye, które pod przywództwem dziesięcioletniego Rydera wyruszają na ratunek potrzebującym.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="nick-jr" start="20200214000000 +0000" stop="20200214002700 +0000">
@@ -5659,26 +5059,6 @@
 		<desc lang="pl">Kiedy jest praca do wykonania a stawka jest wysoka, dziesięcioletni Rafcio Śrubka, wraz ze swoją najlepszą koleżanką Różą, znajdują sposób na wyjście z każdej sytuacji, dzięki niesamowitym, mechanicznym i stworzonym przez siebie tworom!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="nickelodeon" start="20200213225500 +0000" stop="20200213231300 +0000">
-		<title lang="pl">Hotel 13 2 (odc. 20)</title>
-		<desc lang="pl">Serial opowiada o nastolatkach, którzy pracują w pełnym sekretów hotelu położonym tuż przy plaży.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon" start="20200213231300 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Hotel 13 2 (odc. 21)</title>
-		<desc lang="pl">Serial opowiada o nastolatkach, którzy pracują w pełnym sekretów hotelu położonym tuż przy plaży.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon" start="20200213232500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Hotel 13 2 (odc. 22)</title>
-		<desc lang="pl">Serial opowiada o nastolatkach, którzy pracują w pełnym sekretów hotelu położonym tuż przy plaży.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon" start="20200213234500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Hotel 13 2 (odc. 23)</title>
-		<desc lang="pl">Serial opowiada o nastolatkach, którzy pracują w pełnym sekretów hotelu położonym tuż przy plaży.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="nickelodeon" start="20200214000000 +0000" stop="20200214004400 +0000">
 		<title lang="pl">Rodzina zastępcza (odc. 61)</title>
 		<desc lang="pl">Państwo Kwiatkowscy wraz z dwójką swoich dzieci - Majką i Filipem, postanawiają zaadoptować chłopca o imieniu Romek. Przez przypadek do tytułowej rodziny zastępczej trafiają jeszcze dwie dziewczynki - Zosia i Eliza. Wiernym towarzyszem wesołej familii jest Śliniak, pies rasy Dogue de Bordeaux.W szalonym domu Kwiatkowskich co chwilę pojawia się ktoś inny - ciocia Ula, zaprzyjaźniony policjant, kuzynka Jadzia oraz sąsiedzi - Alutka i Jędrula Kossoń.</desc>
@@ -5722,21 +5102,6 @@
 	<programme channel="nickelodeon" start="20200214055100 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Psi patrol 2 (odc. 22)</title>
 		<desc lang="pl">PAW Patrol is a preschool series starring a pack of six heroic puppies: Chase, Marshall, Rocky, Zuma, Rubble, and Skye, who are led by a tech-savvy 10-year-old boy named Ryder. With a unique blend of problem-solving skills, cool vehicles and lots of cute doggy humor, the PAW Patrol works together on high-stakes rescue missions to protect the Adventure Bay community.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon-hd" start="20200213224500 +0000" stop="20200213231000 +0000">
-		<title lang="pl">Mysticons (odc. 4)</title>
-		<desc lang="pl">Piper nie chce być traktowana jak dziecko. Mystikonki znów musza ratować świat. Pojawia się Kymraw.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon-hd" start="20200213231000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Piekaczki (odc. 9)</title>
-		<desc lang="pl">Sylwo i Bodzio nabijają bardzo wysoki rachunek w restauracji &quot;u Pompki&quot;, ale nie mają czym zapłacić. Jedyne co im pozostaje to przyjąć posadę kelnerów. // Sprawy się komplikują, kiedy chłopaki zjadają bochenek chleba zamiany i zamieniają się ciałami.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nickelodeon-hd" start="20200213234000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Piekaczki (odc. 11)</title>
-		<desc lang="pl">Sylwo i Bodzio obsesyjnie chcą wygrać zabawkę grając na Operatorze Dźwigu, nowej maszynie zainstalowanej &quot;u Pompki&quot;. // Bodzio wychodzi od fryzjera bardzo niezadowolony ze swojej fryzury i wpada w szał. Sylwo musi go uspokoić zanim dopadnie go Rambamboo.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="nickelodeon-hd" start="20200214000000 +0000" stop="20200214002500 +0000">
@@ -5829,11 +5194,6 @@
 		<desc lang="pl">SpongeBob Kanciastoporty to zabawna gąbka, która nosi kanciaste portki i mieszka w domku z ananasa na dnie Oceanu, w miejscowości Bikini Dolne. Jego największą życiową ambicją jest bycie najlepszym kucharzem, specjalistą w smażeniu smakołyków. SpongeBob pracuje w podwodnej restauracji serwującej kraboburgery, dzięki czemu każdego dnia spełnia swe marzenie. Pełen optymizmu i inicjatywy, zawsze potrafi po mistrzowsku wpakować się w tarapaty, wciągając w nie przy okazji wszystkich wokół.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="nowa-tv" start="20200213230000 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Mój nawiedzony dom 3 (odc. 6)</title>
-		<desc lang="pl">Przeprowadzka często jest spełnieniem marzeń o własnym gniazdku, nowym etapie w życiu czy założeniu rodziny. Czasem jednak bywa początkiem prawdziwego koszmaru. Poznamy osoby, które przekonały się o tym na własnej skórze, stając się świadkami nadprzyrodzonych zjawisk i padając ofiarą złośliwych duchów. W każdym odcinku usłyszymy dwie mrożące w żyłach historie i zobaczymy sceny fabularyzowane, odtwarzające wydarzenia, które przytrafiły się bohaterom programu.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="nowa-tv" start="20200213235500 +0000" stop="20200214005000 +0000">
 		<title lang="pl">Starożytni kosmici 8 (odc. 7)</title>
 		<desc lang="pl">Ósma seria popularnego cyklu osnutego wokół kontrowersyjnych teorii paleoastronautyki. U źródeł tej paranauki, stworzonej i rozpropagowanej przez Ericha von Dänikena, leży założenie, że na historię i rozwój ludzkości miała wpływ cywilizacja pozaziemska. Zwolennicy tego poglądu doszukują się dowodów na jego prawdziwość w różnych okresach dziejów - od ery dinozaurów, przez czasy starożytnego Egiptu, po tajemnicze wydarzenia z XX i XXI wieku.</desc>
@@ -5884,16 +5244,6 @@
 		<desc lang="pl">Kuba Marcinowicz zaprezentuje najświeższe informacje ze świata nauki i techniki, wybuchowe eksperymenty i kulisy działania wielkich organizacji. W tym sezonie na internautów czekają konkursy na Facebooku i ciekawe nagrody. Cykl &quot;Sondy uliczne&quot; to kopalnia najdziwniejszych pytań i odpowiedzi. Kuba Marcinowicz zaprosi też do studia specjalistów z różnych dziedzin życia, aby dowiedzieć się np., jakie gadżety mogą ułatwić uprawianie sportu.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="nsport-hd" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Magazyn Ligi Mistrzów CEV</title>
-		<desc lang="pl">W programie podsumowanie ostatnich wydarzeń w rozgrywkach Ligi Mistrzów CEV. Nie zabraknie fragmentów meczów, rozmów z zawodnikami i trenerami oraz felietonów.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="nsport-hd" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Liga gra: Zapowiedź 22. kolejki</title>
-		<desc lang="pl">magazyn piłkarski</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="nsport-hd" start="20200214000000 +0000" stop="20200214001500 +0000">
 		<title lang="pl">Sport News+</title>
 		<desc lang="pl">W programie skrót najważniejszych wydarzeń ze świata sportu w Polsce i na świecie.</desc>
@@ -5917,11 +5267,6 @@
 	<programme channel="nsport-hd" start="20200214020000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="ntl-radomsko" start="20200213225000 +0000" stop="20200213232100 +0000">
-		<title lang="pl">W oceanie</title>
-		<desc lang="pl">Program &quot;W oceanie&quot;&quot; jest interesującym połączeniem podwodnego świata przyrody oraz nocnego życia w ciekawych miejscach na ziemi. Prowadzący program Aaron Fauuls pokaże widzom niesamowite zakamarki oceanu, a w wolnych chwilach zapozna ich z nocnym życiem i regionalnymi alkoholami w odwiedzonych przez niego zakątkach.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="ntl-radomsko" start="20200213232100 +0000" stop="20200214045500 +0000">
@@ -5964,11 +5309,6 @@
 		<desc lang="pl">John Travolta i Arye Gross jako dwóch wyluzowanych, ale pechowych, Nowojorczyków, którym wydaje się, że jadą do miasteczka w Nebrasce, żeby zarządzać tam klubem nocnym.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="planete-hd" start="20200213230000 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Papież. Najpotężniejsze narzędzie Kościoła (odc. 5)</title>
-		<desc lang="pl">Pewien światowy przywódca, którego wpływy obejmują armię, politykę i religię, wciąż pozostaje jedną z najbardziej tajemniczych postaci. W Archiwach Watykańskich piętrzą się dokumenty poświęcone każdemu kolejnemu papieżowi, a mimo to informacje dotyczące zwierzchnika Kościoła katolickiego są skrzętnie skrywane przed światem zewnętrznym. W bezprecedensowej produkcji wyjawione zostaną sekrety, które dopiero niedawno ujrzały światło dzienne.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="planete-hd" start="20200213235500 +0000" stop="20200214005000 +0000">
 		<title lang="pl">Papież. Najpotężniejsze narzędzie Kościoła (odc. 6)</title>
 		<desc lang="pl">Pewien światowy przywódca, którego wpływy obejmują armię, politykę i religię, wciąż pozostaje jedną z najbardziej tajemniczych postaci. W Archiwach Watykańskich piętrzą się dokumenty poświęcone każdemu kolejnemu papieżowi, a mimo to informacje dotyczące zwierzchnika Kościoła katolickiego są skrzętnie skrywane przed światem zewnętrznym. W bezprecedensowej produkcji wyjawione zostaną sekrety, które dopiero niedawno ujrzały światło dzienne.</desc>
@@ -5994,11 +5334,6 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polo-tv" start="20200213230000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Video Mix Sierockiego</title>
-		<desc lang="pl">W programie Marek Sierocki prezentuje najlepsze i niezapomniane hity disco sprzed lat oraz opowiada o ważnych wydarzeniach muzycznych i planach gwiazd.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polo-tv" start="20200213235000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Disco noc w Polo TV!</title>
 		<desc lang="pl">program muzyczny</desc>
@@ -6022,16 +5357,6 @@
 	<programme channel="polo-tv" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Disco noc w Polo TV!</title>
 		<desc lang="pl">program muzyczny</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polonia-1" start="20200213224000 +0000" stop="20200213230500 +0000">
-		<title lang="pl">Nieźle kliknięci</title>
-		<desc lang="pl">Polska</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polonia-1" start="20200213230500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Różowa noc</title>
-		<desc lang="pl">Programy erotyczne dla widzów dorosłych.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polonia-1" start="20200214000000 +0000" stop="20200214020000 +0000">
@@ -6062,16 +5387,6 @@
 	<programme channel="polonia-1" start="20200214043000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Różowa noc</title>
 		<desc lang="pl">Programy erotyczne dla widzów dorosłych.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-2" start="20200213225000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Świat według Kiepskich (odc. 274)</title>
-		<desc lang="pl">Ferdynand Kiepski dokonuje w domu szeregu wynalazków racjonalizacyjnych. Zyskuje tym miano zdolnego majsterkowicza - złotej rączki. Marian Paździoch w tym czasie dziedziczy spadek po jednym ze swoich przodków. Jest to tajemnicza maszyna, której zastosowania nikt nie zna. Ferdek podejmuje się rozwikłania tajemnicy zagadkowego aparatu.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-2" start="20200213232000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Świat według Kiepskich (odc. 275)</title>
-		<desc lang="pl">Marian Paździoch stwierdza, że jego żona, Helena uzurpuje sobie prawo do dysponowania ich wspólnym majątkiem oraz kierowania ich firmą. Jest tym zbulwersowany i twierdzi, że to jest zamach na jego godność i wolność. W tajemnicy przed żoną podejmuje pracę zarobkową, z której dochody może zachować tylko dla siebie. Halina stawia dzielną postawę Paździocha za przykład dla Ferdka i namawia go, aby również znalazł sobie jakieś zajęcie.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-2" start="20200213235000 +0000" stop="20200214005000 +0000">
@@ -6122,11 +5437,6 @@
 	<programme channel="polsat-2" start="20200214054500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Telezakupy TV Okazje</title>
 		<desc lang="pl">Program prezentuje artykuły gospodarstwa domowego, urządzenia do poprawy kondycji i zdrowia, kosmetyki. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-cafe" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Zdrady (odc. 98)</title>
-		<desc lang="pl">Serial paradokumentalny, którego bohaterów łączy ten sam problem - podejrzewają swoich życiowych partnerów o zdradę. W odkryciu prawdy pomaga im prywatny detektyw, specjalizujący się w tego typu przypadkach. Po zapoznaniu się z wynikami pracy detektywa zainteresowani decydują czy chcą zaprzestać dochodzenia, czy też je kontynuować i przyłapać swoją &quot;drugą połowę&quot; na gorącym uczynku. Każdy odcinek to nowa historia i mnóstwo nowych emocji.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-cafe" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -6217,21 +5527,6 @@
 	<programme channel="polsat-hd" start="20200214054000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Telezakupy TV Okazje</title>
 		<desc lang="pl">Program prezentuje artykuły gospodarstwa domowego, urządzenia do poprawy kondycji i zdrowia, kosmetyki. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-jimjam" start="20200213225800 +0000" stop="20200213231600 +0000">
-		<title lang="pl">Ptyś i Bill (odc. 20)</title>
-		<desc lang="pl">Bobby, jego pies Bill oraz Caroline — żółw jeżdżący na deskorolce — są nierozłączni, wspólnie szaleją i przeżywają przygody. Ze swoimi zwierzakami Bobby może wszystko... No, prawie.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-jimjam" start="20200213231600 +0000" stop="20200213232600 +0000">
-		<title lang="pl">Zgaduj z Jessem (odc. 23)</title>
-		<desc lang="pl">Jess to czarno-biały kot znany z serii &quot;Listonosz Pat&quot;, który wraz ze swoimi przyjaciółmi mieszka na farmie. Wspólnie poznają otaczający ich świat poprzez zadawanie pytań rozpoczynających się od &quot;po co?&quot;, &quot;jak?&quot; &quot;gdzie?&quot; czy &quot;dlaczego?&quot;. Oglądając ich przygody dowiemy się m.in., dlaczego pająki budują pajęczyny, pszczoły robią miód oraz gdzie się podział cień. &quot;Zgaduj z Jessem&quot; to animowany serial edukacyjny skierowany do dzieci w wieku od dwóch do czterech lat.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-jimjam" start="20200213232600 +0000" stop="20200213234200 +0000">
-		<title lang="pl">Zgaduj z Jessem (odc. 24)</title>
-		<desc lang="pl">Jess to czarno-biały kot znany z serii &quot;Listonosz Pat&quot;, który wraz ze swoimi przyjaciółmi mieszka na farmie. Wspólnie poznają otaczający ich świat poprzez zadawanie pytań rozpoczynających się od &quot;po co?&quot;, &quot;jak?&quot; &quot;gdzie?&quot; czy &quot;dlaczego?&quot;. Oglądając ich przygody dowiemy się m.in., dlaczego pająki budują pajęczyny, pszczoły robią miód oraz gdzie się podział cień. &quot;Zgaduj z Jessem&quot; to animowany serial edukacyjny skierowany do dzieci w wieku od dwóch do czterech lat.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-jimjam" start="20200213234200 +0000" stop="20200214001000 +0000">
@@ -6394,11 +5689,6 @@
 		<desc lang="pl">Kacper to typowy psiak - ma wielką wyobraźnię, lubi psoty i jest po prostu uroczy. Jego przygody zawsze skłaniają do serdecznego śmiechu!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polsat-news-2" start="20200213225500 +0000" stop="20200213233500 +0000">
-		<title lang="pl">Wydarzenia i opinie</title>
-		<desc lang="pl">Program rozwija kluczowe tematy prezentowane w głównym wydaniu &quot;Wydarzeń&quot;, proponuje też inne kwestie - ważne i interesujące opinię publiczną. Przedstawia opinie o najistotniejszych wydarzeniach dnia. Autorzy goszczą przedstawicieli wszystkich opcji politycznych, najważniejsze osoby w kraju, decydentów oraz ekspertów.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polsat-news-2" start="20200213233500 +0000" stop="20200214003000 +0000">
 		<title lang="pl">Polityka na ostro</title>
 		<desc lang="pl">Program, w którym prowadzący stawiają najważniejsze pytania dnia, a zaproszeni goście konfrontują swoje poglądy. &quot;Polityka na Ostro&quot; to wymiana argumentów i opinii. To konfrontacja poglądów w sprawach kluczowych dla każdego z nas. Autorzy programu poruszają najważniejsze kwestie z punktu widzenia zwykłego człowieka, pokazując, jaki wpływ mają politycy na nasze życie. Co wieczór widzowie programu mogą liczyć na emocjonującą dyskusję i starcie opinii wszystkich postaci sceny politycznej.</desc>
@@ -6447,16 +5737,6 @@
 	<programme channel="polsat-news-2" start="20200214035000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-news-hd" start="20200213230000 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Obraz dnia - serwis informacyjny</title>
-		<desc lang="pl">magazyn informacyjny</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-news-hd" start="20200213234500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Biznesowy Obraz Dnia</title>
-		<desc lang="pl">magazyn ekonomiczny</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-news-hd" start="20200214000000 +0000" stop="20200214000500 +0000">
@@ -6534,16 +5814,6 @@
 		<desc lang="pl">&quot;Interwencja&quot; to przede wszystkim program o ludziach potrzebujących pomocy. O najsłabszych, najbiedniejszych i tych, którzy nie potrafią poradzić sobie z otaczającym ich światem. W związku z tym w 2004 roku przeprowadziliśmy wielka akcję: &quot;Ruszaj z nami by cieszyć się życiem&quot; - ponad 700 wózków inwalidzkich trafiło do rąk najbardziej potrzebujących&amp;#8230; za darmo! &quot;Interwencja&quot; to także dziennikarstwo śledcze.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polsat-play" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Budowlańcy (odc. 10)</title>
-		<desc lang="pl">na budowie to nie bajka. Szybkie terminy, trudne zlecenia i wymagający klienci. A ekipy… No cóż. W serii &quot;Budowlańcy&quot; zobaczymy, jak sobie radzą profesjonalne ekipy budowlane oraz amatorzy, którzy dostrzegli swoją szansę i postanowili zakasać rękawy i pracować. Podpatrzymy jak wygląda atmosfera na placu budowy i dowiemy się co znaczą np. szalunki. Udogodnienia: napisy dla niesłyszących i audiodeskrypcja</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-play" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Poszukiwacze historii (odc. 113)</title>
-		<desc lang="pl">Zawodowy archeolog i doświadczony poszukiwacz eksplorują Polskę, aby dokopać się do nieznanych faktów i rzucić wyzwanie nudnej historii. Skarby, militaria, ślady naszych burzliwych dziejów. Co odkryją tym razem? Indiana Jones mógłby się od nich wiele nauczyć!Badamy, poszukujemy, przekopujemy, robimy wszystko, aby wydobyć na światło dzienne relikty przeszłości.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polsat-play" start="20200214000000 +0000" stop="20200214013500 +0000">
 		<title lang="pl">Ines - seksowna pielęgniarka</title>
 		<desc lang="pl">film erotyczny</desc>
@@ -6577,11 +5847,6 @@
 	<programme channel="polsat-play" start="20200214053000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">997 - Fajbusiewicz na tropie 3 (odc. 34)</title>
 		<desc lang="pl">, Michał Fajbusiewicz, Ziółkiewicz TomaszMichał Fajbusiewicz powraca w wielkim stylu. Nierozwiązane sprawy kryminalne, tajemnicze zaginięcia, najbardziej poszukiwani przestępcy. Autor programu rusza tropem niewyjaśnionych zbrodni ostatnich lat. Dzięki jego pasji i pomocy widzów udało się już aresztować ponad 300 bandytów.W programie najgłośniejsza, niewyjaśniona sprawa z Warszawy. W roku w jednym z bloków na Pradze zamordowano dilerkę narkotyków i jej kochanka.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-romans" start="20200213210000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Krew za krew</title>
-		<desc lang="pl">Western w gwiazdorskiej obsadzie. Rok 1868. Mijają właśnie trzy lata od zakończenia wojny secesyjnej. Pułkownik armii konfederackiej Morsman Carver (Liam Neeson) stoi na czele wynajętej przez siebie grupy pościgowej. Przeczesuje każdy skrawek ziemi, od ośnieżonych Gór Skalistych po bezkresne pustynie południa, by dopaść kapitana Gideona (Pierce Brosnan), który w czasie wojny walczył po przeciwnej stronie barykady.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-romans" start="20200213232500 +0000" stop="20200214015000 +0000">
@@ -6644,16 +5909,6 @@
 		<desc lang="pl">Katarzyna Dowbor wraz ze swoją ekipą odwiedza Świdry na Lubelszczyźnie. Mieszka tam pani Ewa z trzema synami. Kilka miesięcy temu rodzina przeżyła wielką tragedię - śmierć ukochanego męża pani Ewy i ojca chłopców. Pani Ewa ciężko pracuje jako szwaczka, ale jej pensja to za mało, by zapewnić synom godziwe warunki mieszkaniowe. Stary, maleńki domek, mimo starań pani Ewy i zmarłego męża, jest straszną ruiną. Nie ma w nim łazienki, toalety i porządnego ogrzewania.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polsat-sport-premium-1" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Liga Mistrzów UEFA: Archiwalny materiał o Bayernie Monachium: Wielki Bayern 1974-1976</title>
-		<desc lang="pl">Międzynarodowy klubowy turniej piłkarski rozgrywany od 1992 roku jako kontynuacja Pucharu Europy Mistrzów Krajowych. W rywalizacji biorą udział mistrzowie krajów oraz po kilka czołowych drużyn z najsilniejszych lig Europy. Rozgrywki podzielone są na fazę grupową, z której połowa drużyn przechodzi do fazy pucharowej. Najwięcej wygranych ma na koncie Real Madryt - siedem, a licząc z PEMK - aż 13. W</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-sport-premium-1" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Magazyn Ligi Mistrzów UEFA: Podsumowanie grupy A</title>
-		<desc lang="pl">Program prezentuje kulisy rozgrywek Ligi Mistrzów UEFA. Ciekawe wywiady z czołowymi zawodnikami, trenerami, działaczami klubowymi i kibicami.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polsat-sport-premium-1" start="20200214000000 +0000" stop="20200214020000 +0000">
 		<title lang="pl">Młodzieżowa Liga Mistrzów UEFA: Real Saragossa - Olympique Lyonnais</title>
 		<desc lang="pl">piłka nożna</desc>
@@ -6682,11 +5937,6 @@
 	<programme channel="polsat-sport-premium-1" start="20200214050000 +0000" stop="20200214063000 +0000">
 		<title lang="pl">Cafe Futbol</title>
 		<desc lang="pl">Mateusz Borek rozmawia z gośćmi na tematy związane z piłką nożną. Stałymi ekspertami są Roman Kołtoń oraz Tomasz Hajto, wielokrotny reprezentant Polski. W programie wywiady z gwiazdami futbolu, sondy przeprowadzane wśród kibiców, przegląd piłkarskich wydarzeń tygodnia, najatrakcyjniejsze gole, zapowiedzi najważniejszych wydarzeń oraz felietony.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-sport-premium-2" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Liga Europy UEFA: Sevilla FC - SL Benfica</title>
-		<desc lang="pl">Liga Europy UEFA to drugi po Lidze Mistrzów UEFA europejski turniej klubowy piłkarzy na Starym Kontynencie. W pierwszej części sezonu rozgrywane są runda wstępna, trzy rundy eliminacji i runda play-off. Po nich odbywa się faza grupowa, w której uczestniczy czterdzieści osiem drużyn podzielonych na dwanaście grup. Po dwie najlepsze z każdej grupy awansują do fazy pucharowej, a dołącza do nich osie</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="polsat-sport-premium-2" start="20200213233000 +0000" stop="20200214010000 +0000">
@@ -6719,17 +5969,7 @@
 		<desc lang="pl">Międzynarodowy klubowy turniej piłkarski rozgrywany od 1992 roku jako kontynuacja Pucharu Europy Mistrzów Krajowych. W rywalizacji biorą udział mistrzowie krajów oraz po kilka czołowych drużyn z najsilniejszych lig Europy. Rozgrywki podzielone są na fazę grupową, z której połowa drużyn przechodzi do fazy pucharowej. Najwięcej wygranych ma na koncie Real Madryt - siedem, a licząc z PEMK - aż 13. W</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polsat-sport-premium-ppv3" start="20200213180000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Przerwa</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polsat-sport-premium-ppv3" start="20200214000000 +0000" stop="20200214060000 +0000">
-		<title lang="pl">Przerwa</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-sport-premium-ppv4" start="20200213180000 +0000" stop="20200214000000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
@@ -6739,17 +5979,7 @@
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="polsat-sport-premium-ppv5" start="20200213180000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Przerwa</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="polsat-sport-premium-ppv5" start="20200214000000 +0000" stop="20200214060000 +0000">
-		<title lang="pl">Przerwa</title>
-		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="polsat-sport-premium-ppv6" start="20200213180000 +0000" stop="20200214000000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
 		<category lang="pl">all</category>
@@ -6757,11 +5987,6 @@
 	<programme channel="polsat-sport-premium-ppv6" start="20200214000000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl"></desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="power-tv-1" start="20200213200000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">100% Power</title>
-		<desc lang="pl">Wieczorna impreza z Power TV! Muzyka do tańca i zabawy.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="power-tv-1" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -6802,11 +6027,6 @@
 	<programme channel="private-tv" start="20200214050000 +0000" stop="20200214071000 +0000">
 		<title lang="pl">First Dates</title>
 		<desc lang="pl">Who said British babes were classy?! With a glass of wine and an appetite for cock, these nymphos cure their first date jitters with a spoonful of spunk. Hannah Shaw, Lucia Love, Ava Koxxx, Tamara Grace and Sienna Day skip the restaurant reservations and get their deserts in the form of a hot creampie leaving the anal queen Stella Cox to get herself some chocolate in a hardcore interracial slamming.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="puls-2" start="20200213225500 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Zabójcze umysły 7 (odc. 4)</title>
-		<desc lang="pl">Wielokrotnie nagradzany amerykański serial kryminalny. Specjalna Jednostka Analityków Medycyny Behawioralnej to elita wśród agentów FBI. Załoga pomaga policji w ujęciu seryjnych morderców. Gdy zabójca jest nieuchwytny, a zebrane przez policję dowody okazują się niewystarczające, do akcji wkracza BAU. Tworząc portret psychologiczny przestępcy, są w stanie przewidzieć jego kolejne kroki.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="puls-2" start="20200213235000 +0000" stop="20200214005000 +0000">
@@ -6859,11 +6079,6 @@
 		<desc lang="pl">który rozśmiesza do łez miliony Polaków. Gospodynią jest przezabawna Katarzyna Kołeczek, która w każdym odcinku serwuje widzom niezapomnianą porcję dobrego humoru. Kasia pokaże serię krótkich filmików, w których przypadkowi, nieświadomi przechodnie będą stawiani w niecodziennych sytuacjach. Obserwując zaskakujące reakcje ludzi w najbardziej nieoczekiwanych momentach, nikt nie będzie w stanie powstrzymać się od śmiechu. Doskonała zabawa dla całej rodziny i recepta na dobry humor gwarantowana!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="redlight-hd" start="20200213224400 +0000" stop="20200213230200 +0000">
-		<title lang="pl">Foot Worship Fest: Bonus Clip</title>
-		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="redlight-hd" start="20200213230200 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Movie Hardcore Threesome Footjob</title>
 		<desc lang="pl">eroticism</desc>
@@ -6897,11 +6112,6 @@
 	<programme channel="redlight-hd" start="20200214050000 +0000" stop="20200214065100 +0000">
 		<title lang="pl">Hot Legs and Feet</title>
 		<desc lang="pl">eroticism</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="romance-tv-hd" start="20200213224500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Górscy ratownicy 5 (odc. 6)</title>
-		<desc lang="pl">To ma być najpiękniejszy dzień w życiu Sophie Tiefenbach i Niklasa Hochfilzera. Chcą się pobrać wysoko w górach, w rodzinnej chacie. Andreas Marthaler był przewodnikiem dla niewielkiego grona gości weselnych. Obecna jest również Jana, bliska przyjaciółka Sophie. Dochodzi jednak do spięć. Początkowo tylko pomiędzy Florianem, bratem Sophie, i panem młodym. Niklas, junior-szef firmy &quot;Tiefenbach-Sport&quot;, miał romans z Leną, która pracuje u niego jako kasjerka.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="romance-tv-hd" start="20200213234500 +0000" stop="20200214013000 +0000">
@@ -6939,11 +6149,6 @@
 		<desc lang="pl">Organizatorzy ślubów, Maria i Daniel mają zaopiekować się podczas rejsu aż dwójką świeżo zaślubionych małżeństw. Nowożeńcy wybrali legendarny &quot;Statek Marzeń&quot;, by dobić na nim do przysłowiowego portu szczęścia. Na pierwszy rzut oka wydaje się jednak, że partnerzy - i to w obu przypadkach - kompletnie do siebie nie pasują. Jedno małżeństwo kole w oczy zbyt dużą różnicą wieku, natomiast drugą parę wyswatała ponoć siostra panny młodej.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="sci-fi" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Doświadczyć niezwykłego (odc. 4)</title>
-		<desc lang="pl">Amy Moore odnawiając zrujnowaną rezydencję, musi się zmierzyć z przerażającą przeszłością budynku - niegdyś mieszczącego szpital psychiatryczny.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="sci-fi" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Battlestar Galactica 2 (odc. 11)</title>
 		<desc lang="pl">Battlestar Pegasus i Galactica łączą siły, by stawić czoło tajemniczemu statkowi Cylonów. Tymczasem spór o władzę zagraża powodzeniu wspólnej misji.</desc>
@@ -6974,11 +6179,6 @@
 		<desc lang="pl">W rocznicę pobytu na Enterprise T'Pol opowiada Archerowi i Tripowi, jak doszło do pierwszego spotkania ludzi z Wolkanami.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="sportklub" start="20200213220000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">LIQUI MOLY Handball Bundesliga: FRISCH AUF! Göppingen - Bergischer HC</title>
-		<desc lang="pl">Niemiecka Handball Bundesliga od wielu lat przewodzi w rankingu najsilniejszych lig szczypiorniaka w Europie. Na niemieckie mecze przychodzi średnio ponad cztery tysiące ludzi, co jest ewenementem na skalę światową. THW Kiel, Rhein-Neckar Löwen, SG Flensburg-Handewitt, od kilku sezonów dominują w rozgrywkach w miejsce tradycyjnych potęg takich jak VfL Gummersbach czy HSV Hamburg.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="sportklub" start="20200213235000 +0000" stop="20200214014500 +0000">
 		<title lang="pl">LIQUI MOLY Handball Bundesliga</title>
 		<desc lang="pl">Niemiecka Handball Bundesliga od wielu lat przewodzi w rankingu najsilniejszych lig szczypiorniaka w Europie. Na niemieckie mecze przychodzi średnio ponad cztery tysiące ludzi, co jest ewenementem na skalę światową. THW Kiel, Rhein-Neckar Löwen, SG Flensburg-Handewitt, od kilku sezonów dominują w rozgrywkach w miejsce tradycyjnych potęg takich jak VfL Gummersbach czy HSV Hamburg.</desc>
@@ -7004,11 +6204,6 @@
 		<desc lang="pl">sporty walki</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="starstv" start="20200213220000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Best oldies</title>
-		<desc lang="pl">magazyn muzyczny</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="starstv" start="20200214000000 +0000" stop="20200214020000 +0000">
 		<title lang="pl">Best hits</title>
 		<desc lang="pl">Zestawienie największych hitów, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.</desc>
@@ -7017,11 +6212,6 @@
 	<programme channel="starstv" start="20200214020000 +0000" stop="20200214090000 +0000">
 		<title lang="pl">Best polish</title>
 		<desc lang="pl">Największe hity z rodzimej sceny muzycznej.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="stopklatka-tv" start="20200213220000 +0000" stop="20200213231000 +0000">
-		<title lang="pl">Narcos 3 (odc. 3)</title>
-		<desc lang="pl">Trzeci sezon jednego z najwybitniejszych seriali ostatniej dekady. Pablo Escobar nie żyje, a jego śmierć staje się trofeum dla agentów DEA, jak i kolumbijskiego rządu. Miejsce narkotykowego imperium Escobara chce zająć kartel z Cali, który wydaje miliardy na podporządkowanie sobie kolumbijskich polityków i tamtejszy wymiar sprawiedliwości. Podczas negocjacji bracia Rodriguez pozostają w ukryciu. Równolegle nowy zespół agentów DEA pod wodzą Pe?i odwiedza Cali.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="stopklatka-tv" start="20200213231000 +0000" stop="20200214002500 +0000">
@@ -7049,11 +6239,6 @@
 		<desc lang="pl">Program prezentuje filmy reklamowe. Produkty są szczegółowo przedstawione i skrupulatnie testowane w różnych środowiskach i sytuacjach. Dzięki temu widzowie dowiadują się, jak prezentowany produkt sprawdza się w życiu codziennym.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="sundance-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Hap i Leonard (odc. 2)</title>
-		<desc lang="pl">Hap i Leonard, zachwyceni Trudy, zaczynają szukać zaginionego łupu. Pomagają im Howard, Chub i Paco. Leonard otrzymuje niepokojące wieści o swoim wujku Chesterze.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="sundance-hd" start="20200214000000 +0000" stop="20200214020000 +0000">
 		<title lang="pl">Człowiek z Reno</title>
 		<desc lang="pl">Thriller w stylu kina noir. Japoński autor powieści kryminalnych i szeryf z małego miasteczka wspólnie przemierzają ulice San Francisco, szukając zaginionego mężczyzny.</desc>
@@ -7074,54 +6259,9 @@
 		<desc lang="pl">Dwóch sprawiających problemy nastolatków pracuje dla miejscowego handlarza złomem. Kiedy zaczynają ze sobą rywalizować, ich przyjaźń zostaje wystawiona na ciężką próbę.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="superstacja" start="20200213230000 +0000" stop="20200213231800 +0000">
-		<title lang="pl">Supernews</title>
-		<desc lang="pl">Program w formie serwisu prezentuje najważniejsze informacje z Polski i ze świata.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213231800 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Codzienny serwis informacyjny z prognozą pogody. Prezenter relacjonuje obecne warunki panujące nad Polską, wyjaśniając, jak na pogodę wpłyną czynniki atmosferyczne, takie jak ciśnienie, temperatura, prędkość i kierunek wiatru. Ważnym elementem prognozy jest informacja o zachmurzeniu, przewidywanych opadach, a także o zanieczyszczeniu powietrza. Będzie mowa także o tym, jak biomet może wpłynąć na </desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213232000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Supernews interwencje</title>
-		<desc lang="pl">Program pokazuje ludzi, którzy mierzą się z biurokracją, z bezdusznością instytucji i z wyzwaniami losu.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213234000 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Codzienny serwis informacyjny z prognozą pogody. Prezenter relacjonuje obecne warunki panujące nad Polską, wyjaśniając, jak na pogodę wpłyną czynniki atmosferyczne, takie jak ciśnienie, temperatura, prędkość i kierunek wiatru. Ważnym elementem prognozy jest informacja o zachmurzeniu, przewidywanych opadach, a także o zanieczyszczeniu powietrza. Będzie mowa także o tym, jak biomet może wpłynąć na </desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213234500 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Supernews gwiazdy</title>
-		<desc lang="pl">W programie wiadomości ze świata znanych osób - zasłyszane informacje o celebrytach, relacje z gal.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213235500 +0000" stop="20200213235900 +0000">
-		<title lang="pl">Superlista disco polo</title>
-		<desc lang="pl">Urszula Grabowska bawi się z całą Polską w rytm przebojów disco polo. Propozycje piosenek są emitowane codziennie w Supernews, a w piątki, przed nadchodzącym weekendem, można razem z Urszulą Grabowska uczestniczyć w cotygodniowym notowania Superlisty Disco Polo.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="superstacja" start="20200213235900 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Pogoda</title>
-		<desc lang="pl">Codzienny serwis informacyjny z prognozą pogody. Prezenter relacjonuje obecne warunki panujące nad Polską, wyjaśniając, jak na pogodę wpłyną czynniki atmosferyczne, takie jak ciśnienie, temperatura, prędkość i kierunek wiatru. Ważnym elementem prognozy jest informacja o zachmurzeniu, przewidywanych opadach, a także o zanieczyszczeniu powietrza. Będzie mowa także o tym, jak biomet może wpłynąć na </desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="superstacja" start="20200214000000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Telesprzedaż</title>
 		<desc lang="pl">Magazyn reklamowy prezentujący artykuły gospodarstwa domowego, urządzenia do poprawy kondycji i zdrowia.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tbn-polska" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Jak żyć 10</title>
-		<desc lang="pl">Gospodarze programu Jeff i Alyssa Bethke, szczęśliwe małżeństwo i rodzice trójki dzieci dzielą się swoim doświadczeniem i wiedzą o budowaniu zdrowych relacji, miłości, randkowaniu, oraz intymności.Prowadzący przedstawiają praktyczne spojrzenie. Chcąc zdobyć zawód lekarza nie wystarczy jedynie myśleć o tej profesji, aby być w niej dobrym, dlaczego więc myślimy,że wstępując w związek małżeński będziemy mieć szczęśliwe małżeństwo bez wcześniejszego dokształcania i pracowania nad sobą i związkiem?</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tbn-polska" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Dotyk Boga 2 (odc. 10)</title>
-		<desc lang="pl">Czy Bóg naprawdę interesuje się naszym życiem? Aby się tego dowiedzieć uznany twórca filmowy Darren Wilson zaprasza nas w niezwykłą podróż. Bądź świadkiem najwspanialszych cudów, poznaj wiarę w najczystszej formie. Czas, by odsłonić tajemnicę. Czas na przygodę z Bogiem.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tbn-polska" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -7179,11 +6319,6 @@
 		<desc lang="pl">Dom Ojca. Claire, Anjela i Tim - każdy z bohaterów ma swoją odrębną historię, jednak łączy niezadowolenie z życiowego miejsca, w którym się znaleźli. Kłopoty finansowe, problemy w relacji małżeńskiej - wszystko to potęguje wewnętrzną frustrację. Każdy z nich stanie przed trudnym wyborem.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tele5" start="20200213220000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Ciche układy</title>
-		<desc lang="pl">Samantha Simms jest znaną prawniczką w Los Angeles. Przed pięcioma laty wyjechała z Seattle, zostawiając młodszą siostrę i matkę, a także życiowego partnera. Nie kontaktowała się z nimi. Zawsze chciała stanąć na własne nogi, zrobić karierę zawodową. Dopięła swego, choć, jak niektórzy twierdzą, kosztem rodziny i bliskich. Teraz wraca do rodzinnego miasta jako adwokat swojej siostry zamieszanej w sprawę o brutalne zabójstwo.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tele5" start="20200213235000 +0000" stop="20200214015000 +0000">
 		<title lang="pl">Długie nogi</title>
 		<desc lang="pl">film erotyczny</desc>
@@ -7212,36 +6347,6 @@
 	<programme channel="tele5" start="20200214054500 +0000" stop="20200214074500 +0000">
 		<title lang="pl">Śpiewające brzdące</title>
 		<desc lang="pl">magazyn dziecięcy</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213230000 +0000" stop="20200213231000 +0000">
-		<title lang="pl">TeleTOON+ play 6 (odc. 9)</title>
-		<desc lang="pl">Program prezentuje ciekawostki na temat gier wideo, innowacyjnych technologii, wyjątkowych gadżetów oraz praktycznych, a czasem zaskakujących aplikacji.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213231000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">TeleTOON+ play 6 (odc. 10)</title>
-		<desc lang="pl">Program prezentuje ciekawostki na temat gier wideo, innowacyjnych technologii, wyjątkowych gadżetów oraz praktycznych, a czasem zaskakujących aplikacji.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213232000 +0000" stop="20200213233500 +0000">
-		<title lang="pl">TeleTOON+ play 6 (odc. 11)</title>
-		<desc lang="pl">Program prezentuje ciekawostki na temat gier wideo, innowacyjnych technologii, wyjątkowych gadżetów oraz praktycznych, a czasem zaskakujących aplikacji.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213233500 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Deserownia 2 (odc. 1)</title>
-		<desc lang="pl">Dwa bracia prezentują, jak w prosty sposób przygotować smaczne przekąski, i udowadniają, że gotowanie może być dobrą zabawą.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213234000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Deserownia 2 (odc. 2)</title>
-		<desc lang="pl">Dwa bracia prezentują, jak w prosty sposób przygotować smaczne przekąski, i udowadniają, że gotowanie może być dobrą zabawą.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="teletoon-hd" start="20200213235000 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Deserownia 2 (odc. 3)</title>
-		<desc lang="pl">Dwa bracia prezentują, jak w prosty sposób przygotować smaczne przekąski, i udowadniają, że gotowanie może być dobrą zabawą.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="teletoon-hd" start="20200213235500 +0000" stop="20200214000500 +0000">
@@ -7339,11 +6444,6 @@
 		<desc lang="pl">Pierwszy polski program &quot;tylko dla chłopców&quot;, a w nim wszystko to najbardziej kręci nastolatków.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tlc-hd" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Moje koszmarne stopy (odc. 5)</title>
-		<desc lang="pl">Pacjenci Brada Schaeffera i Ebonie Vincent borykają się z bolesnymi i niekiedy wstydliwymi schorzeniami swoich stóp. Po pomoc zgłaszają się osoby z haluksami, infekcjami grzybicznymi, a nawet z nieprzyjemnym zapachem stóp. Doświadczeni lekarze przeprowadzą operacje chirurgiczne i zabiegi, które raz na zawsze odmienią życie i zdrowie pacjentów.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tlc-hd" start="20200213233000 +0000" stop="20200214003000 +0000">
 		<title lang="pl">Urodzie na ratunek 2 (odc. 2)</title>
 		<desc lang="pl">Wiele osób marzy o perfekcyjnym, nieskazitelnym wyglądzie. Coraz częściej też ludzie korzystają z usług medycyny estetycznej, aby przybliżyć się do doskonałości. Program przedstawia osoby, które wpadły w pułapkę nałogowego poprawiania urody lub stały się ofiarą nieudolnych zabiegów, terapii czy kuracji. Zdolni i niezwykle doświadczeni specjaliści pomagają tym, którym zabrakło wyobraźni, podczas k</desc>
@@ -7377,11 +6477,6 @@
 	<programme channel="tlc-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Wielkie wesela amerykańskich Romów 4 (odc. 5)</title>
 		<desc lang="pl">Brittany i Kalynn planują poślubić swoich wspaniałych narzeczonych podczas podwójnego wesela. Przesądna para jest przekonana, że ktoś rzucił klątwę na ich ślub.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="travel-channel" start="20200213225000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">W dziczy z Bearem Gryllsem 4 (odc. 1)</title>
-		<desc lang="pl">Bear Grylls zaprasza aktora, pisarza i reżysera Josepha Gordona-Lewitta na 48-godzinną wyprawę przez niegościnne pustynie na północy Kenii.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="travel-channel" start="20200213235000 +0000" stop="20200214005000 +0000">
@@ -7422,11 +6517,6 @@
 	<programme channel="travel-channel" start="20200214055000 +0000" stop="20200214065000 +0000">
 		<title lang="pl">Ekstremalne kampery 4 (odc. 3)</title>
 		<desc lang="pl">Dla wymagającego klienta Featherlite konstruuje kilka autokarów w stylu Wall Street. Oprócz tego będziemy się pławić w luksusie na plaży, otrzymamy osobistego trenera, który podpowie nam, jak się ścigać na torze INDE, wybierzemy się na jazdę w terenie, a na zakończenie przejedziemy się najszybszym kamperem na świecie.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="ttv" start="20200213224000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Usterka 11 (odc. 15)</title>
-		<desc lang="pl">Nagłe zwroty akcji, cięte riposty i chwile pełne emocji. Pieniądze, totalne katastrofy i ogromna dawka humoru. To wszystko dzieje się w naszych domach, kiedy zlecamy remont fachowcom. A my pokażemy to w nowych odcinkach &quot;Usterki&quot;! Teraz także najlepszy program o fachowcach doczekał się gruntownego remontu! W nowej serii widzowie obejrzą dłuższe odcinki, 3 razy w tygodniu!</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="ttv" start="20200213232000 +0000" stop="20200214000500 +0000">
@@ -7482,11 +6572,6 @@
 	<programme channel="ttv" start="20200214053000 +0000" stop="20200214060500 +0000">
 		<title lang="pl">Nauka jazdy 3 (odc. 3)</title>
 		<desc lang="pl">Statystyki mówią, że ponad połowa Polaków to szczęśliwcy, którzy mają prawo jazdy. Co roku na kursy zapisuje się ponad milion osób. Znacznie mniej zdaje końcowy egzamin. Kamery TTV już po raz trzeci będą śledzić drogę kursantów do uzyskania tego wymarzonego dokumentu! W tym sezonie charakterystyczna żółta eLka &quot;Nauki jazdy&quot; po raz pierwszy w historii programu spróbuje przetrwać wśród wiecznie spieszących się warszawskich kierowców.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tv-4" start="20200213225500 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Ameryka pod ostrzałem (odc. 6)</title>
-		<desc lang="pl">Serial dokumentalny poświęcony jednemu z najbardziej niepokojących zjawisk naszych czasów, jakim są masowe zabójstwa dokonywane w aktach strzelaniny w miejscach publicznych. Każdy odcinek ukazuje jedno z takich tragicznych wydarzeń do których doszło w Stanach Zjednoczonych: w miasteczku Aurora stanie Kolorado, w San Bernardino, Charleston, Waszyngtonie, Santa Monica, Oak Creek, Orlando i w liceum w Columbine.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tv-4" start="20200214000000 +0000" stop="20200214011500 +0000">
@@ -7564,11 +6649,6 @@
 		<desc lang="pl">Program prezentuje artykuły gospodarstwa domowego, urządzenia do poprawy kondycji i zdrowia, kosmetyki. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tv-puls" start="20200213214500 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Wielkie kino</title>
-		<desc lang="pl">Parodia największych przebojów kinowych ostatnich lat. Podczas wizyty w fabryce czekolady czterej bracia przechodzą przez starą szafę, która prowadzi ich do niezwykłej krainy zwanej &quot;Gnarnią&quot;, gdzie pomagają ekscentrycznemu piratowi i młodemu uczniowi ze szkoły dla czarodziejów pokonać złą czarownicę.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tv-puls" start="20200213231500 +0000" stop="20200214012000 +0000">
 		<title lang="pl">To już jest koniec</title>
 		<desc lang="pl">W Los Angeles niespodziewanie dochodzi do serii apokaliptycznych wydarzeń, w wyniku których szóstka przyjaciół zostaje uwięziona w domu jednego z nich z niewielkim zapasem jedzenia i wody. Okazuje się, że czeka ich tam niebezpieczna walka o przetrwanie, a ich przyjaźń zostaje wystawiona na próbę.</desc>
@@ -7607,26 +6687,6 @@
 	<programme channel="tv-puls" start="20200214053500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Dyżur 3 (odc. 31)</title>
 		<desc lang="pl">Ból, łzy, dramatyczne przypadki medyczne prosto z ostrego dyżuru... To już trzecia seria programu, który poruszył serca wielu Polaków. Tym razem widzowie zobaczą pracę lekarzy dwóch warszawskich placówek medycznych: Szpitala Bielańskiego i Szpitala Dzieciątka Jezus. Podczas nowych odcinków widzowie poznają historie zwykłych ludzi, którzy z wielu powodów znaleźli się na oddziałach ratunkowych obu szpitali.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tv-republika" start="20200213225000 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Suma dnia</title>
-		<desc lang="pl">Program podsumowuje najważniejsze wydarzenia z Polski i ze świata.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tv-republika" start="20200213232500 +0000" stop="20200213233500 +0000">
-		<title lang="pl">Poland Daily - Culture</title>
-		<desc lang="pl">Nadawany w języku angielskim program poświęcony polskiej kulturze.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tv-republika" start="20200213233500 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Poland Daily - History</title>
-		<desc lang="pl">Nadawany w języku angielskim program poświęcony polskiej historii.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tv-republika" start="20200213235000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Poland Daily - Travel</title>
-		<desc lang="pl">Program w języku angielskim prezentuje najciekawsze miejsca w Polsce.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tv-republika" start="20200214000000 +0000" stop="20200214001000 +0000">
@@ -7734,16 +6794,6 @@
 		<desc lang="pl">Cykl, w którym prezentowane są filmy dokumentalne oraz reportaże o tematyce historycznej i społecznej.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvdisco" start="20200213200000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Top 50 Disco</title>
-		<desc lang="pl">Program prezentuje zestawienie najlepszych hitów muzyki disco i dance.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvdisco" start="20200213233000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Najwięcej muzyki na imprezę</title>
-		<desc lang="pl">Program prezentuje hity, bez których miłośnicy tanecznych rytmów nie wyobrażają sobie dobrej imprezy.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvdisco" start="20200214000000 +0000" stop="20200214030000 +0000">
 		<title lang="pl">Karaoke w 4Fun Dance</title>
 		<desc lang="pl">Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.</desc>
@@ -7757,16 +6807,6 @@
 	<programme channel="tvdisco" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Karaoke w 4Fun Dance</title>
 		<desc lang="pl">Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-24-hd" start="20200213230000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Dzień po dniu</title>
-		<desc lang="pl">Podsumowanie najważniejszych wydarzeń mijającego dnia zawierające także informacje sportowe i ekonomiczne oraz prognozę pogody.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-24-hd" start="20200213234000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Bilans dnia</title>
-		<desc lang="pl">Program przedstawia skrót informacji giełdowych oraz najważniejsze wydarzenia ze świata biznesu.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvn-24-hd" start="20200214000000 +0000" stop="20200214004000 +0000">
@@ -7854,11 +6894,6 @@
 		<desc lang="pl">Licealiści z trzecich klas, Wojtek i Konrad od dłuższego czasu chcą poderwać młodsze koleżanki, które bardzo im się podobają. Jednak 16-latki nie chcą mieć niepoważnych chłopaków. Licealiści wpadają na pomysł, jak pokazać dziewczynom, że są odpowiedzialni i rozsądni. Wiedzą, że wybranki rozczulają małe dzieci, więc Wojtek chce przyjść do szkoły z półroczną siostrzenicą i tak zdobyć serce Ady. Plan okazuje się skuteczny, bo dziewczyny zaczynają się nimi interesować.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvn-biznes-i-swiat" start="20200213225500 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Fakty o świecie</title>
-		<desc lang="pl">&quot;Fakty o Świecie&quot; to program w całości poświęcony tematyce międzynarodowej. Podsumowanie najważniejszych wydarzeń, poruszających historii i najlepszych zdjęć z całego świata. Tworzą go korespondenci i doświadczeni reporterzy działu zagranicznego programu &quot;Fakty&quot; oraz reporterzy TVN24 BiS i TVN24. &quot;Fakty o świecie&quot; to program dla tych, którzy są ciekawi świata.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvn-biznes-i-swiat" start="20200213234000 +0000" stop="20200214002000 +0000">
 		<title lang="pl">Fakty po Faktach</title>
 		<desc lang="pl">Dziennikarze przedstawiają uzupełnienia do wiadomości zaprezentowanych w &quot;Faktach&quot; na antenie TVN oraz rozmawiają z zaproszonymi do studia gośćmi na temat bieżących wydarzeń.</desc>
@@ -7912,16 +6947,6 @@
 	<programme channel="tvn-biznes-i-swiat" start="20200214054000 +0000" stop="20200214062000 +0000">
 		<title lang="pl">Drugie śniadanie mistrzów</title>
 		<desc lang="pl">Marcin Meller rozmawia z gośćmi ze świata kultury i show-biznesu o wydarzeniach mijającego tygodnia.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-fabula-hd" start="20200213223500 +0000" stop="20200213231000 +0000">
-		<title lang="pl">Przystanek Hollywood 2 (odc. 7)</title>
-		<desc lang="pl">Druga seria programu filmowego, w którym dziennikarka Anna Wendzikowska przedstawia najbardziej aktualne wiadomości ze świata Hollywood. Widzowie zobaczą rozmowy z popularnymi aktorami oraz reżyserami. W programie pojawią się również kulisy topowych produkcji z fabryki snów. Pokażemy jak pracują amerykańskie studia filmowe. Zdradzimy plany twórców na kolejne produkcje, a także przedstawimy ciekawostki i nowinki prosto z Hollywood.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-fabula-hd" start="20200213231000 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Współczesna dziewczyna (odc. 3)</title>
-		<desc lang="pl">Fleabag to współczesna kobieta. Mieszka w wielkim mieście, Londynie, którego gorączkowa energia rozsadza ją, czasem dając adrenalinę a czasem przytłaczając. Wraca późno do domu atakowana przez jaskrawe światła miasta, przez neony i reklamy. Takie miasto to mieszanka hedonizmu i ...przerażenia. Jaka naprawdę jest Fleabag?</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvn-fabula-hd" start="20200213234000 +0000" stop="20200214001000 +0000">
@@ -7999,11 +7024,6 @@
 		<desc lang="pl">Magazyn reklamowy prezentujący artykuły gospodarstwa domowego, urządzenia do poprawy kondycji i zdrowia. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvn-meteo-active" start="20200213223000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Łowcy domów do remontu 14 (odc. 11)</title>
-		<desc lang="pl">Nie każdy może pozwolić sobie na nowy dom prosto od dewelopera. Znalezienie idealnego lokum z drugiej ręki też nie jest proste, zwłaszcza jeśli trzeba pogodzić potrzeby kilku osób. Żona marzy o zacisznym, małym ogródku i kominku, a mąż chce mieć blisko do pracy i mieszkać w nowoczesnym mieszkaniu w głośnym centrum miasta. Czy da się pogodzić tak sprzeczne interesy?</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvn-meteo-active" start="20200213233000 +0000" stop="20200214003000 +0000">
 		<title lang="pl">Domowe rewolucje 4 (odc. 5)</title>
 		<desc lang="pl">Jedno pomieszczenie to za mało! Domowe Rewolucje to program, w którym Dorota Szelągowska zmienia całe mieszkania. Najbardziej znana polska projektantka odwiedzi w tym sezonie osiem mieszkań. Nasi bohaterowie będą musieli opuścić swoje domy na kilka dni. W każdym mieszkaniu Dorota i jej ekipa zrobią demolkę, a później przeprowadzą spektakularną metamorfozę. Pokażemy remont krok po kroku, będzie też dużo porad DIY.</desc>
@@ -8059,11 +7079,6 @@
 		<desc lang="pl">Prowadząca program podpowiada, jakie prace w zależności od danej pory roku należy wykonać w ogrodzie oraz przedstawia różne odmiany roślin i nowinki techniczne w sprzęcie ogrodniczym. Doradza także, jak pięknie aranżować przestrzeń zarówno w ogrodzie, jak i na balkonie lub parapecie. Program przybliża tematykę ogrodniczą, korzystając również z porad fachowców.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvn-style-hd" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Stylowy projekt (odc. 6)</title>
-		<desc lang="pl">Takiego programu jeszcze nie było! Rywalizowali już ze sobą modele, kucharze, fryzjerzy i projektanci mody. Teraz przyszła pora na stylistów! W każdym odcinku czekają na nich prawdziwe wyzwania. Nie będzie łatwo! Tu liczy się kreatywność, wyczucie stylu, zdolności manualne i praca pod presją czasu. Jej efekty ocenią stylistki - Karla Gruszecka z &quot;Vogue Polska&quot;, Agnieszka Ścibor z &quot;Viva! Moda&quot; oraz odpowiedzialna za dział beauty makijażystka Magdalena Pieczonka.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvn-style-hd" start="20200214000000 +0000" stop="20200214010000 +0000">
 		<title lang="pl">Bez tabu (odc. 3)</title>
 		<desc lang="pl">W cyklu &quot;Bez Tabu&quot; przybliżymy widzom temat mastektomii. Zarówno tej, która jest elementem terapii, jak i tej będącej profilaktyką. Agata Młynarska, spotykając się z pacjentkami i lekarzami, postara się odpowiedzieć na pytanie jakiej pomocy ze strony systemu ubezpieczeń może spodziewać się polska pacjentka? Jakie są najbardziej innowacyjne sposoby przeprowadzania zabiegu? Prowadząca wysłucha też niezwykłych opowieści wyjątkowych kobiet o ich sile, walce i nadziei.</desc>
@@ -8107,16 +7122,6 @@
 	<programme channel="tvn-style-hd" start="20200214054500 +0000" stop="20200214063000 +0000">
 		<title lang="pl">Wiem, co jem i wiem, co kupuję 8 (odc. 6)</title>
 		<desc lang="pl">Kasia Bosacka wraca na wiosnę z jeszcze większą dawką sensacji i dziennikarskich śledztw! W nowym sezonie &quot;Wiem, co jem i wiem, co kupuje&quot; ujawni całą prawdę o pieczywie! Sprawdzi, co kryje się w supermarketowych chlebach i bułkach, że zawsze są świeże i cieplutkie. Pod lupę weźmie kurczaka! Czy jest coś, czego nie wiemy o najchętniej konsumowanym przez Polaków mięsie? Okazuje się, że czyhają w nim bakterie, o których nie mieliście pojęcia! W programie obalimy też mity na temat jajek.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-turbo-hd" start="20200213221500 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Nietypowe transporty 2 (odc. 6)</title>
-		<desc lang="pl">Wielkie ładunki i operacje logistyczne. W serii zapoznamy się z przewozem wielkich gabaratów. Będziemy świadkami transportów rzecznego, kolejowego, lotniczego i wielokołowego.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvn-turbo-hd" start="20200213231500 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Absurdy drogowe 11 (odc. 6)</title>
-		<desc lang="pl">Prowadzący pokazują przykłady absurdalnych rozwiązań, utrudniających życie kierowcom. Wskazują źle ustawione znaki oraz prezentują drogowe miejsca, o których krążą legendy.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvn-turbo-hd" start="20200213234500 +0000" stop="20200214003000 +0000">
@@ -8167,11 +7172,6 @@
 	<programme channel="tvn-turbo-hd" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Zakup kontrolowany 21 (odc. 311)</title>
 		<desc lang="pl">W każdym odcinku Adam Kornacki gości jednego widza, który otrzymuje szansę przetestowania kilku samochodów z interesującego go przedziału cenowego. Uczestnik programu będzie miał okazję, aby przekonać się, jakie walory mają wybrane przez niego pojazdy. Spośród prezentowanych w programie samochodów przyszły nabywca wybierze ten, który najbardziej przypadnie mu do gustu. Auto zostanie też sprawdzon</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-1-hd" start="20200213230000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Magazyn kryminalny 997 (odc. 78)</title>
-		<desc lang="pl">Program przywołuje autentyczne, niewykryte sprawy kryminalne, uczestniczy w poszukiwaniu groźnych przestępców i niejednokrotnie morderców. Magazyn przedstawia rekonstrukcje nie rozwiązanych spraw kryminalnych, odwołując się do widzów o pomoc w odnalezieniu przestępców. Dzięki pomocy telewidzów i informacjom uzyskanym od nich udaje się rozwikłać wiele zawikłanych śledztw i wykryć winnych.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvp-1-hd" start="20200213235000 +0000" stop="20200214005000 +0000">
@@ -8259,16 +7259,6 @@
 		<desc lang="pl">Marlene i Christian z najmłodszymi dziećmi wracają z wakacji nad morzem. Christiana trochę niepokoi stan zdrowia Johannesa, lecz ten twierdzi, że to skutki niedawnego przeziębiania. Johannes sam wybiera się do jaskini. Christian, wiedziony przeczuciem, też tam jedzie. Johannes dostaje zawału. Christian organizuje pomoc. Okazuje się, że serce Johannesa jest całkowicie niewydolne. Jedynym ratunkiem jest transplantacja. Serial obyczajowy,</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-abc" start="20200213225500 +0000" stop="20200213232500 +0000">
-		<title lang="pl">Tajemnica Sagali (odc. 12)</title>
-		<desc lang="pl">Kuba i Jacek wracają do XX wieku, Jarpen przenosi ich dosamochodu nieznajomej kobiety. Okazuje się, że pani Weronika jestnaukowcem i jedzie właśnie na konferencję astrologiczną. Chłopcyopowiadają jej historię Sagali. W programie konferencji przewidzianorównież wyprawę po tajemniczy Kamień Saturna. Nieoczekiwaniepojawia się właściciel sklepu z kamieniami szlachetnymi, pan Kruks, od dawna poszukujący Sagali.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-abc" start="20200213232500 +0000" stop="20200213235500 +0000">
-		<title lang="pl">Słoneczna włócznia (odc. 10)</title>
-		<desc lang="pl">Z sejfu instytutu ginie w tajemniczych okolicznościach słoneczna włócznia. Mateusz prosi syna o pomoc w znalezieniu złodzieja. Dzięki swym magicznym zdolnościom Max tworzy przestrzennyhologram &quot;złodzieja&quot;. Wraz z ojcem i policją podążają za hologramem, który zmierza do domu za miastem. Okazuje się, że tajemniczy złodziej ukrył się w willi pana Greya, dyrektora instytutu.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-abc" start="20200213235500 +0000" stop="20200214043000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">...</desc>
@@ -8299,11 +7289,6 @@
 		<desc lang="pl">Opowieść o starszej pani, która wyjeżdża z miasta, żeby prowadzić sielski żywot na wsi razem z dwójką zwierzaków: Psiną i Prosięciem, a także żeby móc oddawać się swojej wielkiej pasji - gotowaniu. Atmosferę burzy nieoczekiwany zbieg okoliczności, który wiedzie bohaterów wprost na spotkanie z przygodą.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-hd" start="20200213224000 +0000" stop="20200213234500 +0000">
-		<title lang="pl">Kontakt 2 (odc. 7)</title>
-		<desc lang="pl">Odc. 7Patrice Ducret, podejrzany o zabójstwo rodziców Thomasa i Erica oraz porwanie ich siostry, zostaje w końcu zatrzymany. Zdaniem policji, Ducret zabił też kapitan Lenę Ortiz, ale on uparcie wszystkiemu zaprzecza. Bracia Adamowie próbują ustalić jego związki z niejakim Geraldem Fournierem, którego uważają za wspólnika Ducreta. Tymczasem na jednym z placów w Aix - en - Provence umiera Jerome Delmas.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-hd" start="20200213234500 +0000" stop="20200214005000 +0000">
 		<title lang="pl">Na dobre i na złe (odc. 752)</title>
 		<desc lang="pl">Serial obyczajowy, 49 min, Polska, 2019Reżyseria: Jose Iglesias VigilScenariusz: Robert Mąka, Monika PurzyckaZdjęcia: Marcin KukielskiMuzyka: Tomasz JachowiczAktorzy: Marta Żmuda Trzebiatowska, Marcin Przybylski, Mateusz Janicki, Izabela Perez, Kamil Kula, Katarzyna Dąbrowska, Marcin Krajewski, Pola Gonciarz, Jowita Budnik, Martyna Kowalik, Maria Włodkowska, Iwo Wiciński, Robert Koszucki, Michał Żebrowski, Ilona OstrowskaAnna Wilson wraca powoli do zdrowia, a jej dziećmi zajmuje się - na prośbę</desc>
@@ -8327,11 +7312,6 @@
 	<programme channel="tvp-hd" start="20200214035500 +0000" stop="20200214060500 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-historia" start="20200213224000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Szerokie tory (odc. 86)</title>
-		<desc lang="pl">Reportaż o najsłynniejszym rosyjskim kurorcie Soczi, gdzie w 2014 roku odbyły się zimowe igrzyska olimpijskie. Po raz pierwszy w historii - w subtropiku! Aby zadziwić świat, Rosjanie nie liczyli się z kosztami. Pompowali w Soczi rekordowe sumy! Olimpiada była oczkiem w głowie Władimira Putina. To on obiecał, że miasto bez kanalizacji, bez gazu i bez stadionów zmieni się w sportowe centrum i kurort, jakiego świat nie widział! Soczi ogłoszono symbolem nowej Rosji.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvp-historia" start="20200213231500 +0000" stop="20200214001500 +0000">
@@ -8362,16 +7342,6 @@
 	<programme channel="tvp-historia" start="20200214020500 +0000" stop="20200214065000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-info" start="20200213230000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Info wieczór</title>
-		<desc lang="pl">Program informacyjny prezentujący najważniejsze wydarzenia dnia.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-info" start="20200213233000 +0000" stop="20200213235500 +0000">
-		<title lang="pl">W akcji (odc. 683)</title>
-		<desc lang="pl">Cykl dokumentalny &quot;W akcji&quot; to reportaże poświęcone pracy różnego rodzaju służb policyjnych, ratowniczych, medycznych, interwencyjnych, porządkowych czy społecznych, niejednokrotnie poruszające kontrowersyjne lub zaskakujące tematy. Codziennie, od poniedziałku do piątku, przedstawiony zostanie jeden reportaż polski i jeden zagraniczny, w sobotę - najlepsze reportaże zagraniczne tygodnia, a najlepsze reportaże polskie stanowić będą temat godzinnego odcinka niedzielnego.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvp-info" start="20200213235500 +0000" stop="20200214000300 +0000">
@@ -8464,11 +7434,6 @@
 		<desc lang="pl">&quot;Serwis Info&quot; to emitowany codziennie, profesjonalnie przygotowany magazyn informacyjny przedstawiający wiadomości z kraju i ze świata. Pojawią się relacje korespondentów na temat bieżącej sytuacji politycznej, społecznej i gospodarczej.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-kultura" start="20200213224500 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Scena klasyczna (odc. 68)</title>
-		<desc lang="pl">W kolejnym odcinku Sceny klasycznej wystąpi Gidaszewska / Łaugniak Duo. Zespół tworzą skrzypkowie Marta Gidaszewska oraz Robert Łaguniak - zwycięzcy I Konkursu Muzyki Polskiej im. Stanisława Moniuszki w Rzeszowie w kategorii kameralistyka, na co dzień studenci akademii muzycznych w Poznaniu i w Łodzi. Mimo występowania w nietypowym składzie, młodzi muzycysą laureatami wielu polskich i międzynarodowych konkursów, zdobyli m.in.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-kultura" start="20200213233000 +0000" stop="20200214005500 +0000">
 		<title lang="pl">The Doors - historia nieopowiedziana</title>
 		<desc lang="pl">Niesamowita więź między czterema muzykami The Doors sprawiła, że ich zespół stał się jednym z najważniejszychi najbardziej rozpoznawalnych w świecie muzycznym. Film, w którym narrację prowadzi Johnny Depp, odkrywa przed nami nieznane wcześniej historie i prezentuje ciekawe materiały archiwalne dokumentujące działalność The Doors od 1965 roku, aż do śmierci Jima Morrisona.</desc>
@@ -8507,26 +7472,6 @@
 	<programme channel="tvp-kultura" start="20200214055000 +0000" stop="20200214072000 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-polonia" start="20200213222000 +0000" stop="20200213231000 +0000">
-		<title lang="pl">Halo Polonia (odc. 1260)</title>
-		<desc lang="pl">Interaktywny program, w którym omawiane są ważne tematy dotyczące życia Polaków mieszkających poza granicami kraju. Prowadzący rozmawiają z zaproszonymi gośćmi. W centrum uwagi są ludzie: ich radości, marzenia, a także problemy i tęsknota za ojczyzną.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-polonia" start="20200213231000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Focus on Poland (odc. 281)</title>
-		<desc lang="pl">Program informacyjny w języku angielskim, przeznaczony dla Polaków mieszkających poza granicami kraju oraz dla cudzoziemców zainteresowanych Polską - zarówno historią kraju, jak i aktualnymi wydarzeniami. Przedstawione zostaną wiadomości z dziedziny polityki, gospodarki, kultury, historii, nauki, nowych technologii i sportu. Omówione zostaną zagadnienia dotyczące przemian społecznych w Polsce. &quot;F</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-polonia" start="20200213233000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Halimony</title>
-		<desc lang="pl">Po 15 latach życia w Londynie Dana i Jacek zamieszkali na Podlasiu we wsi Dawidowicze. Dana uczy wiejskie kobiety jogi, a Jacek daje drugie życie starym meblom, których pozbywająsię sąsiedzi.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-polonia" start="20200213235000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Którędy po sztukę (odc. 83)</title>
-		<desc lang="pl">Da Vinci i Wilhelm Sasnal, Wit Stwosz i Maria Jarema. O tym, jak różnorodne dzieła znajdują się w kolekcji Muzeum Narodowego w Krakowie, dowiemy się z siódmego sezonu cyklu &quot;Którędy po sztukę&quot;. Trzydzieści odcinków programu opowie o wyjątkowych obiektach znajdujących się w jednym z najstarszych krajowych muzeów. Muzeum Narodowe w Krakowie zostało utworzone 7 października 1879 roku. W roku 2019 obchodzi 140. rocznicę powstania.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvp-polonia" start="20200214000000 +0000" stop="20200214003000 +0000">
@@ -8614,16 +7559,6 @@
 		<desc lang="pl">Program informacyjny w języku angielskim, przeznaczony dla Polaków mieszkających poza granicami kraju oraz dla cudzoziemców zainteresowanych Polską - zarówno historią kraju, jak i aktualnymi wydarzeniami. Przedstawione zostaną wiadomości z dziedziny polityki, gospodarki, kultury, historii, nauki, nowych technologii i sportu. Omówione zostaną zagadnienia dotyczące przemian społecznych w Polsce. &quot;F</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-regionalna" start="20200213230000 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Alarm! (odc. 559)</title>
-		<desc lang="pl">Program przedstawia interwencje i śledztwa dziennikarskie. Poruszane będą sprawy ważne i ciekawe, które dotychczas często były ukrywane przed opinią publiczną. Na antenie pojawią się także historie interesujących, choć często nieznanych ludzi. Reporterzy &quot;Alarmu!&quot; są wszędzie tam, gdzie ludziom potrzebna jest pomoc. Zapraszają oni widzów do współpracy i udziału w tworzeniu programu.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-regionalna" start="20200213232000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">W tyle wizji (odc. 1007)</title>
-		<desc lang="pl">Program publicystyczno-satyryczny podsumowujący najważniejsze wydarzenia dnia, które miały miejsce w Polsce i na świecie. Dziennikarze i satyrycy prowadzą dyskusję w studiu, oglądają materiały przygotowane przez reporterów oraz słuchają wypowiedzi widzów i czytają ich wpisy zamieszczone na Twitterze.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-regionalna" start="20200214000000 +0000" stop="20200214002500 +0000">
 		<title lang="pl">W tyle wizji. Extra (odc. 879)</title>
 		<desc lang="pl">magazyn</desc>
@@ -8704,11 +7639,6 @@
 		<desc lang="pl">Gra słów. Krzyżówka - to format telewizyjny z gatunku codziennego teleturnieju wiedzowego skoncentrowany na ugruntowanym i niesłabnącym od lat fenomenie popularności krzyżówek. Poprzez masowo rozpoznawalny atrybut krzyżówki format w sposób naturalny eksploruje powszechne zamiłowanie widzów do współzawodnictwa bazującego na wiedzy, refleksie i umiejętności kojarzenia. W wersji telewizyjnej walory te rozszerzone zostają o elementy rywalizacji, strategii rozgrywki i szczęścia.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-rozrywka" start="20200213223500 +0000" stop="20200213234000 +0000">
-		<title lang="pl">Kabaret za kulisami (odc. 1)</title>
-		<desc lang="pl">Gościem tego odcinka cyklicznego programu będzie Wojciech Solarz. Po co aktorowi kabaret? Jak powinno uczyć się rozśmieszania ludzi? Czy są kary w teatrze za złe granie? Na te i inne pytania odpowiemy w tym odcinku.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-rozrywka" start="20200213234000 +0000" stop="20200214004000 +0000">
 		<title lang="pl">Hity kabaretu (odc. 24)</title>
 		<desc lang="pl">Program montażowy, prezentujący w pigułce najciekawsze i najzabawniejsze skecze popularnych polskich kabaretów. W tym odcinku najlepsze skecze kabaretu K2.</desc>
@@ -8737,11 +7667,6 @@
 	<programme channel="tvp-rozrywka" start="20200214041500 +0000" stop="20200214061500 +0000">
 		<title lang="pl">Przerwa</title>
 		<desc lang="pl">...</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-seriale" start="20200213221500 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Ranczo (odc. 1)</title>
-		<desc lang="pl">Pierwszy odcinek serialu komediowo - obyczajowego o perypetiach młodej Amerykanki, która wskutek splotu okoliczności życiowych osiedla się w małej podlaskiej wsi Wilkowyje. Zderzenie dwóch skrajnie różnych mentalności: wielkomiejsko - amerykańskiej z wiejską, charakterystyczną dla Polski B, przynosi dość nieoczekiwane owoce i wywiera wpływ na obie strony. Amerykanka polskiego pochodzenia przyjeżdża do Polski, gdzie odziedziczyła mały dworek we wsi Wilkowyje.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="tvp-seriale" start="20200213232000 +0000" stop="20200214001000 +0000">
@@ -8794,16 +7719,6 @@
 		<desc lang="pl">Kolacje to najlepsze okazje na spotkania. W miłej atmosferze przebiega wieczorny posiłek z babcią Kasią... Niestety, do czasu. Wszystko się zmienia, gdy okazuje się, że Jerzy podzielił się z rodziną informacją o jej nowym liftingu... Na kolację do Polaków przybywa też szef Joanny. Od tego zależy jej awans... Joanna zatrudniła nawet trenera od dobrych manier. Próbuje zachęcić też rodzinę do wycieczek rowerowych, ale nikt nie podziela jej entuzjazmu. Wolą sport przed telewizorem.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="tvp-sport-hd" start="20200213225500 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Piłka nożna: Puchar Włoch i Puchar Króla - studio</title>
-		<desc lang="pl">piłka nożna</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="tvp-sport-hd" start="20200213232000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Sportowy wieczór</title>
-		<desc lang="pl">Magazyn informacyjny. Aktualności stanowią wstęp do szerszych form publicystycznych - wywiadów, opinii, komentarzy, analiz i felietonów. Prezentowani są ludzie sportu, kulisy wielu wydarzeń i dyscyplin sportowych.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="tvp-sport-hd" start="20200213235000 +0000" stop="20200214001500 +0000">
 		<title lang="pl">Piłka parzy (odc. 12)</title>
 		<desc lang="pl">wiadomości sportowe</desc>
@@ -8837,36 +7752,6 @@
 	<programme channel="tvp-sport-hd" start="20200214053000 +0000" stop="20200214060500 +0000">
 		<title lang="pl">Sportowy wieczór</title>
 		<desc lang="pl">Magazyn informacyjny. Aktualności stanowią wstęp do szerszych form publicystycznych - wywiadów, opinii, komentarzy, analiz i felietonów. Prezentowani są ludzie sportu, kulisy wielu wydarzeń i dyscyplin sportowych.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213230000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Master of Crafts</title>
-		<desc lang="pl">other</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213231500 +0000" stop="20200213232000 +0000">
-		<title lang="pl">Digest</title>
-		<desc lang="pl">other</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213232000 +0000" stop="20200213233000 +0000">
-		<title lang="pl">Ukrainian Reforms</title>
-		<desc lang="pl">other</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213233000 +0000" stop="20200213233500 +0000">
-		<title lang="pl">Digest</title>
-		<desc lang="pl">other</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213233500 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Metro</title>
-		<desc lang="pl">other</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="uatv" start="20200213235000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Digest</title>
-		<desc lang="pl">other</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="uatv" start="20200214000000 +0000" stop="20200214001500 +0000">
@@ -8989,19 +7874,9 @@
 		<desc lang="pl">other</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="vh1" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Pink: The Hits</title>
-		<desc lang="pl">program muzyczny</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="vh1" start="20200214000000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Shuffle</title>
 		<desc lang="pl">program muzyczny</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="viasat-explore-hd" start="20200213225000 +0000" stop="20200213235000 +0000">
-		<title lang="pl">Australijscy poszukiwacze złota 3 (odc. 13)</title>
-		<desc lang="pl">Rozgrywająca się w przepięknej, choć surowej scenerii Australii Zachodniej seria ukazuje zmagania śmiałków eksplorujących złoża cennego kruszcu. Śledzimy trzy zespoły poszukiwaczy, stawiających czoło upałom, awariom sprzętu i wykańczającej presji. Christine i Greg Clarkowie - czyli Gold Gypsies - postawili wszystko na jedną kartę. Gnani gorączką złota porzucili swoje kariery i dom w Brisbane. Vern Strange i jego przyjaciel Leon Marsh tworzą zespół Dirt Dogs.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="viasat-explore-hd" start="20200213235000 +0000" stop="20200214004500 +0000">
@@ -9059,11 +7934,6 @@
 		<desc lang="pl">Tym razem panowie zanurzają się w świat technologii; spróbujemy także pobić naukowców w ich własnej grze, wykorzystując tak zwany vortex cannon, czyli urządzenie strzelające wirującym powietrzem. Pirotechnik, chemik i inżynier Mike Sansom z pomocą królików doświadczalnych, Marcusa Bonzy'ego i Stephena Granta, prezentuje najlepsze, najgorsze i najdziwniejsze triki stosowane w codziennym życiu!</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="viasat-history-hd" start="20200213220000 +0000" stop="20200213231500 +0000">
-		<title lang="pl">Historia chrześcijaństwa (odc. 3)</title>
-		<desc lang="pl">Jak to się stało, że niewielka żydowska sekta przekształciła się w największą religię świata? Serial bada mało znane korzenie chrześcijaństwa i powody dla których ta religia rozprzestrzeniła się na teren Azji, Europy, Afryki oraz obu Ameryk. Wszystkie odłamy chrześcijaństwa dzielą wspólne podstawy, ale jakie one są? Co łączy i co dzieli te odłamy i jak to jest być katolikiem, prawosławnym, protestantem czy zielonoświątkowcem?</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="viasat-history-hd" start="20200213231500 +0000" stop="20200214003500 +0000">
 		<title lang="pl">Historia chrześcijaństwa (odc. 6)</title>
 		<desc lang="pl">Jak to się stało, że niewielka żydowska sekta przekształciła się w największą religię świata? Serial bada mało znane korzenie chrześcijaństwa i powody dla których ta religia rozprzestrzeniła się na teren Azji, Europy, Afryki oraz obu Ameryk. Wszystkie odłamy chrześcijaństwa dzielą wspólne podstawy, ale jakie one są? Co łączy i co dzieli te odłamy i jak to jest być katolikiem, prawosławnym, protestantem czy zielonoświątkowcem?</desc>
@@ -9102,11 +7972,6 @@
 	<programme channel="viasat-history-hd" start="20200214053500 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Odlotowe wynalazki 2 (odc. 27)</title>
 		<desc lang="pl">Serial popularno-naukowy o niezwykłej genezie niektórych z najbardziej popularnych rzeczy powszechnego użytku. Historie źródeł ich powstania, często na użytek działań wojennych lub badawczych, które po latach znalazły zupełnie inne zastosowanie. Z wyścigu mocarstw do zdominowania się nawzajem, wygrywania wojen i podbijania kosmosu narodziły się wynalazki, które odmieniły życie nas wszystkich.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="viasat-nature" start="20200213220500 +0000" stop="20200213230500 +0000">
-		<title lang="pl">Supervet - na pomoc zwierzakom 6 (odc. 4)</title>
-		<desc lang="pl">Klinika Fitzpatrick Refferals, to miejsce, gdzie przekracza się granice zwykłej weterynarii pozwalając zwierzętom odzyskać normalne funkcjonowanie i dawną jakość życia. Weterynarz Noel Fitzpatrick i jego 100-osobowy zespół pielęgniarzy, fizjoterapeutów i hydroterapeutów, dysponując wieloma salami operacyjnymi, basenem rehabilitacyjnym i odziałem radiologicznym, leczą najtrudniejsze przypadki chor</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="viasat-nature" start="20200213230500 +0000" stop="20200214001000 +0000">
@@ -9179,11 +8044,6 @@
 		<desc lang="pl">Coś dla &quot;nocnych marków&quot; czyli najlepsze nocne brzmienia.</desc>
 		<category lang="pl">all</category>
 	</programme>
-	<programme channel="vox-music-tv" start="20200213200000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">VOX Dance Impreza</title>
-		<desc lang="pl">Najlepsza impreza w rytmie hitów.</desc>
-		<category lang="pl">all</category>
-	</programme>
 	<programme channel="vox-music-tv" start="20200214000000 +0000" stop="20200214020000 +0000">
 		<title lang="pl">Hit karaoke</title>
 		<desc lang="pl">Wspólne śpiewanie największych hitów VOX Music TV</desc>
@@ -9192,11 +8052,6 @@
 	<programme channel="vox-music-tv" start="20200214020000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">W rytmie nocy</title>
 		<desc lang="pl">Największe Hity VOX Music TV.</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="wp" start="20200213230000 +0000" stop="20200214000000 +0000">
-		<title lang="pl">Mistrzowie kabaretu 4 (odc. 5)</title>
-		<desc lang="pl">Czwarta odsłona uwielbianego przez widzów programu &quot;&quot;Mistrzowie Kabaretu&quot;&quot;. Tym razem w Teatrze Capitol wystąpili: Artur Andrus, Kabaret Jurki, Formacja Chatelet i Łowcy B.</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="wp" start="20200214000000 +0000" stop="20200214010000 +0000">
@@ -9222,11 +8077,6 @@
 	<programme channel="wp" start="20200214050000 +0000" stop="20200214060000 +0000">
 		<title lang="pl">Mistrzowie kabaretu 8 (odc. 3)</title>
 		<desc lang="pl">Kolejna odsłona znanego i lubianego kabaretowego cyklu Telewizji WP. W tej odsłonie wystąpią m.in.: Jurki, Smile, Czesuaf oraz znany z Kabaretu Ani Mru Mru Michał Wójcik. Zapraszamy do oglądania!</desc>
-		<category lang="pl">all</category>
-	</programme>
-	<programme channel="zoom-tv" start="20200213221000 +0000" stop="20200213231000 +0000">
-		<title lang="pl">Rekiny kabaretu (odc. 10)</title>
-		<desc lang="pl">Najlepsi z najlepszych w fenomenalnej formie, czyli prawdziwe Rekiny Kabaretu. Nowy sezon skeczy przygotowanych przez pierwszoligowych, polskich kabareciarzy. Błyskotliwe dialogi, ultrakomiczne żarty, dowcipy ostre jak brzytwa. W tym sezonie spece od anegdot nie będą brać jeńców. Będą za to bawić do</desc>
 		<category lang="pl">all</category>
 	</programme>
 	<programme channel="zoom-tv" start="20200213231000 +0000" stop="20200214000500 +0000">
